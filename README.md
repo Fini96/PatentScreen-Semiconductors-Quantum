@@ -3,6 +3,17 @@ AI supported Patent and emerging technologies Analysis
 
 ---
 
+## Studies in this repository
+
+| Study | Dashboard | Report | Folder |
+|---|---|---|---|
+| CNIPA & TIPO (China, Taiwan): 99,546 applications | [Open](https://fini96.github.io/PatentScreen-Semiconductors-Quantum/) | [PDF](report/CN-TW-semiconductor-quantum-patents-2024-2026.pdf) · [Markdown](report/CN-TW-semiconductor-quantum-patents-2024-2026.md) | `/` (root) |
+| EPO & European national offices (non-PCT): 8,062 applications | [Open](https://fini96.github.io/PatentScreen-Semiconductors-Quantum/ep/) | [PDF](ep/report/EP-semiconductor-quantum-patents-2024-2026.pdf) · [Markdown](ep/report/EP-semiconductor-quantum-patents-2024-2026.md) | [`ep/`](ep/) |
+
+Both dashboards use the same front end (map, colours, legend, filters, charts) and the same `applicant_locations.json` schema. The datasets are separate, and the technology taxonomies differ (65 categories in 12 groups for CN/TW, 61 in 7 groups for EP), so technology results are only comparable through a mapping.
+
+---
+
 ## Semiconductor Patent Atlas · CNIPA & TIPO
 
 Interactive map and analytics dashboard of **99,546 semiconductor and quantum-technology patent applications** first published at CNIPA (China) and TIPO (Taiwan) between 1 Nov 2024 and the data cut-off (latest publication: CN 8 Sep 2026, TW 21 Jun 2026), with **verified applicant locations**.

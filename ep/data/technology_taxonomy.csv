@@ -1,0 +1,68 @@
+category_id,group_id,group,category_en
+T01,tran,Transistors & device structures,GAA / nanosheet / nanowire FET
+T02,tran,Transistors & device structures,CFET (stacked complementary FET)
+T03,tran,Transistors & device structures,FinFET
+T04,tran,Transistors & device structures,HEMT (GaN / III-V)
+T05,tran,Transistors & device structures,"Power MOSFET (trench, VDMOS, LDMOS, superjunction)"
+T06,tran,Transistors & device structures,IGBT
+T07,tran,Transistors & device structures,Power and Schottky diodes
+T08,tran,Transistors & device structures,"Thin-film transistors (display, oxide TFT)"
+T09,tran,Transistors & device structures,Ferroelectric FET (FeFET)
+T10,tran,Transistors & device structures,Bipolar transistors / HBT
+T11,tran,Transistors & device structures,2D-material and carbon-nanotube FETs
+T12,tran,Transistors & device structures,ESD and protection structures
+T13,tran,Transistors & device structures,"Integrated passives (capacitors, resistors, inductors)"
+T14,tran,Transistors & device structures,SOI / engineered substrates
+T15,tran,Transistors & device structures,CMOS / logic device integration (general)
+X01,mat,Semiconductor materials,Silicon carbide (SiC)
+X02,mat,Semiconductor materials,Gallium nitride / III-nitrides
+X03,mat,Semiconductor materials,Gallium oxide (Ga2O3)
+X04,mat,Semiconductor materials,Diamond
+X05,mat,Semiconductor materials,"2D materials (graphene, TMDs)"
+X06,mat,Semiconductor materials,Oxide semiconductors (IGZO etc.)
+X07,mat,Semiconductor materials,SiGe / Ge
+M01,mem,Memory devices,3D NAND / flash
+M02,mem,Memory devices,DRAM
+M03,mem,Memory devices,SRAM
+M04,mem,Memory devices,MRAM
+M05,mem,Memory devices,ReRAM / phase-change memory
+M06,mem,Memory devices,FeRAM
+M07,mem,Memory devices,"Memory assemblies (HBM, memory–logic stacks)"
+I01,pkg,Chip integration & packaging,Hybrid / direct bonding
+I02,pkg,Chip integration & packaging,3D chip stacking and TSV
+I03,pkg,Chip integration & packaging,"2.5D, chiplets, interposers and RDL"
+I04,pkg,Chip integration & packaging,Fan-out and wafer/panel-level packaging
+I05,pkg,Chip integration & packaging,Glass and ceramic package substrates
+I06,pkg,Chip integration & packaging,Backside power delivery
+I07,pkg,Chip integration & packaging,BEOL / on-chip interconnects
+I08,pkg,Chip integration & packaging,Monolithic 3D integration
+I09,pkg,Chip integration & packaging,Power module and discrete packaging
+I10,pkg,Chip integration & packaging,Thermal management
+I11,pkg,Chip integration & packaging,Encapsulation and device protection
+I12,pkg,Chip integration & packaging,RF / impedance matching in packages
+D01,eda,IC design / EDA,IC layout and physical design (EDA)
+D02,eda,IC design / EDA,Standard-cell / device layout and routing
+Q01,qc,Quantum technologies,Superconducting qubits / Josephson devices
+Q02,qc,Quantum technologies,Semiconductor spin qubits / quantum dots
+Q03,qc,Quantum technologies,Trapped-ion qubits
+Q04,qc,Quantum technologies,Neutral-atom qubits
+Q05,qc,Quantum technologies,Photonic quantum computing
+Q06,qc,Quantum technologies,Topological / Majorana qubits
+Q07,qc,Quantum technologies,Quantum processor architecture and qubit control
+Q08,qc,Quantum technologies,Quantum error correction
+Q09,qc,Quantum technologies,Quantum algorithms and software
+P01,proc,Fabrication processes & equipment,Wafer handling and fab equipment
+P02,proc,Fabrication processes & equipment,Deposition and layer formation (incl. epitaxy)
+P03,proc,Fabrication processes & equipment,Etching
+P04,proc,Fabrication processes & equipment,Lithography and masks
+P05,proc,Fabrication processes & equipment,In-line testing and metrology
+P06,proc,Fabrication processes & equipment,"CMP, grinding, cutting and dicing"
+P07,proc,Fabrication processes & equipment,"Doping (implantation, diffusion, irradiation)"
+P08,proc,Fabrication processes & equipment,Wafer cleaning
+P09,proc,Fabrication processes & equipment,Wafer preparation and other processes
+O_tran,tran,Transistors & device structures,Other transistor / device filings (no sub-category)
+O_mem,mem,Memory devices,Other memory filings (no sub-category)
+O_pkg,pkg,Chip integration & packaging,Other integration & packaging filings (no sub-category)
+O_eda,eda,IC design / EDA,Other design filings (no sub-category)
+O_qc,qc,Quantum technologies,Other quantum filings (no sub-category)
+O_proc,proc,Fabrication processes & equipment,Other process filings (no sub-category)

@@ -1,0 +1,500 @@
+applicant_id,harmonised_name,original_name,applicant_type,country,location_precision,state_province,applications,notes
+873,Heraeus Electronics,HERAEUS ELECTRONICS GMBH & CO KG,company,DE,country,,22,No town-level source found for the applicant names in this group.
+750,Adeia Semiconductor Bonding Technologies Inc,,company,US,country,,18,No town-level source found for the applicant names in this group.
+74,Brooks Automation Germany Gmbh,,company,DE,country,,13,No town-level source found for the applicant names in this group.
+151,Mirise Technologies Corporation,,company,JP,region,Aichi Prefecture,9,No town-level source found for the applicant names in this group.
+615,Suss Microtec Solutions Gmbh & Co Kg,,company,DE,country,,8,No town-level source found for the applicant names in this group.
+592,Sk Enpulse Co Ltd,,company,KR,country,,7,No town-level source found for the applicant names in this group.
+616,Suzhou Watech Electronics Co Ltd,,company,CN,country,,6,No town-level source found for the applicant names in this group.
+618,Swaysure Tech Co Ltd,,company,CN,country,,6,No town-level source found for the applicant names in this group.
+20,Inria Inst Nat Rech Informatique & Automatique,,research institute,FR,country,,5,No town-level source found for the applicant names in this group.
+113,Chongqing Innoevsic Tech Co Ltd,,company,CN,country,,5,No town-level source found for the applicant names in this group.
+235,Gen Electric,,other/unknown,US,country,,5,No town-level source found for the applicant names in this group.
+254,Guangzhou China Star Optoelectronics Semiconductor Display Tech Co Ltd,,company,CN,country,,5,No town-level source found for the applicant names in this group.
+289,Hpsp Co Ltd,,company,KR,country,,5,No town-level source found for the applicant names in this group.
+313,X Fab Global Services Gmbh,,company,DE,country,,5,No town-level source found for the applicant names in this group.
+431,Nexwafe Gmbh,,company,DE,country,,5,No town-level source found for the applicant names in this group.
+450,Orca Computing Ltd,,company,GB,country,,5,No town-level source found for the applicant names in this group.
+484,Pragmatic Semiconductor Ltd,,company,,unknown,,5,No town-level source found for the applicant names in this group.
+571,Semiqon Tech Oy,,company,FI,country,,5,No town-level source found for the applicant names in this group.
+573,Shenzhen China Star Optoelectronics Semiconductor Display Tech Co Ltd,,company,CN,country,,5,No town-level source found for the applicant names in this group.
+672,Ultraband Tech Inc,,company,TW,country,,5,No town-level source found for the applicant names in this group.
+869,Hangzhou Zhicun Witmem Tech Co Ltd,,company,CN,country,,5,No town-level source found for the applicant names in this group.
+896,Innoscience Suzhou Technology Holding Co Ltd,,company,CN,country,,5,No town-level source found for the applicant names in this group.
+129,Connaught Electronics Ltd,,company,IE,region,County Galway,4,No town-level source found for the applicant names in this group.
+259,Gebr Schmid Gmbh,,company,DE,country,,4,No town-level source found for the applicant names in this group.
+271,Helmholtz Zentrum Berlin Fuer Mat Und Energie Gesellschaft Mit Beschraenkter Haftung,,research institute,DE,country,,4,No town-level source found for the applicant names in this group.
+302,Ideal Power Inc,,company,US,country,,4,No town-level source found for the applicant names in this group.
+341,Jenoptik Optical Sys Gmbh,,company,DE,country,,4,No town-level source found for the applicant names in this group.
+364,Kyocera Tech Oy,,company,FI,country,,4,No town-level source found for the applicant names in this group.
+456,Oxford Quantum Circuits Ltd,,company,GB,country,,4,No town-level source found for the applicant names in this group.
+457,Pac Tech Packaging Tech Gmbh,,company,DE,country,,4,No town-level source found for the applicant names in this group.
+460,Paragraf Ltd,,company,GB,country,,4,No town-level source found for the applicant names in this group.
+565,Search For The Next Ltd,,company,GB,country,,4,No town-level source found for the applicant names in this group.
+749,Actron Tech Corp,,company,TW,country,,4,No town-level source found for the applicant names in this group.
+793,Borgwarner Us Tech Llc,,company,US,country,,4,No town-level source found for the applicant names in this group.
+849,Erwin Quarder Systemtechnik Gmbh,,company,DE,country,,4,No town-level source found for the applicant names in this group.
+881,HUANG TSUNG HSIEN,,private inventor,TW,country,,4,Private individual: country level only; no address searched or used.
+902,Invent And Collaboration Laboratory Inc,,research institute,TW,country,,4,No town-level source found for the applicant names in this group.
+966,Nd Hi Tech Lab Inc,,company,TW,country,,4,No town-level source found for the applicant names in this group.
+1036,Skyworks Solutions Inc,,company,US,country,,4,No town-level source found for the applicant names in this group.
+1,3sun S R L,,company,IT,country,,3,No town-level source found for the applicant names in this group.
+24,Alpsemi,,other/unknown,FR,country,,3,No town-level source found for the applicant names in this group.
+91,Cambridge Entpr Ltd,,company,GB,country,,3,No town-level source found for the applicant names in this group.
+126,Weebit Nano Ltd,,company,IL,country,,3,No town-level source found for the applicant names in this group.
+130,Consejo Superior Investigacion,,research institute,ES,country,,3,No town-level source found for the applicant names in this group.
+202,Firat Ueniversitesi Rektoerluegue,,university,TR,country,,3,No town-level source found for the applicant names in this group.
+243,Gigadevice Semiconductor Inc,,company,CN,country,,3,No town-level source found for the applicant names in this group.
+276,Hewlett Packard Entpr Dev Lp,,company,US,country,,3,No town-level source found for the applicant names in this group.
+283,Hon Young Semiconductor Corp,,company,TW,country,,3,No town-level source found for the applicant names in this group.
+292,Hsbc Group Man Services Limited,,company,GB,country,,3,No town-level source found for the applicant names in this group.
+300,Ideaded S L,,company,ES,country,,3,No town-level source found for the applicant names in this group.
+360,Korea Inst Sci & Tech Inf,,research institute,KR,country,,3,No town-level source found for the applicant names in this group.
+419,Mu Tech Prec Co Ltd,,company,TW,country,,3,No town-level source found for the applicant names in this group.
+471,Phys Technische Bundesanstalt Braunschweig Und Berlin,,research institute,DE,country,,3,No town-level source found for the applicant names in this group.
+482,Potens Semiconductor Corp,,company,TW,country,,3,No town-level source found for the applicant names in this group.
+486,Proasia Semiconductor Corp,,company,TW,country,,3,No town-level source found for the applicant names in this group.
+496,Qcentroid Labs S L,,company,ES,country,,3,No town-level source found for the applicant names in this group.
+555,Sanwa Eng Corp,,company,TW,country,,3,No town-level source found for the applicant names in this group.
+578,Siec Badawcza Lukasiewicz Inst Mikroelektroniki I Fotoniki,,research institute,PL,country,,3,No town-level source found for the applicant names in this group.
+597,Diamfab,,other/unknown,FR,country,,3,No town-level source found for the applicant names in this group.
+699,Univ Oxford Innovation Ltd,,university,,unknown,,3,No town-level source found for the applicant names in this group.
+719,Wacqt Ip Ab,,company,SE,country,,3,No town-level source found for the applicant names in this group.
+799,Centre Nat Etd Spatiales,,research institute,FR,country,,3,No town-level source found for the applicant names in this group.
+819,Corintis Sa,,company,CH,country,,3,No town-level source found for the applicant names in this group.
+924,Ligentec Sa,,company,CH,country,,3,No town-level source found for the applicant names in this group.
+1089,Vensum Power Oy,,company,FI,country,,3,No town-level source found for the applicant names in this group.
+1101,Wavepia Co Ltd,,company,KR,country,,3,No town-level source found for the applicant names in this group.
+14,Ecole Normale Superieure,,university,FR,country,,2,No town-level source found for the applicant names in this group.
+17,Association Pour La Rech Et Le Developpement De Methodes Et Processus Industriels,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+34,Apple Inc,,company,US,country,,2,No town-level source found for the applicant names in this group.
+45,Asys Automatisierungssysteme Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+61,Beijing Zitiao Network Technology Co Ltd,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+89,C Click,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+103,Centrale Lille Inst,,research institute,FR,country,,2,No town-level source found for the applicant names in this group.
+105,Univ Dartois,,university,FR,country,,2,No town-level source found for the applicant names in this group.
+106,Hileores,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+124,Quobly,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+142,Daon Tech,,other/unknown,IM,country,,2,No town-level source found for the applicant names in this group.
+145,Delft Circuits B V,,company,NL,country,,2,No town-level source found for the applicant names in this group.
+173,Ebica,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+175,Ecole Polytechnique Fed Lausanne Epfl,,university,CH,country,,2,No town-level source found for the applicant names in this group.
+178,Edwards Vacuum Llc,,company,,unknown,,2,No town-level source found for the applicant names in this group.
+181,Element 3 5 Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+187,Epicrew Corp,,company,JP,country,,2,No town-level source found for the applicant names in this group.
+190,Eraytroniks Co Ltd,,company,TW,country,,2,No town-level source found for the applicant names in this group.
+196,Faes B V,,company,NL,country,,2,No town-level source found for the applicant names in this group.
+201,Finwave Semiconductor Inc,,company,US,country,,2,No town-level source found for the applicant names in this group.
+215,Trumpf Laser Se,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+218,Friedrich Alexander Univ Erlangen Nuernberg In Vertretung Des Freistaates Bayern,,university,DE,country,,2,No town-level source found for the applicant names in this group.
+222,Fujifilm Electronic Mat Usa Inc,,company,US,country,,2,No town-level source found for the applicant names in this group.
+228,Fundacion Tecnalia Res & Innovation,,research institute,ES,country,,2,No town-level source found for the applicant names in this group.
+229,Gaiotto Automation S P A,,company,IT,country,,2,No town-level source found for the applicant names in this group.
+232,Ge Aviat Systems Ltd,,company,GB,country,,2,No town-level source found for the applicant names in this group.
+238,Rheinisch Westfaelische Technische Hochschule Aachen Koerperschaft Des Oeffentlichen Rechts,,university,DE,country,,2,No town-level source found for the applicant names in this group.
+241,Gigadevice Semiconductor Hefei Inc,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+242,Gigadevice Semiconductor Xian Inc,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+269,Visionox Tech Inc,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+296,Hunan Sanan Semiconductor Co Ltd,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+338,Istituto Naz Fisica Nucleare,,research institute,IT,country,,2,No town-level source found for the applicant names in this group.
+348,Kbr Wyle Services Llc,,company,,unknown,,2,No town-level source found for the applicant names in this group.
+359,Korea Inst Of Fusion Energy,,research institute,KR,country,,2,No town-level source found for the applicant names in this group.
+362,Kromberg & Schubert Automotive Gmbh & Co Kg,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+372,Leibniz Institut Fuer Photonische Tech E V Engl Leibniz Institute Of Photonic Tech,,research institute,DE,country,,2,No town-level source found for the applicant names in this group.
+375,LEVAILLANT CLAIRE,,private inventor,FR,country,,2,Private individual: country level only; no address searched or used.
+382,Lomare Tech Limited,,company,GB,country,,2,No town-level source found for the applicant names in this group.
+383,Lomare Chip Tech Changzhou Co Ltd,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+386,Luceda Nv,,company,BE,country,,2,No town-level source found for the applicant names in this group.
+390,Machsync Co Ltd,,company,TW,country,,2,No town-level source found for the applicant names in this group.
+393,Magnescale Co Ltd,,company,JP,country,,2,No town-level source found for the applicant names in this group.
+412,Minebea Power Semiconductor Device Inc,,company,JP,country,,2,No town-level source found for the applicant names in this group.
+428,NEUMANN ULRICH,,private inventor,DE,country,,2,Private individual: country level only; no address searched or used.
+432,Nidec Instruments Corp,,company,JP,region,Nagano Prefecture,2,No town-level source found for the applicant names in this group.
+449,Orange Quantum Systems Holding B V,,company,NL,country,,2,No town-level source found for the applicant names in this group.
+453,Oxford Instruments Nanotechnology Tools Ltd,,company,,unknown,,2,No town-level source found for the applicant names in this group.
+470,Phys Instrumente Pi Se & Co Kg,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+478,Polyteknik As,,company,DK,country,,2,No town-level source found for the applicant names in this group.
+498,Qmill Oy,,company,FI,country,,2,No town-level source found for the applicant names in this group.
+513,Qudora Tech Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+516,Quix Quantum Bv,,company,NL,country,,2,No town-level source found for the applicant names in this group.
+531,Rheinland Pfaelzische Technische Univ Kaiserslautern Landau Koerperschaft Des Oeffentlichen Rechts,,university,DE,country,,2,No town-level source found for the applicant names in this group.
+539,Rivian Ip Holdings Llc,,company,US,country,,2,No town-level source found for the applicant names in this group.
+541,Rotonium S R L,,company,IT,country,,2,No town-level source found for the applicant names in this group.
+548,Iucf Hyu,,other/unknown,KR,country,,2,No town-level source found for the applicant names in this group.
+551,Univ Colorado Regents,,university,US,country,,2,No town-level source found for the applicant names in this group.
+560,Schneider Electric China Co Ltd,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+572,Semsysco Gmbh,,company,AT,country,,2,No town-level source found for the applicant names in this group.
+605,Ssp Inc,,company,KR,region,Tokyo,2,No town-level source found for the applicant names in this group.
+608,Standard Chartered Bank Singapore Branch,,other/unknown,,unknown,,2,No town-level source found for the applicant names in this group.
+617,Swatch Group Res & Dev Ltd,,company,CH,country,,2,No town-level source found for the applicant names in this group.
+633,Tsmc Arizona Corp,,company,US,country,,2,No town-level source found for the applicant names in this group.
+642,Tdk Micronas Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+655,Thyssenkrupp Automation Eng Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+656,Tianma Advanced Display Tech Institute Xiamen Co Ltd,,research institute,CN,country,,2,No town-level source found for the applicant names in this group.
+670,Ucl Business Ltd,,company,,unknown,,2,No town-level source found for the applicant names in this group.
+676,Unity Semiconductor,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+689,Oesterreichische Akademie Der Wss,,research institute,AT,country,,2,No town-level source found for the applicant names in this group.
+692,Univ Ulsan Found Ind Coop,,university,KR,country,,2,No town-level source found for the applicant names in this group.
+703,Hefei Nat Laboratory,,research institute,CN,country,,2,No town-level source found for the applicant names in this group.
+727,Wistron Neweb Corp,,company,TW,country,,2,No town-level source found for the applicant names in this group.
+730,Wormsensing,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+738,Yiyaniq Inc,,company,CA,country,,2,No town-level source found for the applicant names in this group.
+756,ALEKSEI ALEKSANDROVICH PODUVALTSEV,,private inventor,RU,country,,2,Private individual: country level only; no address searched or used.
+773,Asmpt Gmbh & Co Kg,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+784,Aptiv Technologies Ag,,company,CH,country,,2,No town-level source found for the applicant names in this group.
+788,Beijing X Ring Tech Co Ltd,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+813,Continental Automotive Tech Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+814,Continental Autonomous Mobility Germany Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+842,Eagle Tech Llc,,company,US,country,,2,No town-level source found for the applicant names in this group.
+877,Hl Mando Corp,,company,KR,country,,2,No town-level source found for the applicant names in this group.
+891,Incize,,other/unknown,BE,country,,2,No town-level source found for the applicant names in this group.
+901,Integense Microelectronics Inc,,company,US,country,,2,No town-level source found for the applicant names in this group.
+928,Fj Composite Mat Co Ltd,,company,JP,country,,2,No town-level source found for the applicant names in this group.
+961,Nanomation Ltd,,company,,unknown,,2,No town-level source found for the applicant names in this group.
+962,Nanowired Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+963,Nat Univ Gyeongsang Iacf,,university,KR,country,,2,No town-level source found for the applicant names in this group.
+984,Panjit Electronics Wuxi Co Ltd,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+988,Presto Eng Group,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+990,Association De Prefiguration Inst Lafayette,,research institute,FR,country,,2,No town-level source found for the applicant names in this group.
+1041,Institut Nat Des Sciences Appliquees Centre Val De Loire,,research institute,FR,country,,2,No town-level source found for the applicant names in this group.
+1049,Sureway Tech Co Ltd,,company,TW,country,,2,No town-level source found for the applicant names in this group.
+1059,Terasi Ab,,company,SE,country,,2,No town-level source found for the applicant names in this group.
+1062,United Monolithic Semiconductors Ums,,other/unknown,FR,country,,2,No town-level source found for the applicant names in this group.
+1068,Tmy Technology Inc,,company,TW,country,,2,No town-level source found for the applicant names in this group.
+1069,Stichting Chip Integration Tech Center,,other/unknown,NL,country,,2,No town-level source found for the applicant names in this group.
+1071,Top Rank Tech Limited,,company,WS,country,,2,No town-level source found for the applicant names in this group.
+1100,Valeo Eautomotive Germany,,other/unknown,DE,country,,2,No town-level source found for the applicant names in this group.
+1106,Wuerth Elektronik Eisos Gmbh & Co Kg,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+1111,Yageo Nexensos Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+1113,Yazaki Systems Tech Gmbh,,company,DE,country,,2,No town-level source found for the applicant names in this group.
+1118,Zhuzhou Crrc Times Semiconductor Co Ltd,,company,CN,country,,2,No town-level source found for the applicant names in this group.
+1120,Zutacore Ltd,,company,IL,country,,2,No town-level source found for the applicant names in this group.
+1121,EADELSON NAHSHON,,private inventor,IL,country,,2,Private individual: country level only; no address searched or used.
+0,3m Innovative Properties Company,,company,US,country,,1,No town-level source found for the applicant names in this group.
+3,Adeia Semiconductor Solutions Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+8,Aixtron Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+22,Allos Semiconductors Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+31,Anaflash Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+33,Andrae Juergen,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+37,Applied Nanolayers B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+44,Asociacion Centro De Investig Cooperativa En Nanociencias Cic Nanogune,,research institute,ES,country,,1,No town-level source found for the applicant names in this group.
+47,Att Advanced Temperature Test Systems Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+52,Akhetonics Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+53,B2d Holding Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+54,GRADY ELDAD,,private inventor,DE,country,,1,Private individual: country level only; no address searched or used.
+56,BALATSKY ALEXANDER,,private inventor,SE,country,,1,Private individual: country level only; no address searched or used.
+59,Beijing Suntag Intelligent Equipment Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+60,Beijing Youzhuju Network Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+63,Bennemann Felix,,other/unknown,,unknown,,1,No town-level source found for the applicant names in this group.
+64,BERGMANN CHRISTOPH,,private inventor,DE,country,,1,Private individual: country level only; no address searched or used.
+66,Bilkent Ueniversitesi Ulusal Nanoteknoloji Arastirma Merkezi,,university,TR,country,,1,No town-level source found for the applicant names in this group.
+67,Blackleaf,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+70,Hefei Boe Joint Tech Co Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+73,Brillian Network & Automation Integrated System Co Ltd,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+75,Brooks Automation Us Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+79,Btq Ag,,company,LI,country,,1,No town-level source found for the applicant names in this group.
+92,Anvil Semiconductors Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+99,Centre De Coop Technique Et Pedagogique Asbl,,other/unknown,BE,country,,1,No town-level source found for the applicant names in this group.
+107,Centro Brasileiro De Pesquisas Fisicas Cbpf,,research institute,BR,country,,1,No town-level source found for the applicant names in this group.
+109,Centrum Badan I Rozwoju Tech Dla Przemyslu Spolka Akcyjna,,research institute,PL,country,,1,No town-level source found for the applicant names in this group.
+110,Centrum Fizyki Teoretycznej Pan,,research institute,PL,country,,1,No town-level source found for the applicant names in this group.
+111,Chipmetrics Oy,,company,FI,country,,1,No town-level source found for the applicant names in this group.
+115,CHRISTIAN TALON,,private inventor,CH,country,,1,Private individual: country level only; no address searched or used.
+117,Cis Forschungsinstitut Fuer Mikrosensorik Gmbh,,research institute,DE,country,,1,No town-level source found for the applicant names in this group.
+118,Colibritd,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+128,Comptek Solutions Oy,,company,FI,country,,1,No town-level source found for the applicant names in this group.
+134,Stlab S R L,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+135,Convanit Gmbh & Co Kg,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+137,Corenergy Semiconductor Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+139,Cyborn Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+147,Demirkiran Oezcan,,other/unknown,TR,country,,1,No town-level source found for the applicant names in this group.
+149,Denpaflux Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+156,Campusgenius Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+158,Deuvtek Co Ltd,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+159,Diebold Nixdorf Systems Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+164,Duksan Neolux Co Ltd,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+166,Diatope Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+167,E Convert Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+172,Is Eng Co Ltd,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+176,Edwards Tech Trading Shanghai Company Limited,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+177,Edwards Technologies Trading Shanghai Co Limited,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+179,Electron Group B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+182,Element Six Tech Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+185,Enea Agenzia Naz Per Le Nuove Tecnologie Lenergia E Lo Sviluppo Economico Sostenibile,,research institute,IT,country,,1,No town-level source found for the applicant names in this group.
+188,I Labo Corp,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+191,Hsieh E Ray,,other/unknown,,unknown,,1,No town-level source found for the applicant names in this group.
+192,Ernst Abbe Hochschule Jena Koerperschaft Des Oeffentlichen Rechts,,university,DE,country,,1,No town-level source found for the applicant names in this group.
+193,Ers Electronic Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+206,Fonontech Holding B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+216,Freiberger Compound Mat Gesellschaft Mit Beschraenkter Haftung,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+221,Fujifilm Electronic Mat Europe N V,,company,BE,country,,1,No town-level source found for the applicant names in this group.
+230,Gauss Labs Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+231,Gdm Holding Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+234,Gelest Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+237,Ges Fuer Angewandte Mikro Und Optoelektronik Mit Beschraenkter Haftung Amo Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+252,Gsec German Semiconductor Equipment Co Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+253,Gsec German Semiconductor Equipment Company Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+256,GUSTKE PHIL,,private inventor,DE,country,,1,Private individual: country level only; no address searched or used.
+257,RUDER JANNES,,private inventor,DE,country,,1,Private individual: country level only; no address searched or used.
+258,Schoeneberg Philipp,,other/unknown,DE,country,,1,No town-level source found for the applicant names in this group.
+260,H P B Optoelectronics Co Ltd,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+261,Hangzhou Fujia Gallium Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+268,Hefei Visionox Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+272,Helmholtz Zentrum Berlin Fuer Mat Und Energie Gmbh,,research institute,DE,country,,1,No town-level source found for the applicant names in this group.
+277,Hirata Spinning,,other/unknown,JP,country,,1,No town-level source found for the applicant names in this group.
+290,Hq Dielectrics Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+291,Hqs Quantum Simulations Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+293,Hsbc Tech And Services Usa Inc,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+294,Huaneng New Energy Co Ltd Shaanxi Branch,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+305,Iii V Tech Gmbh,,company,AT,country,,1,No town-level source found for the applicant names in this group.
+312,Imms Inst Fuer Mikroelektronik Und Mechatronik Systeme Gemeinnuetzige Gmbh Imms Gmbh,,research institute,DE,country,,1,No town-level source found for the applicant names in this group.
+314,Impedans Ltd,,company,IE,country,,1,No town-level source found for the applicant names in this group.
+316,Inbrain Neuroelectronics Sl,,company,ES,country,,1,No town-level source found for the applicant names in this group.
+318,Infinite Potential Laboratories Lp,,company,CA,country,,1,No town-level source found for the applicant names in this group.
+321,Inphocal B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+322,Inst Doptique Theorique Et Appliquee,,research institute,FR,country,,1,No town-level source found for the applicant names in this group.
+326,Institut National De Rech En Informatique Et En Automatique,,research institute,FR,country,,1,No town-level source found for the applicant names in this group.
+327,Institut National De Rech En Informatique Et En Automatique Inria,,research institute,FR,country,,1,No town-level source found for the applicant names in this group.
+331,Intrinsic Semiconductor Tech Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+333,Ionq Quantum Canada Inc,,company,CA,country,,1,No town-level source found for the applicant names in this group.
+337,Ist Austria Institute Of Science And Tech Austria,,research institute,AT,country,,1,No town-level source found for the applicant names in this group.
+342,JESORKA ALDO,,private inventor,SE,country,,1,Private individual: country level only; no address searched or used.
+343,Liu Riu,,other/unknown,SE,country,,1,No town-level source found for the applicant names in this group.
+344,Pedrueza Villalmanzo Esteban,,other/unknown,SE,country,,1,No town-level source found for the applicant names in this group.
+345,Jondetech Sensors Ab Publ,,company,SE,country,,1,No town-level source found for the applicant names in this group.
+346,Jsw Afty Corp,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+349,KIM JUN SUNG,,private inventor,KR,country,,1,Private individual: country level only; no address searched or used.
+363,Kubos Semiconductors Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+365,L P E S P A,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+366,Lam Res Ag,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+371,Leibniz Inst Fuer Festkoerper Und Werkstoffforschung Dresden E V Ifw Dresden E V,,research institute,DE,country,,1,No town-level source found for the applicant names in this group.
+374,Leuven Air Bearings N V,,company,BE,country,,1,No town-level source found for the applicant names in this group.
+378,LITVINENKO ARTEM,,private inventor,SE,country,,1,Private individual: country level only; no address searched or used.
+379,Aakerman Johan,,other/unknown,SE,country,,1,No town-level source found for the applicant names in this group.
+380,KHYMYN ROMAN,,private inventor,SE,country,,1,Private individual: country level only; no address searched or used.
+381,LOEW THORSTEN,,private inventor,DE,country,,1,Private individual: country level only; no address searched or used.
+384,Louder Than Liftoff Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+387,Lumai Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+389,Lfoundry Srl,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+396,Ludwig Maximilians Univ Muenchen In Vertretung Des Freistaates Bayern,,university,DE,country,,1,No town-level source found for the applicant names in this group.
+398,Mb Automation Gmbh & Co Kg,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+400,Mediso Medical Imaging Systems Kft,,company,HU,country,,1,No town-level source found for the applicant names in this group.
+404,Metryx Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+416,Moonlight Ai Sarl,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+420,Muehlbauer Tech Wuxi Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+421,Multiverse Computing Inc,,company,CA,country,,1,No town-level source found for the applicant names in this group.
+423,Murr Elektronik Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+424,Nanoco Technologies Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+433,Nio Technology Anhui Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+434,Nissin Electric Co Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+435,Nitto Advanced Film Gronau,,other/unknown,DE,country,,1,No town-level source found for the applicant names in this group.
+437,Nkt Photonics As,,company,DK,country,,1,No town-level source found for the applicant names in this group.
+438,Nokia Networks France,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+440,Nova Measuring Instr Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+445,Nordamps Ab,,company,SE,country,,1,No town-level source found for the applicant names in this group.
+451,Osiris Int Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+454,Oxford Ionics Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+455,Oxford Nanoscience Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+459,Parabellum Strategic Opportunities Fund Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+461,Parcis Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+462,Patentix Inc,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+465,Phi0 Kuantum Teknolojileri Anonim Sirketi,,company,TR,country,,1,No town-level source found for the applicant names in this group.
+466,Phlexing Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+473,Pico Semiconductor Inc,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+479,POMORSKI KRZYSZTOF DOMINIK,,private inventor,PL,country,,1,Private individual: country level only; no address searched or used.
+499,Qna Tech Spolka Akcyjna,,company,PL,country,,1,No town-level source found for the applicant names in this group.
+500,Qoro Quantum Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+502,Qphox B V,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+505,Quantinuum Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+506,Quantrolox Finland Oy,,company,FI,country,,1,No town-level source found for the applicant names in this group.
+509,Quantum Network Tech Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+510,Quantum Transistors Tech Ltd,,company,IL,country,,1,No town-level source found for the applicant names in this group.
+511,Quantumz Io Sp Z O O,,company,PL,country,,1,No town-level source found for the applicant names in this group.
+514,Quinas Tech Limited,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+515,Quix Quantum B V,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+517,Qwer Gmbh,,company,AT,country,,1,No town-level source found for the applicant names in this group.
+519,Quantum Brilliance Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+520,Quawi Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+521,Rayzher Ind Co Ltd,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+530,Rheinland Pfaelzische Technische Univ Kaiserslautern Landau,,university,DE,country,,1,No town-level source found for the applicant names in this group.
+537,Rimac Tech Llc,,company,HR,country,,1,No town-level source found for the applicant names in this group.
+542,Rotosi Gmbh,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+543,Rtx Bbn Tech Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+546,Sald Ip B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+554,SANGLE FERRIERE BRUNO,,private inventor,FR,country,,1,Private individual: country level only; no address searched or used.
+557,Sas Inst Inc,,research institute,,unknown,,1,No town-level source found for the applicant names in this group.
+559,Scalinq Ab,,company,SE,country,,1,No town-level source found for the applicant names in this group.
+561,Schunk Xycarb Tech B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+564,Sdt Inc,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+566,Seeqc Inc,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+579,Siec Badawcza Lukasiewicz Port Polski Osrodek Rozwoju Tech,,other/unknown,PL,country,,1,No town-level source found for the applicant names in this group.
+581,Univ Friedrich Alexander Er,,university,DE,country,,1,No town-level source found for the applicant names in this group.
+590,Single Quantum B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+594,Smarttec Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+596,Soerensen Knud Haugaard,,other/unknown,DK,country,,1,No town-level source found for the applicant names in this group.
+598,Solayer Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+599,SOMEKH GUY,,private inventor,FR,country,,1,Private individual: country level only; no address searched or used.
+600,BROUSSEAU YVON,,private inventor,CA,country,,1,Private individual: country level only; no address searched or used.
+607,Standard Chartered Bank,,other/unknown,,unknown,,1,No town-level source found for the applicant names in this group.
+609,Stichting Radboud Univ,,university,NL,country,,1,No town-level source found for the applicant names in this group.
+619,Sweden Quantum Ab,,company,SE,country,,1,No town-level source found for the applicant names in this group.
+620,Swisssem Tech Ag,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+621,Sun King Pacific Semiconductors Tech Zhejiang Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+623,Salience Labs Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+625,Sciprios Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+630,Taara Connect Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+641,Tdk Man Services Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+643,Technische Hochschule Nuernberg Georg Simon Ohm In Vertretung Des Freistaates Bayern,,university,DE,country,,1,No town-level source found for the applicant names in this group.
+645,Technische Univ Muenchen In Vertretung Des Freistaats Bayern,,university,DE,country,,1,No town-level source found for the applicant names in this group.
+647,Terapore Tech Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+651,THALLNER ERICH,,private inventor,AT,country,,1,Private individual: country level only; no address searched or used.
+653,Thermocoax Cie,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+657,Tianma Advanced Display Technology Inst Xiamen Co Ltd,,research institute,CN,country,,1,No town-level source found for the applicant names in this group.
+664,Tensor Al Solutions Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+677,Univ Beijing Inf Sci & Tech,,university,CN,country,,1,No town-level source found for the applicant names in this group.
+691,Univ Istanbul Teknik,,university,TR,country,,1,No town-level source found for the applicant names in this group.
+695,Univ Morski W Gdyni,,university,PL,country,,1,No town-level source found for the applicant names in this group.
+697,Univ Newcastle,,university,,unknown,,1,No town-level source found for the applicant names in this group.
+698,Univ Oxford Brookes,,university,,unknown,,1,No town-level source found for the applicant names in this group.
+704,Univ Sheffield,,university,,unknown,,1,No town-level source found for the applicant names in this group.
+705,Univ Space Research Association,,university,,unknown,,1,No town-level source found for the applicant names in this group.
+709,Univ Warwick,,university,,unknown,,1,No town-level source found for the applicant names in this group.
+713,Valstybinis Moksliniu Tyrimu Institutas Fiziniu Ir Tech Mokslu Centras,,research institute,LT,country,,1,No town-level source found for the applicant names in this group.
+715,Veeco Instr Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+720,Wave Photonics Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+721,Welinq,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+722,Werner Lieb Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+724,Willis Group Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+725,Winse Power Oy,,company,FI,country,,1,No town-level source found for the applicant names in this group.
+726,Wisconsin Alumni Res Found,,other/unknown,,unknown,,1,No town-level source found for the applicant names in this group.
+731,Wuhan Xinxin Semiconductor Mfg,,other/unknown,CN,region,Hubei,1,No town-level source found for the applicant names in this group.
+732,Wuxi Goyes Prec Machinery Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+733,Wang Pei Ju,,other/unknown,TW,country,,1,No town-level source found for the applicant names in this group.
+734,Xanadu Quantum Tech Holdings Ulc,,company,CA,country,,1,No town-level source found for the applicant names in this group.
+739,Zadient Tech Sas,,company,FR,country,,1,No town-level source found for the applicant names in this group.
+743,Zhejiang Int Maritime College,,university,CN,country,,1,No town-level source found for the applicant names in this group.
+746,3d Plus,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+751,Adeia Semiconductor Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+752,Adeia Semiconductor Tech Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+755,Air Prod & Chem,,other/unknown,US,country,,1,No town-level source found for the applicant names in this group.
+757,Allatherm Sia,,other/unknown,LV,country,,1,No town-level source found for the applicant names in this group.
+759,Alpha Assembly Solutions Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+762,Am Global Holding Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+766,Amx Automatrix S R L,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+768,Arieca Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+770,Arnold & Richter Cinetech,,other/unknown,DE,country,,1,No town-level source found for the applicant names in this group.
+775,At & S China Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+777,Audiowell Elect Guangdong Co,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+778,Aumovio Germany Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+781,Ay Mehmet Garip,,other/unknown,TR,country,,1,No town-level source found for the applicant names in this group.
+783,Alupress Spa,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+786,Beammwave Ab,,company,SE,country,,1,No town-level source found for the applicant names in this group.
+790,Borgwarner Emissions Systems Spain Slu,,other/unknown,ES,country,,1,No town-level source found for the applicant names in this group.
+792,Borgwarner Luxembourg Automotive Systems S A,,company,LU,country,,1,No town-level source found for the applicant names in this group.
+795,C I R A Centro Italiano Ricerche Aerospaziali S C P A,,other/unknown,IT,country,,1,No town-level source found for the applicant names in this group.
+798,Cedrion Consultoria Tecnica E Ingenieria Sl,,company,ES,country,,1,No town-level source found for the applicant names in this group.
+801,Cercuits,,other/unknown,BE,country,,1,No town-level source found for the applicant names in this group.
+803,Chemelex Europe Gmbh,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+808,Cit Co Ltd,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+811,Compleo Charging Solutions Gmbh & Co Kg,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+812,Composecure Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+817,Cooler Master Tech Inc,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+820,Crrc Zhuzhou Electric Locomotive Research Inst Co Ltd,,research institute,CN,region,Hunan,1,No town-level source found for the applicant names in this group.
+823,Chipletti Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+824,D Matrix Corp,,company,US,country,,1,No town-level source found for the applicant names in this group.
+828,Danger Devices Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+829,Deepx Co Ltd,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+833,Delta Electronics Shanghai Co,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+834,Destination 2d Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+835,Diabatix N V,,company,BE,country,,1,No town-level source found for the applicant names in this group.
+837,Differential Power Sl,,company,ES,country,,1,No town-level source found for the applicant names in this group.
+838,Diggers Gmbh,,company,AT,country,,1,No town-level source found for the applicant names in this group.
+839,Doliam Invest,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+840,Dongguan Tuoxinjie Heat Transfer Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+844,Ember S R L,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+846,Enead,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+847,Enover Isi Sistemleri Anonim Sirketi,,company,TR,country,,1,No town-level source found for the applicant names in this group.
+853,Fachhochschule Kiel Koerperschaft Des Oeffentlichen Rechts,,university,DE,country,,1,No town-level source found for the applicant names in this group.
+854,Faurecia Clarion Electronics Co Ltd,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+855,Flint Eng Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+858,Fulltech Fiber Glass Corp,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+860,Gkn Automotive Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+863,Groove Quantum Bv,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+864,Guangdong Newidea Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+872,Hensoldt Sensors Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+875,Hgf,,other/unknown,GB,country,,1,No town-level source found for the applicant names in this group.
+876,Hitek Power Ltd,,company,GB,country,,1,No town-level source found for the applicant names in this group.
+878,Hofer Powertrain Innovation Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+879,Horizon Journey Shanghai Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+882,Huizhou Chuyue Thermal Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+886,Icepower As,,company,DK,country,,1,No town-level source found for the applicant names in this group.
+890,Imh Inc,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+894,Infotech Ag,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+897,Inst Of Materials Henan Academy Of Sciences,,research institute,CN,country,,1,No town-level source found for the applicant names in this group.
+898,Zhengzhou Research Inst Harbin Inst Of Technology,,university,CN,country,,1,No town-level source found for the applicant names in this group.
+906,Jentech Prec Industrial Co Ltd,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+908,Jetcool Tech Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+913,Koenigsegg Automotive Ab,,company,SE,country,,1,No town-level source found for the applicant names in this group.
+915,Korea Atomic Energy Res,,other/unknown,KR,country,,1,No town-level source found for the applicant names in this group.
+918,Kyocera Avx Components Corp,,company,US,country,,1,No town-level source found for the applicant names in this group.
+923,Lessengers Inc,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+930,Lambda Resins Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+931,Liquacool Ip Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+932,M Arms D O O,,other/unknown,SI,country,,1,No town-level source found for the applicant names in this group.
+935,Magna Electronics Sweden Ab,,company,SE,country,,1,No town-level source found for the applicant names in this group.
+936,Mahle Int Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+938,Marel Power Solutions Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+941,Matriq Ag,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+944,Mcsmbs,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+945,MEHTA MITUL,,private inventor,BE,country,,1,Private individual: country level only; no address searched or used.
+948,Menlo Microsystems Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+950,Meta Platforms Tech Llc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+952,Micro Star Intl Co Ltd,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+956,Mitwell Inc,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+957,Morningrich Tech Co Ltd,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+958,Msc Control Oy,,company,FI,country,,1,No town-level source found for the applicant names in this group.
+960,Magna Powertrain Gmbh & Co Kg,,company,AT,country,,1,No town-level source found for the applicant names in this group.
+965,Porite Corp,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+968,Net Spolka Z Ograniczona Odpowiedzialnoscia Smart Prot Spolka Komandytowa,,other/unknown,PL,country,,1,No town-level source found for the applicant names in this group.
+970,Nika S R L,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+972,Ningbo Sunny Opotech Co Ltd,,company,CN,region,Zhejiang,1,No town-level source found for the applicant names in this group.
+976,Niterra Co Ltd,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+983,Panasonic Automotive Systems Co Ltd,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+994,Pseudolithic Inc,,company,US,country,,1,No town-level source found for the applicant names in this group.
+997,Quantum Power Transf Limited,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+998,RAINER SCHILDBERG DIPL ING,,private inventor,AT,country,,1,Private individual: country level only; no address searched or used.
+1005,Rocky Research,,other/unknown,US,country,,1,No town-level source found for the applicant names in this group.
+1010,Deep Concept,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+1012,Sameday Media Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+1013,Uif Univ Industry Foundation,,university,KR,country,,1,No town-level source found for the applicant names in this group.
+1015,Sanya Science And Education Innovation Park Of Wuhan Univ Of Technology,,university,CN,country,,1,No town-level source found for the applicant names in this group.
+1020,Schott Primoceler Oy,,company,FI,country,,1,No town-level source found for the applicant names in this group.
+1023,Sendance Gmbh,,company,AT,country,,1,No town-level source found for the applicant names in this group.
+1024,Shanghai X Ring Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+1026,Shenzhen Chip Optech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+1027,Shenzhen Hfc Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+1028,Shenzhen Jianjiaweidu Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+1035,Sintrones Tech Corp,,company,TW,country,,1,No town-level source found for the applicant names in this group.
+1038,Smart Packaging Solutions,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+1043,Spt Roth Ag,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+1044,Stannol Gmbh & Co Kg,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+1051,Suzhou Xiz Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+1053,Tanaka Electronics Co Ltd,,company,JP,country,,1,No town-level source found for the applicant names in this group.
+1054,Te Connectivity Solutions Gmbh,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+1055,Techn Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+1061,Thales Dis France Sas,,company,FR,country,,1,No town-level source found for the applicant names in this group.
+1063,The 20th Research Institute Of China Electronics Tech Group Corporation,,research institute,CN,country,,1,No town-level source found for the applicant names in this group.
+1067,Tianjin Laird Tech Limited,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+1073,Tracxon B V,,company,NL,country,,1,No town-level source found for the applicant names in this group.
+1075,Trumpf Huettinger Sp Z O O,,company,PL,country,,1,No town-level source found for the applicant names in this group.
+1080,Univ Court Univ Of Glasgow,,university,,unknown,,1,No town-level source found for the applicant names in this group.
+1085,Valeo Electrification,,other/unknown,FR,country,,1,No town-level source found for the applicant names in this group.
+1087,Vdl Etg Switzerland Ag,,company,CH,country,,1,No town-level source found for the applicant names in this group.
+1088,Vector Photonics Ltd,,company,,unknown,,1,No town-level source found for the applicant names in this group.
+1093,Vestas Wind Sys As,,company,DK,country,,1,No town-level source found for the applicant names in this group.
+1094,Viaholo Gmbh,,company,DE,country,,1,No town-level source found for the applicant names in this group.
+1098,Univ Tennessee Res Found,,university,US,country,,1,No town-level source found for the applicant names in this group.
+1102,Wellang Co Ltd,,company,KR,country,,1,No town-level source found for the applicant names in this group.
+1103,Wieland Provides S R L,,company,IT,country,,1,No town-level source found for the applicant names in this group.
+1107,Wuxi Zhong Wei High Tech Eletronics Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
+1109,Xiaomi Ev Tech Co Ltd,,company,CN,country,,1,No town-level source found for the applicant names in this group.
