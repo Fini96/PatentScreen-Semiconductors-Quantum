@@ -606,6 +606,10 @@ async function sameSpot(id) {
 }
 async function onClusterClick(id, coords) {
   const src = map.getSource('apps');
+  try {
+    const lv = (await src.getClusterLeaves(id, 100000, 0)).map(f => f.properties.a);
+    openPlace({ title: placeTitle(lv), apps: lv, note: 'Applicants in this map cluster. Click a name for its profile; the map also zooms in.' });
+  } catch (e) { }
   if (await sameSpot(id)) { if (map.getZoom() < 9) map.easeTo({ center: coords, zoom: 9, duration: reduceMotion() ? 0 : 600 }); spiderfy(id, coords, null, true); return; }
   let z = MAXZ + 1; try { z = await src.getClusterExpansionZoom(id); } catch (e) { }
   if (z <= MAXZ && z > map.getZoom() + 0.05) map.easeTo({ center: coords, zoom: z + 0.2, duration: reduceMotion() ? 0 : 600 });
@@ -660,11 +664,13 @@ function placeTitle(apps) {
   const cities = new Set(apps.map(a => LO.city[a] || '').filter(Boolean));
   const a0 = apps[0];
   if (cities.size === 1) return [...cities][0] + ', ' + ccName(A.cc[a0]);
+  const top = d3.rollups(apps.filter(a => LO.city[a]), v => v.length, a => LO.city[a]).sort((x, y) => y[1] - x[1]).map(d => d[0]);
+  if (top.length) return top.slice(0, 2).join(', ') + (top.length > 2 ? ` and ${top.length - 2} more cities` : '');
   return 'this location';
 }
 
 // ---- approximate groups (province- or country-level only; not drawn as individual markers)
-let approxMarkers = [];
+let approxMarkers = []; const APPROX_Z = 4; let approxLow = null;
 function updateApprox() {
   approxMarkers.forEach(m => m.remove()); approxMarkers = [];
   if (!mapReady || mode !== 'A' || !showApprox) return;
@@ -672,21 +678,21 @@ function updateApprox() {
   for (const a of R.ranked) {
     if (hasPoint(a)) continue;
     let key, pt, label, cc = A.cc[a];
-    if (LO.p[a] === 'R' && D.regions[LO.rkey[a]]) { const g = D.regions[LO.rkey[a]]; key = 'R:' + LO.rkey[a]; pt = g.pt; label = g.n + ' (province level)'; }
-    else if (cc && D.countries[cc] && D.countries[cc].label) { key = 'K:' + cc; pt = D.countries[cc].label; label = ccName(cc) + ' (country level)'; }
+    if (LO.p[a] === 'R' && D.regions[LO.rkey[a]] && map.getZoom() >= APPROX_Z) { const g = D.regions[LO.rkey[a]]; key = 'R:' + LO.rkey[a]; pt = g.pt; label = g.n + ' (province level)'; }
+    else if (cc && D.countries[cc] && D.countries[cc].label) { key = 'K:' + cc; pt = D.countries[cc].label; label = ccName(cc) + (map.getZoom() < APPROX_Z ? ' (province or country level)' : ' (country level)'); }
     else continue;
     let g = groups.get(key); if (!g) groups.set(key, g = { key, pt, label, cc, apps: [], types: [0, 0, 0, 0, 0, 0] });
     g.apps.push(a); g.types[A.typ[a]]++;
   }
   for (const g of groups.values()) {
     const el = document.createElement('button'); el.type = 'button'; el.className = 'ax' + (g.key[0] === 'R' ? ' ax-r' : '');
-    const n = g.apps.length; const sz = Math.round(Math.min(40, 18 + 2.2 * Math.sqrt(n)));
+    const n = g.apps.length; const sz = Math.round(Math.min(32, 18 + 1.6 * Math.sqrt(n)));
     el.style.width = el.style.height = sz + 'px';
     el.innerHTML = `<span>${n >= 1000 ? d3.format('.2s')(n) : n}</span>`;
     el.setAttribute('aria-label', `${n} applicants located only at ${g.label}`);
     el.onmouseenter = e => showTip(e, `<h4>${esc(g.label)}</h4><div>${fmt(n)} applicants whose location could not be verified below this level${g.types[4] ? `, including ${fmt(g.types[4])} private inventors` : ''}.</div><div class="faint" style="margin-top:4px">Placed at a label point for the area, not at an address. Click to list them.</div>`);
     el.onmousemove = moveTip; el.onmouseleave = hideTip;
-    el.onclick = e => { e.stopPropagation(); hideTip(); openPlace({ title: g.label, apps: g.apps, note: 'Applicants located only to this ' + (g.key[0] === 'R' ? 'province' : 'country') + '. They are included in all statistics.' }); };
+    el.onclick = e => { e.stopPropagation(); hideTip(); openPlace({ title: g.label, apps: g.apps, note: 'Location not verified below ' + (g.key[0] === 'R' ? 'province' : map.getZoom() < APPROX_Z ? 'province or country' : 'country') + ' level, so these applicants have no individual dot on the map. They are included in all statistics.' }); };
     approxMarkers.push(new maplibregl.Marker({ element: el }).setLngLat([g.pt[1], g.pt[0]]).addTo(map));
   }
 }
@@ -734,6 +740,7 @@ async function focusApplicant(a) {
 // ---- interaction wiring
 function wireMap() {
   map.on('render', () => { if (map.isSourceLoaded('apps')) refreshClusters(); });
+  map.on('zoomend', () => { const low = map.getZoom() < APPROX_Z; if (low !== approxLow) { approxLow = low; updateApprox(); } });
   map.on('zoomstart', e => { if (spider && !spider.keep) clearSpider(); else if (spider && e.originalEvent) clearSpider(); });
   map.on('mousemove', e => {
     const fa = mode === 'A' ? map.queryRenderedFeatures(e.point, { layers: ['apps-pt'] }) : [];
@@ -956,11 +963,31 @@ function openCountry(cc, keepZoom) {
 }
 function openPlace(v) { pushView({ kind: 'place', id: v.title + ':' + v.apps.length, title: v.title, apps: v.apps, note: v.note }); }
 function sidePlace(v) {
-  setSide('Location', v.title);
+  setSide('Location overview', v.title);
   const apps = v.apps.filter(a => R.passA[a]).sort((x, y) => R.val(y) - R.val(x));
-  let h = `<div class="note">${esc(v.note || '')}</div><div class="sec" id="spList"><h3>${fmt(apps.length)} applicants</h3><ul class="alist"></ul><button class="btn morebtn" type="button">Show more</button></div>`;
+  const set = new Set(apps);
+  // publications with at least one of these applicants (each counted once)
+  const seen = new Uint8Array(N); let docs = 0; const famS = new Set(); const g = new Int32Array(GROUPS.length);
+  for (const a of apps) for (let k = appCnt[a]; k < appCnt[a + 1]; k++) {
+    const d = appDocs[k]; if (!R.finalDoc[d] || seen[d]) continue;
+    seen[d] = 1; docs++; famS.add(fi[d]);
+    for (let gg = 0; gg < GROUPS.length; gg++) if (gmask[d] & (1 << gg)) g[gg]++;
+  }
+  const ta = [0, 0, 0, 0, 0, 0]; apps.forEach(a => ta[A.typ[a]]++);
+  let h = `<div class="note">${esc(v.note || '')}</div>
+    <div class="sec"><div class="stats">
+    <div class="stat"><div class="k">Applications</div><div class="v">${fmt(docs)}</div></div>
+    <div class="stat"><div class="k">Families</div><div class="v">${fmt(famS.size)}</div></div>
+    <div class="stat"><div class="k">Institutional applicants</div><div class="v">${fmt(apps.length - ta[4])}</div></div>
+    <div class="stat"><div class="k">Private inventors</div><div class="v">${fmt(ta[4])}</div></div></div></div>`;
+  if (apps.length > 1) h += `<div class="sec"><h3>Applicant types</h3><div class="chart" id="spTypes"></div></div><div class="sec"><h3>Leading technology groups</h3><div class="chart" id="spTech"></div></div>`;
+  h += `<div class="sec" id="spList"><h3>Applicants ranked by ${F.measure === 'fams' ? 'families' : 'applications'} (${fmt(apps.length)})</h3><div class="note">Click a name to open its profile and show it on the map.</div><ul class="alist"></ul><button class="btn morebtn" type="button">Show more</button></div>`;
   $('#sideBody').innerHTML = h;
-  listInto($('#spList'), apps, a => `${precChip(a)} ${esc(locLabel(a))} · ${TYPES[A.typ[a]].label}`);
+  if (apps.length > 1) {
+    donut($('#spTypes'), TYPES.map((t, i) => ({ l: t.label, v: ta[i], c: typeColor(i) })).filter(d => d.v), { aria: 'applicants by type' });
+    hbar($('#spTech'), d3.range(GROUPS.length).filter(x => g[x]).sort((x, y) => g[y] - g[x]).slice(0, 8).map(x => ({ l: GROUPS[x].label, v: g[x], c: GCOL[x] })), { aria: 'technology groups' });
+  }
+  listInto($('#spList'), apps, a => { const tg = topGroupsOf(appDetail(a), 1)[0]; return `${precChip(a)} ${TYPES[A.typ[a]].label}${tg != null ? ' · ' + GROUPS[tg].label : ''} · ${esc(locLabel(a))}`; });
 }
 function sideCountry(cc) {
   setSide('Country overview', ccName(cc));
