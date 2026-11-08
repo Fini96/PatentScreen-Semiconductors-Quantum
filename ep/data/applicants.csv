@@ -1,0 +1,1123 @@
+applicant_id,harmonised_name,original_name,applicant_type,country,applications,families,top_cpc_groups,city,state_province,latitude,longitude,location_precision,location_source,sites
+0,3m Innovative Properties Company,,company,US,1,1,G06F30:1 G06Q10:1 H05K1:1 H05K3:1,,,,,country,,0
+1,3sun S R L,,company,IT,3,2,H10P72:3,,,,,country,,0
+2,Absolics Inc,,company,US,40,39,H10W70:39 H10W90:18 H10W20:15 H10W74:13 H10W99:13 H05K1:12,"Covington, GA",Georgia,33.5966,-83.8599,city,News report,1
+3,Adeia Semiconductor Solutions Llc,,company,US,1,1,H10D30:1 H10D62:1 H10D64:1,,,,,country,,0
+4,Aehr Test Systems,,other/unknown,US,7,1,G01R1:7 G01R31:7 H05K7:7 H10P72:7,Fremont,California,37.5486,-121.9883,city,Wikidata P159 headquarters (town centre coordinates),1
+5,Airbus Operations Gmbh,,company,DE,1,1,B64C1:1 G06F2113:1 G06F2115:1 G06F2119:1 G06F30:1 H05K1:1,Hamburg,Hamburg,53.5502,10.0013,city,USPTO PatentsView assignee address (assignee cb231544-3479-497c-89ad-e0fae56d123e; 1449 of 4667 US patents); town point from Overture Maps,1
+6,Airbus Operations Sas,,company,FR,1,1,G06F2113:1 G06F2119:1 G06F30:1,Toulouse,Occitania,43.6044,1.4433,city,Wikidata P159 headquarters (town centre coordinates),1
+7,Airbus Sas,,company,FR,3,2,G06N10:2 H04B10:2 G01K3:1 G01M99:1 H05K7:1 H10W40:1,Blagnac,Occitania,43.6122,1.3631,exact,Wikidata P159 headquarters with P625 coordinates,1
+8,Aixtron Ltd,,company,GB,1,1,C23C16:1 G01J2005:1 G01J5:1 H10P72:1,,,,,country,,0
+9,Aixtron Se,,company,DE,10,10,C23C16:7 H10P14:6 H10P72:5 C30B25:3 C30B29:2 C23C14:1,Herzogenrath,North Rhine-Westphalia,50.8234,6.0793,exact,Wikidata P159 headquarters with P625 coordinates,1
+10,Algorithmiq Oy,,company,FI,4,4,G06N10:4 G06N5:1 G16C10:1 G06F17:1,Turku,Southwest Finland,60.4517,22.2669,city,Wikidata P159 headquarters (town centre coordinates),1
+11,Alice & Bob,,startup,FR,34,32,G06N10:33 B82Y10:6 H10N60:2 H03H11:1 G03F1:1 G03F7:1,Paris,Ile-de-France,48.8567,2.3522,city,Wikidata P159 headquarters (town centre coordinates),1
+12,CNRS,CENTRE NAT RECH SCIENT,research institute,FR,39,33,H10D30:10 G06N10:9 H10D62:7 H10D64:6 H10B63:5 H10N70:5,Paris,Ile-de-France,48.8535,2.3484,city,Official business register (SIREN 180089013),1
+13,Univ Sorbonne,,university,FR,2,1,B82Y10:2 G06N10:2,Paris,Ile-de-France,48.8535,2.3484,city,USPTO PatentsView assignee address (assignee 73931d1f-05d3-459e-ad0e-035a11b2e034; 72 of 77 US patents); town point from Overture Maps,1
+14,Ecole Normale Superieure,,university,FR,2,1,B82Y10:2 G06N10:2,,,,,country,,0
+15,Univ Paris Cite,,university,FR,2,1,B82Y10:2 G06N10:2,Paris,Ile-de-France,48.8518,2.3402,exact,Wikidata P159 headquarters with P625 coordinates,1
+16,Ecole Nat Superieure Des Mines De Paris,,university,FR,4,3,G06N10:4 B82Y10:2,Paris,Ile-de-France,48.8449,2.3392,exact,Wikidata P159 headquarters with P625 coordinates,1
+17,Association Pour La Rech Et Le Developpement De Methodes Et Processus Industriels,,other/unknown,FR,2,1,B82Y10:2 G06N10:2,,,,,country,,0
+18,Ecole Normale Superieure Lyon,,university,FR,2,1,B82Y10:2 G06N10:2,Lyon,Auvergne-Rhône-Alpes,45.7294,4.8267,exact,Wikidata P159 headquarters with P625 coordinates,1
+19,Univ Claude Bernard Lyon,,university,FR,2,1,B82Y10:2 G06N10:2,Villeurbanne,Auvergne-Rhône-Alpes,45.781,4.8676,exact,Wikidata P159 headquarters with P625 coordinates,1
+20,Inria Inst Nat Rech Informatique & Automatique,,research institute,FR,5,5,G06N10:5,,,,,country,,0
+21,Alixlabs Ab,,company,SE,6,6,H10P50:6 H10P14:2 B81C1:1 B82Y10:1 B82Y40:1 H10D30:1,Lund,Skåne County,55.7029,13.1929,city,Startup register,1
+22,Allos Semiconductors Gmbh,,company,DE,1,1,H10D62:1 H10H20:1 H10P14:1,,,,,country,,0
+23,Alpine Quantum Tech Gmbh,,company,AT,4,4,G06N10:4 B82Y10:3 G21K1:3 B82Y20:2 G02B26:2 G04F5:2,Innsbruck,Tyrol,47.2683,11.3933,city,Wikidata P159 headquarters (town centre coordinates),1
+24,Alpsemi,,other/unknown,FR,3,3,H10P14:2 H10P50:1 H10P90:1 H10D30:1 H10D62:1 H10D64:1,,,,,country,,0
+25,Altera Corp,,company,US,5,5,G06F30:3 H03K19:3 H10W70:3 H10W90:3 H10W72:2 G06F15:2,San Jose,California,37.3042,-121.8728,city,Wikidata P159 headquarters (town centre coordinates),1
+26,Amazon Tech Inc,,company,US,1,1,G06F2209:1 G06F9:1 G06N10:1,Seattle,Washington,47.6038,-122.3301,city,USPTO PatentsView assignee address (assignee 8aaa669d-3724-42c3-9ca7-afde78fea37d; 10643 of 15395 US patents); town point from Overture Maps,1
+27,American Express Travel Related Services Co Inc,,company,US,1,1,G06N10:1,New York,New York,40.7127,-74.006,city,USPTO PatentsView assignee address (assignee 49c2dd74-bc69-444f-8d0f-67d4539a8433; 1140 of 1140 US patents); town point from Overture Maps,1
+28,Amo Gmbh,,company,DE,1,1,G01N27:1 H10D30:1 H10D62:1 H10D99:1,Aachen,North Rhine-Westphalia,50.7803,6.0494,exact,Wikidata P159 headquarters with P625 coordinates,1
+29,Rheinisch Westfaelische Technische Hochschule Rwth Aachen Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,G01N27:1 H10D30:1 H10D62:1 H10D99:1,Aachen,North Rhine-Westphalia,50.7764,6.0839,city,USPTO PatentsView assignee address (assignee b7b5b205-5160-4cc1-be6b-4b6c15004c14; 22 of 47 US patents); town point from Overture Maps,1
+30,ams OSRAM,AMS OSRAM INT GMBH,company,DE,8,8,H10P14:3 H10W90:2 H10P70:1 H10P90:1 H01S5:1 H10P72:1,Regensburg,Bavaria,49.0195,12.0975,city,German Bundestag lobby register,2
+31,Anaflash Inc,,company,US,1,1,G11C11:1 H10B41:1 H10B43:1 H10D30:1,,,,,country,,0
+32,Analog Devices,ANALOG DEVICES INC,company,US,17,17,H10W90:7 H10W20:6 H10D62:5 H10D30:4 H10W40:4 H10W70:4,Norwood,Massachusetts,42.5324,-71.1492,exact,Wikidata P159 headquarters with P625 coordinates,2
+33,Andrae Juergen,,other/unknown,FR,1,1,H10D30:1 H10D48:1 H10N60:1,,,,,country,,0
+34,Apple Inc,,company,US,2,2,H10D30:1 H10K59:1 G03F1:1 G06F2111:1 G06F2115:1 G06F2119:1,,,,,country,,0
+35,Applied Materials Inc,,company,US,12,11,H01J37:7 H10P72:6 H10P50:6 H01J2237:5 G02B5:3 G03F7:3,Santa Clara,California,37.3796,-121.9804,exact,Wikidata P159 headquarters with P625 coordinates,1
+36,Applied Materials Israel Ltd,,company,IL,3,3,H01J2237:3 H01J37:3 H10P72:3,Kiryat Gat,South District,31.6109,34.7675,exact,Wikidata P159 headquarters with P625 coordinates,1
+37,Applied Nanolayers B V,,company,NL,1,1,C01B32:1 H10P14:1 H10P72:1 H10P90:1,,,,,country,,0
+38,Ardenne Asset Gmbh & Co Kg Von,,company,DE,7,5,H10P72:7 C23C14:5 C23C16:4 G02B27:2 G03B11:2 B23K26:2,Dresden,Saxony,51.0493,13.7381,city,USPTO PatentsView assignee address (assignee 2fddd8ba-4236-406b-ac27-32e220bf74f5; 23 of 23 US patents); town point from Overture Maps,1
+39,Arteris Inc,,company,US,8,8,G06F30:8 G06F2115:7 G06F15:6 H04L41:3 G06F2111:2 G06N20:2,Sunnyvale,California,37.3689,-122.0369,city,Wikidata P159 headquarters (town centre coordinates),1
+40,ASM (ASM IP Holding),ASM IP HOLDING BV,company,NL,18,18,H10P72:16 C23C16:11 H10P14:4 C30B25:3 B25J15:2 C23C14:2,Almere,Flevoland,52.3705,5.2186,city,USPTO PatentsView assignee address (assignee a900704a-350b-4ba4-bd04-a2c5041ae7cf; 526 of 560 US patents); town point from Overture Maps,1
+41,ASML,ASML NETHERLANDS BV,company,NL,50,50,H10P72:39 G03F7:24 H10P74:8 H10W90:6 H10W72:4 H10W99:4,Veldhoven,North Brabant,51.4191,5.4046,city,USPTO PatentsView assignee address (assignee bd9a0516-c534-4a5b-a0ca-db531d2f4951; 3889 of 3925 US patents); town point from Overture Maps,1
+42,Asmpt Singapore Pte Ltd,,company,SG,5,5,H10W72:4 H10P54:2 H10W46:2 H10W80:2 B23K2101:1 B23K2103:1,Singapore,,1.2899,103.8519,city,Applicant country in the patent data (city-state),1
+43,Asmpt Smt Singapore Pte Ltd,,company,SG,3,3,H05K3:3 B41F15:2 B41P2215:2 H10P72:2 H05K2203:2 B41F21:1,Singapore,,1.2899,103.8519,city,Applicant country in the patent data (city-state),1
+44,Asociacion Centro De Investig Cooperativa En Nanociencias Cic Nanogune,,research institute,ES,1,1,H10N60:1,,,,,country,,0
+45,Asys Automatisierungssysteme Gmbh,,company,DE,2,1,B25J15:2 B25J19:2 H05K2203:2 H05K3:2 H10P72:2,,,,,country,,0
+46,Atotech Deutschland Gmbh & Co Kg,,company,DE,1,1,C23C18:1 H10P72:1,Berlin,Berlin,52.5174,13.3951,city,USPTO PatentsView assignee address (assignee c1777e3a-8282-46f9-a2cd-04f6d95433d6; 242 of 268 US patents); town point from Overture Maps,1
+47,Att Advanced Temperature Test Systems Gmbh,,company,DE,1,1,H10P72:1,,,,,country,,0
+48,Auo Corp,,company,TW,5,5,H10D86:5 H10H29:5 G09G2300:3 G09G3:3 H10K59:3 H10H20:3,Hsinchu City,Hsinchu,24.8047,120.9714,city,Wikidata P159 headquarters (town centre coordinates),1
+49,AT&S,AUSTRIA TECH & SYSTEM TECH,company,AT,30,30,H05K1:28 H10W70:27 H05K2201:25 H05K3:24 H05K2203:18 H10W74:12,Leoben,Styria,47.3805,15.0948,city,Austrian Chamber of Commerce directory,2
+50,Broadcom,AVAGO TECH INT SALES PTE LID,company,US,57,56,H10W90:34 H10W70:29 H10W72:23 H10W20:15 H10W74:13 H10D30:11,Singapore,,1.2899,103.8519,city,USPTO PatentsView assignee address (assignee b4d200b6-2bdc-427a-ac21-3ad40e07d9ea; 554 of 582 US patents); town point from Overture Maps,1
+51,Avanzati Semiconductor Pte Ltd,,company,SG,1,1,H10D30:1 H10D62:1 H10D64:1 H10P30:1 H10P76:1,Singapore,,1.2899,103.8519,city,Applicant country in the patent data (city-state),1
+52,Akhetonics Gmbh,,company,DE,1,1,G02B2006:1 G02B6:1 G06F30:1,,,,,country,,0
+53,B2d Holding Gmbh,,company,DE,1,1,H01G11:1 H01M10:1 H01M4:1 H10D1:1,,,,,country,,0
+54,GRADY ELDAD,,private inventor,DE,1,1,H01G11:1 H01M10:1 H01M4:1 H10D1:1,,,,,country,,0
+55,Bae Systems Plc,,company,GB,1,1,H01P1:1 H01Q15:1 H01Q3:1 H10B63:1 H10N70:1,Farnborough,England,51.2733,-0.7667,exact,Wikidata P159 headquarters with P625 coordinates,1
+56,BALATSKY ALEXANDER,,private inventor,SE,1,1,B82Y10:1 G06N10:1 G21K1:1 H10D48:1 H10D62:1,,,,,country,,0
+57,Basf Se,,company,DE,1,1,G06N10:1 G06Q10:1 G06Q30:1,Ludwigshafen,Rhineland-Palatinate,49.4961,8.4311,exact,Wikidata P159 headquarters with P625 coordinates,1
+58,Beckhoff Automation Gmbh,,company,DE,1,1,B23Q11:1 B23Q7:1 B65G54:1 H10P72:1,Verl,North Rhine-Westphalia,51.879,8.4727,exact,Wikidata P159 headquarters with P625 coordinates,1
+59,Beijing Suntag Intelligent Equipment Co Ltd,,company,CN,1,1,B24B27:1 B24B37:1 B24B49:1 B24B55:1 B24B7:1 H10P72:1,,,,,country,,0
+60,Beijing Youzhuju Network Tech Co Ltd,,company,CN,1,1,G06F30:1 G06N10:1 G06N3:1 G06N5:1,,,,,country,,0
+61,Beijing Zitiao Network Technology Co Ltd,,company,CN,2,2,H02J7:1 H10D30:1 H10D64:1 G06F2119:1 G06F30:1 H10W40:1,,,,,country,,0
+62,Beneq Oy,,company,FI,3,3,C23C16:2 H10P14:2 H10P72:1,Vantaa,Uusimaa,60.2944,25.0403,city,Wikidata P159 headquarters (town centre coordinates),1
+63,Bennemann Felix,,other/unknown,,1,1,G06N10:1 H01J49:1,,,,,unknown,,0
+64,BERGMANN CHRISTOPH,,private inventor,DE,1,1,H10N60:1,,,,,country,,0
+65,BESI,BESI SWITZERLAND AG,company,CH,13,12,H10P72:9 H10W72:5 B08B1:2 B08B13:2 B08B5:2 B08B7:2,Cham,Zug,47.2007,8.447,city,USPTO PatentsView assignee address (assignee 81b1b862-6400-4941-906e-2fa1bdf8cfdb; 11 of 13 US patents); town point from Overture Maps,2
+66,Bilkent Ueniversitesi Ulusal Nanoteknoloji Arastirma Merkezi,,university,TR,1,1,B81C1:1 B81C2201:1 H10P70:1,,,,,country,,0
+67,Blackleaf,,other/unknown,FR,1,1,C01B2204:1 C01B32:1 C09D5:1 H01B1:1 H10P14:1,,,,,country,,0
+68,Bluefors Oy,,company,FI,4,4,F25B9:2 G06N10:1 H01B12:1 H01F6:1 H01P1:1 F25B21:1,Helsinki,Uusimaa,60.1708,24.9375,city,Wikidata P159 headquarters (town centre coordinates),1
+69,BOE,BOE TECHNOLOGY GROUP CO LTD,company,CN,50,47,H10D86:46 H10K59:33 G09G3:26 G09G2300:21 G02F1:12 G09G2310:12,Beijing,Beijing,39.8019,116.5053,exact,Wikidata P159 headquarters with P625 coordinates,3
+70,Hefei Boe Joint Tech Co Ltd,,company,,1,1,G09G3:1 H10D89:1 H10K59:1,,,,,unknown,,0
+71,Boeing Co,,company,US,7,7,G06N10:5 B82Y10:2 G01R15:1 G01R19:1 H01F38:1 H01F6:1,Chicago,Illinois,41.8832,-87.6389,exact,Wikidata P159 headquarters with P625 coordinates,1
+72,Bosch,BOSCH GMBH ROBERT,company,DE,247,246,H10W40:91 H10W90:53 H05K7:49 H10W72:47 H10D62:46 H10D30:45,Gerlingen,Baden-Württemberg,48.7859,9.0637,exact,Wikidata P159 headquarters with P625 coordinates,1
+73,Brillian Network & Automation Integrated System Co Ltd,,company,TW,1,1,H10P72:1,,,,,country,,0
+74,Brooks Automation Germany Gmbh,,company,DE,13,13,H10P72:13 G03F7:4 G03F1:2 H01J2237:1 H01J37:1 G01J3:1,,,,,country,,0
+75,Brooks Automation Us Llc,,company,US,1,1,G01N21:1 G06T2207:1 G06T7:1 H10P72:1,,,,,country,,0
+76,Bruker Eas Gmbh,,company,DE,3,3,H10N60:3 G21B1:2,Hanau,Hesse,50.1329,8.917,city,USPTO PatentsView assignee address (assignee a8bdd6a7-f79d-43c3-b823-3f188d555a30; 11 of 11 US patents); town point from Overture Maps,1
+77,Bruker Switzerland Ag,,company,CH,2,2,H10N60:2 H02G1:1,Fällanden,Zurich,47.3781,8.6435,exact,Wikidata P159 headquarters with P625 coordinates,1
+78,Brusa Elektronik Ag,,company,CH,2,2,B60L53:2 B60L2270:1 B60L55:1 H01G17:1 H01G4:1 H10D1:1,Sennwald,St. Gallen,47.2615,9.5038,city,USPTO PatentsView assignee address (assignee 3ee6b32b-992c-45be-84d1-068141870cd3; 16 of 16 US patents); town point from Overture Maps,1
+79,Btq Ag,,company,LI,1,1,G06N10:1 G06N3:1 H04L9:1,,,,,country,,0
+80,Budapesti Mueszaki Es Gazdasagtudomanyi Egyetem,,university,HU,1,1,H01B12:1 H03K19:1 H10N60:1,Budapest,Budapest,47.4979,19.0402,city,USPTO PatentsView assignee address (assignee 12a3e21b-46a5-4285-8780-f878ce791be7; 3 of 3 US patents); town point from Overture Maps,1
+81,Buehler Alzenau Gmbh,,company,DE,3,3,H10P72:3 B29D11:1 G02B1:1 C23C16:1 H01J37:1,Alzenau,Bavaria,50.0954,9.0413,exact,Wikidata P159 headquarters with P625 coordinates,1
+82,Bull Sas,,company,FR,15,15,G06N10:14 G06F17:2 G16C10:2 G06F7:1 G06F2209:1 G06F9:1,Les Clayes-sous-Bois,Ile-de-France,48.8206,1.9836,city,Wikidata P159 headquarters (town centre coordinates),1
+83,Ecole Polytech,,university,FR,1,1,G01N24:1 G06N10:1 G16C10:1 G16C60:1,Palaiseau,Ile-de-France,48.7183,2.2497,city,Wikidata P159 headquarters (town centre coordinates),1
+84,Electricite De France,,other/unknown,FR,1,1,G06N10:1 G16C10:1,Paris,Ile-de-France,48.8748,2.2961,exact,Wikidata P159 headquarters with P625 coordinates,1
+85,Pasqal,,company,FR,36,36,G06N10:36 G21K1:5 G16C10:2 G02F3:2 G06N5:2 G06N3:2,Palaiseau,Ile-de-France,48.7183,2.2497,city,Wikidata P159 headquarters (town centre coordinates),2
+86,Bundesdruckerei Gmbh,,company,DE,14,11,G06N10:14 G06N20:9 G06N3:6 G06F21:5 G06F7:4 G06N5:2,Berlin,Berlin,52.5082,13.403,exact,Wikidata P159 headquarters with P625 coordinates,1
+87,Multiverse Computing,MULTIVERSE COMPUTING S L,startup,ES,23,22,G06N10:23 G06N3:11 G06N5:8 G06N20:7 B82Y10:3 G06F21:3,Donostia-San Sebastián,Autonomous Community of the Basque Country,43.32,-1.98,city,Wikidata P159 headquarters (town centre coordinates),1
+88,Bygge Tech Inc,,company,US,1,1,C23C14:1 G06F16:1 G11B27:1 H04N21:1 H04N5:1 H04N7:1,Bainbridge Island,Washington,47.6515,-122.5247,city,USPTO PatentsView assignee address (assignee f486e2ca-727f-4679-a6d1-25fb89650813; 2 of 2 US patents); town point from Overture Maps,1
+89,C Click,,other/unknown,FR,2,1,H10P72:2,,,,,country,,0
+90,C12 Quantum Electronics,,other/unknown,FR,3,3,G06N10:1 B82Y10:1 B82Y35:1 B82Y40:1 G01N27:1 H10K10:1,Paris,Ile-de-France,48.8567,2.3522,city,Wikidata P159 headquarters (town centre coordinates),1
+91,Cambridge Entpr Ltd,,company,GB,3,3,H10D62:3 H10P14:2 H10D30:1 H10D64:1 H10P90:1 H10D8:1,,,,,country,,0
+92,Anvil Semiconductors Ltd,,company,GB,1,1,H10D62:1 H10H20:1 H10P14:1,,,,,country,,0
+93,Cambridge Gan Devices Ltd,,company,GB,5,5,H10D30:3 H10D62:3 H10D64:3 H10D84:3 H02M3:1 H03K17:1,Cambourne,England,52.22,-0.0701,city,USPTO PatentsView assignee address (assignee 746e99ac-f1e7-4151-8cc6-4481803eb10b; 2 of 4 US patents); town point from Overture Maps,1
+94,Camtek Ltd,,company,IL,1,1,G01N2021:1 G01N21:1 G01N2201:1 H10P72:1,Migdal HaEmek,North District,32.6786,35.2444,city,Wikidata P159 headquarters (town centre coordinates),1
+95,Canon Kk,,company,JP,11,11,G03F7:7 H10P72:7 G03F9:2 H10W46:2 H10W72:2 G01N2021:1,Ota,Tokyo,35.5667,139.6822,exact,Wikidata P159 headquarters with P625 coordinates,1
+96,Celera Inc,,company,US,1,1,G06F2111:1 G06F2119:1 G06F3:1 G06F30:1,Alameda,California,37.7652,-122.2416,city,USPTO PatentsView assignee address (assignee 5b465143-ba7c-46b5-a4de-847457df59f4; 53 of 76 US patents); town point from Overture Maps,1
+97,Cellcentric Gmbh & Co Kg,,company,DE,1,1,G01B11:1 G01B21:1 H10P72:1,Nabern,Baden-Württemberg,48.6141,9.4843,city,Wikidata P159 headquarters (town centre coordinates),1
+98,Central Glass Co Limited,,company,JP,1,1,B01D7:1 C08J3:1 C08J5:1 C11D2111:1 C11D7:1 F26B5:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+99,Centre De Coop Technique Et Pedagogique Asbl,,other/unknown,BE,1,1,G01R1:1 G01R31:1 H10P74:1,,,,,country,,0
+100,STMicroelectronics,ST MICROELECTRONICS INT NV,company,CH,298,230,H10D62:101 H10D30:88 H10W72:82 H10D64:72 H10W70:71 H10W90:71,Plan-les-Ouates (Geneva),Geneva,46.1683,6.1179,city,Company directory (Kompass Switzerland),1
+101,Univ Aix Marseille,,university,FR,4,4,H10D30:2 H10D64:2 G11C16:1 H10B41:1 H10D86:1 H10P90:1,Marseille,Provence-Alpes-Côte d'Azur,43.2935,5.3579,exact,Wikidata P159 headquarters with P625 coordinates,1
+102,Univ Polytechnique Des Hauts De France,,university,FR,2,2,H01G4:2 H10D1:2 B82Y30:1 B82Y40:1 H01G11:1 H01M10:1,Famars,Hauts-de-France,50.3156,3.5192,city,Wikidata P159 headquarters (town centre coordinates),1
+103,Centrale Lille Inst,,research institute,FR,2,2,H01G4:2 H10D1:2 B82Y30:1 B82Y40:1 H01G11:1 H01M10:1,,,,,country,,0
+104,Univ Lille,,university,FR,4,4,H01G4:2 H10D1:2 H10D30:2 B82Y30:1 B82Y40:1 H01G11:1,Villeneuve-d'Ascq,Hauts-de-France,50.6228,3.1442,city,Wikidata P159 headquarters (town centre coordinates),1
+105,Univ Dartois,,university,FR,2,2,H01G4:2 H10D1:2 B82Y30:1 B82Y40:1 H01G11:1 H01M10:1,,,,,country,,0
+106,Hileores,,other/unknown,FR,2,2,H01G4:2 H10D1:2 B82Y30:1 B82Y40:1 H01G11:1 H01M10:1,,,,,country,,0
+107,Centro Brasileiro De Pesquisas Fisicas Cbpf,,research institute,BR,1,1,C23C14:1 H10N60:1,,,,,country,,0
+108,Petroleo Brasileiro Sa Petrobras,,company,BR,1,1,C23C14:1 H10N60:1,Rio de Janeiro,Rio de Janeiro,-22.911,-43.2094,city,USPTO PatentsView assignee address (assignee eb7c8b74-153b-4f10-b5e2-9cc1a46129a4; 212 of 272 US patents); town point from Overture Maps,1
+109,Centrum Badan I Rozwoju Tech Dla Przemyslu Spolka Akcyjna,,research institute,PL,1,1,H01B1:1 H10P14:1 H10P95:1,,,,,country,,0
+110,Centrum Fizyki Teoretycznej Pan,,research institute,PL,1,1,G06N10:1,,,,,country,,0
+111,Chipmetrics Oy,,company,FI,1,1,G03F7:1 H10P50:1 H10P74:1,,,,,country,,0
+112,Chongqing Alpha And Omega Semiconductor Ltd,,company,CN,9,9,H10D62:8 H10D64:8 H10D30:6 H10D12:4 H10D84:3,Chongqing,Chongqing,29.5657,106.5479,city,Registered company name,1
+113,Chongqing Innoevsic Tech Co Ltd,,company,CN,5,5,H10D12:5 H10D30:5 H10D62:5 H10D64:5 H10P30:1,,,,,country,,0
+114,Chongqing Vocational Inst Eng,,research institute,CN,2,2,G06F2113:1 G06F30:1 G06Q10:1 G06Q50:1 C23C14:1 H10N60:1,Taipingchang,Chongqing,29.4374,106.9149,exact,Wikidata P625 coordinates of the organisation,1
+115,CHRISTIAN TALON,,private inventor,CH,1,1,G06N10:1,,,,,country,,0
+116,Cirrus Logic Int Semiconductor Ltd,,company,GB,5,5,H10D89:3 H10D30:2 H10D62:2 H10D64:2 H10D84:2 G01R1:1,Edinburgh,Scotland,55.9534,-3.1884,city,USPTO PatentsView assignee address (assignee 0f455f85-bd4a-48d3-b776-89d0973f5c3f; 38 of 40 US patents); town point from Overture Maps,1
+117,Cis Forschungsinstitut Fuer Mikrosensorik Gmbh,,research institute,DE,1,1,G06N10:1,,,,,country,,0
+118,Colibritd,,other/unknown,FR,1,1,G06N10:1,,,,,country,,0
+119,Comet Ag,,company,CH,1,1,H01J37:1 H02M1:1 H02M7:1 H03F1:1 H03F2200:1 H03F3:1,Flamatt,Bern,46.8899,7.322,city,Wikidata P159 headquarters (town centre coordinates),1
+120,CEA,COMMISSARIAT ENERGIE ATOMIQUE,research institute,FR,288,189,H10D64:79 H10D30:78 H10D62:75 B82Y10:50 H10P90:38 H10N70:38,Paris,Ile-de-France,48.7251,2.1503,exact,Wikidata P159 headquarters with P625 coordinates,1
+121,Univ Grenoble Alpes,,university,FR,14,9,H10B63:5 H10N70:5 H10N50:5 H10D30:4 H10D62:4 H10B51:3,Grenoble,Auvergne-Rhône-Alpes,45.1914,5.7673,exact,Wikidata P159 headquarters with P625 coordinates,1
+122,Inst Polytechnique Grenoble,,university,FR,14,9,H10B63:5 H10N70:5 H10N50:5 H10D30:4 H10D62:4 H10B51:3,Grenoble,Auvergne-Rhône-Alpes,45.1869,5.7264,city,Wikidata P159 headquarters (town centre coordinates),1
+123,Soitec,SOITEC SILICON ON INSULATOR,company,FR,93,91,H10P90:81 H10W10:42 H10P10:30 H10P14:21 H10D30:14 H10D62:14,Bernin,Auvergne-Rhône-Alpes,45.2694,5.8665,city,Company press release,1
+124,Quobly,,other/unknown,FR,2,2,B82Y10:1 G06N10:1 H10D30:1 H10D48:1 H10D62:1 H10D64:1,,,,,country,,0
+125,Univ Technique De Dresde,,university,DE,1,1,G06N10:1 G06N3:1 G06N5:1 H04B10:1,Dresden,Saxony,51.05,13.74,city,Wikidata P159 headquarters (town centre coordinates),1
+126,Weebit Nano Ltd,,company,IL,3,2,H10B63:3 H10N70:3 G11C13:1,,,,,country,,0
+127,Compart Systems Pte Ltd,,company,SG,1,1,B23K15:1 B23K2101:1 B23K26:1 B23K33:1 F04B53:1 F15B13:1,Singapore,,1.2899,103.8519,city,USPTO PatentsView assignee address (assignee 7603c26c-ee9b-47d1-88c4-9d15ddef6e91; 4 of 4 US patents); town point from Overture Maps,1
+128,Comptek Solutions Oy,,company,FI,1,1,C23C16:1 H10P14:1 H10P50:1 H10P72:1 H10P95:1,,,,,country,,0
+129,Connaught Electronics Ltd,,company,IE,4,4,H05K7:3 H10W40:3 G06F2115:1 G06F30:1 H04L12:1 H04L67:1,,County Galway,,,region,USPTO PatentsView assignee address (assignee fbc41bbb-88f7-4fec-a50e-ece82c3e6a4a); names only the province,0
+130,Consejo Superior Investigacion,,research institute,ES,3,3,C23C18:1 H01J2237:1 H10P50:1 G06N10:1 B82Y10:1 H10D48:1,,,,,country,,0
+131,Univ Valencia,,university,ES,3,3,G06N10:1 C01G1:1 C01G55:1 C23C18:1 H10P14:1 B82Y10:1,Valencia,Valencian Community,39.47,-0.3764,city,Wikidata P159 headquarters (town centre coordinates),1
+132,Univ Salamanca,,university,ES,1,1,G06N10:1,La Clerecía,Castile and León,40.9628,-5.6662,city,Wikidata P159 headquarters (town centre coordinates),1
+133,Consiglio Nazionale Ricerche,,research institute,IT,8,7,H10D62:5 H10D8:4 G06N10:3 H10D64:2 H10D12:1 H10D30:1,Roma,Lazio,41.8933,12.4829,city,Official tourism site (City of Rome),1
+134,Stlab S R L,,company,IT,1,1,H10D12:1 H10D30:1 H10D62:1 H10D64:1 H10P30:1 H10P50:1,,,,,country,,0
+135,Convanit Gmbh & Co Kg,,company,DE,1,1,G01N2021:1 G01N21:1 G06N20:1 G06N3:1 G06Q10:1 G06Q30:1,,,,,country,,0
+136,Coorstek Gk,,company,JP,1,1,C03B20:1 C03B23:1 C03C10:1 C03C2201:1 C03C3:1 H10P72:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+137,Corenergy Semiconductor Co Ltd,,company,CN,1,1,H03K17:1 H10D1:1 H10D30:1 H10D62:1 H10D64:1 H10D84:1,,,,,country,,0
+138,Crossbar Inc,,company,US,1,1,G06F21:1 H04L9:1 H10B63:1,Santa Clara,California,37.35,-121.9667,city,Wikidata P159 headquarters (town centre coordinates),1
+139,Cyborn Ltd,,company,GB,1,1,G06F21:1 G06N10:1 H03M7:1 H04L2209:1 H04L9:1,,,,,country,,0
+140,D Wave Systems Inc,,company,CA,2,2,G06N10:2 H10N60:2 B82Y10:1 G06F30:1 H10N69:1,Burnaby,British Columbia,49.2571,-122.9991,exact,Wikidata P159 headquarters with P625 coordinates,1
+141,Daifuku Kk,,company,JP,6,6,H10P72:6 B65G35:4 B65G1:3 B65G2201:3 B65G49:3 B65G43:2,Osaka,Osaka Prefecture,34.6938,135.5021,city,Wikidata P159 headquarters (town centre coordinates),1
+142,Daon Tech,,other/unknown,IM,2,2,G06N10:2 G06V40:1 G06F21:1 G06N20:1 H04L9:1,,,,,country,,0
+143,Daxin Materials Corp,,company,TW,1,1,B08B11:1 B08B3:1 C11D2111:1 C11D3:1 C11D7:1 H10P50:1,Taichung,Taichung,24.1632,120.6478,city,USPTO PatentsView assignee address (assignee 8805feff-d55e-4aec-9236-8d8f1f354b92; 14 of 17 US patents); town point from Overture Maps,1
+144,De Montfort Univ,,university,GB,1,1,C01G1:1 C23C16:1 C30B25:1 H10P14:1,Leicester,England,52.6297,-1.139,exact,Wikidata P625 coordinates of the organisation,1
+145,Delft Circuits B V,,company,NL,2,2,H10N60:2 H05K1:1 H05K2201:1 H05K3:1,,,,,country,,0
+146,Delta Electronics Inc,,company,TW,11,10,H10W40:7 H10W70:5 H10W90:5 H05K1:4 H05K2201:4 H10W74:4,Taipei,Taipei,25.0816,121.5723,exact,Wikidata P159 headquarters with P625 coordinates,1
+147,Demirkiran Oezcan,,other/unknown,TR,1,1,H10D99:1,,,,,country,,0
+148,Denka Co Limited,,company,JP,1,1,C08F2:1 C08F220:1 C08F222:1 C08F265:1 C09J11:1 C09J133:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+149,Denpaflux Gmbh,,company,DE,1,1,G06F2115:1 G06F30:1,,,,,country,,0
+150,Denso Corp,,company,JP,16,15,H10W40:9 H10D62:6 H10W70:5 H10W90:5 H10W72:4 H10D30:3,Kariya,Aichi Prefecture,34.9972,137.0082,exact,Wikidata P159 headquarters with P625 coordinates,1
+151,Mirise Technologies Corporation,,company,JP,9,9,H10D62:4 H10W40:4 H10W70:3 H10W90:3 H10D30:2 H10D64:2,,Aichi Prefecture,,,region,Wikidata P159 headquarters (region only),0
+152,Toyota Motor Co Ltd,,company,JP,3,3,G06N10:2 G06N20:2 H10D62:1 H10D64:1 H10P30:1 H10P50:1,Toyota,Aichi Prefecture,35.0834,137.1567,city,USPTO PatentsView assignee address (assignee c5ba507a-2d6d-4b6a-a095-6dae3b6e164b; 75 of 131 US patents); town point from Overture Maps,1
+153,DLR (German Aerospace Center),DEUTSCH ZENTR LUFT & RAUMFAHRT,research institute,DE,18,14,G06N10:15 H04B10:3 B82Y10:3 G06N20:3 G06N5:3 C30B29:3,Köln,North Rhine-Westphalia,50.9384,6.96,city,Official website,1
+154,Deutsche Telekom Ag,,company,DE,4,4,G06N10:4 H04L9:2 B82Y10:1 H04J3:1 H04W56:1 G02F1:1,Bonn,North Rhine-Westphalia,50.7078,7.1286,exact,Wikidata P159 headquarters with P625 coordinates,1
+155,Technische Univ Dresden Koerperschaft Des Oeffentlichen Rechts,,university,DE,3,3,G06N10:2 H04J3:1 H04W56:1 G06F11:1 G06F2209:1 G06F9:1,Dresden,Saxony,51.05,13.74,city,Wikidata P159 headquarters (town centre coordinates),1
+156,Campusgenius Gmbh,,company,DE,1,1,G06N10:1 H04J3:1 H04W56:1,,,,,country,,0
+157,Univ Muenchen Tech,,university,DE,1,1,G02F1:1 G06N10:1,Munich,Bavaria,48.1375,11.575,city,Wikidata P159 headquarters (town centre coordinates),1
+158,Deuvtek Co Ltd,,company,TW,1,1,B23K26:1 H10P50:1 H10P54:1 H10P72:1,,,,,country,,0
+159,Diebold Nixdorf Systems Gmbh,,company,DE,1,1,B24B37:1 B24B57:1 G07F19:1 H10P52:1 H10P72:1,,,,,country,,0
+160,Diodes Inc,,company,US,7,7,H10D62:7 H10D64:6 H10D8:5 H10D30:4 H10D84:4 H10D89:3,Plano,Texas,33.0833,-96.7997,exact,Wikidata P159 headquarters with P625 coordinates,1
+161,Disco Corp,,company,JP,13,13,H10P72:8 B23K26:5 H10P90:4 H10P54:4 B23K2101:3 B24B7:3,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+162,Disco Hi Tec Europe Gmbh,,company,DE,2,2,H10P54:2 H10P72:2 H10P90:1 H10P95:1 B32B2307:1 B32B2323:1,Kirchheim bei München,Bavaria,48.1785,11.7602,exact,Wikidata P159 headquarters with P625 coordinates,1
+163,Drs Network & Imaging Systems Llc,,company,US,1,1,H10D1:1 H10F39:1,Melbourne,Florida,28.0785,-80.6078,city,USPTO PatentsView assignee address (assignee 6c10fd3a-b70d-43c4-a49d-483f43c4efc7; 46 of 50 US patents); town point from Overture Maps,1
+164,Duksan Neolux Co Ltd,,company,KR,1,1,G03F7:1 H10P76:1,,,,,country,,0
+165,Dyconex Ag,,company,CH,1,1,H10N60:1,Bassersdorf,Zurich,47.4436,8.6299,city,USPTO PatentsView assignee address (assignee 142b42e0-f2a8-4784-b6bc-11cc0c8cbdc7; 7 of 9 US patents); town point from Overture Maps,1
+166,Diatope Gmbh,,company,DE,1,1,B82Y10:1 C23C16:1 C30B25:1 C30B29:1 C30B31:1 C30B33:1,,,,,country,,0
+167,E Convert Gmbh,,company,DE,1,1,G21H1:1 G21H7:1 H01G4:1 H01G7:1 H10B53:1 H10D1:1,,,,,country,,0
+168,E On Digital Tech Gmbh,,company,DE,1,1,B60L2260:1 B60L53:1 B60L55:1 G06N10:1 G06N20:1 H02J3:1,Hanover,Lower Saxony,52.3406,9.6956,exact,Wikidata P159 headquarters with P625 coordinates,1
+169,IBM,,company,US,67,67,H10D30:23 H10D84:23 H10W20:20 H10D62:18 H10D64:16 H10B63:11,"Armonk, NY",New York,41.1265,-73.714,city,Annual report (SEC Form 10-K),1
+170,Eagle Harbor Tech Inc,,company,US,1,1,H01J37:1 H03H7:1 H10P72:1,Seattle,Washington,47.6185,-122.3582,exact,Wikidata P159 headquarters with P625 coordinates,1
+171,Ebara Corp,,company,JP,7,7,H10P72:5 B24B37:4 H10P52:4 B24B21:2 B24B57:2 B24B9:2,Tokyo,Tokyo,35.6769,139.7639,city,USPTO PatentsView assignee address (assignee 11350caa-72bb-46f2-92bf-0328ce9a783c; 2178 of 2240 US patents); town point from Overture Maps,1
+172,Is Eng Co Ltd,,company,JP,1,1,H10P72:1,,,,,country,,0
+173,Ebica,,other/unknown,FR,2,1,B05D3:2 B29C2035:2 B29C35:2 B29C64:2 B33Y10:2 B33Y50:2,,,,,country,,0
+174,Ecm Tech,,other/unknown,FR,1,1,H10P72:1,Grenoble,Auvergne-Rhône-Alpes,45.1869,5.7264,city,Wikidata P159 headquarters (town centre coordinates),1
+175,Ecole Polytechnique Fed Lausanne Epfl,,university,CH,2,2,B82Y10:2 H10D62:2 H10D30:1 H10D64:1 H10D84:1 H10D88:1,,,,,country,,0
+176,Edwards Tech Trading Shanghai Company Limited,,company,,1,1,F04C18:1 F04C25:1 F04C28:1 F04F5:1 H10P72:1,,,,,unknown,,0
+177,Edwards Technologies Trading Shanghai Co Limited,,company,CN,1,1,F04C18:1 F04C25:1 F04C28:1 F04F5:1 H10P72:1,,,,,country,,0
+178,Edwards Vacuum Llc,,company,,2,2,F04B39:1 F04D29:1 F16B2:1 F16L3:1 F16M11:1 F16M13:1,,,,,unknown,,0
+179,Electron Group B V,,company,NL,1,1,F27B17:1 F27B5:1 F27D19:1 F27D21:1 H10P72:1,,,,,country,,0
+180,Electronics & Telecommunications Res Inst,,research institute,KR,3,3,G06N10:2 B82Y10:1 B82Y40:1 H10D30:1 H10D62:1 H10D64:1,Oncheon 2(i)-dong,Daejeon,36.3795,127.3339,exact,Wikidata P625 coordinates of the organisation,1
+181,Element 3 5 Gmbh,,company,DE,2,2,C23C16:2 C23C14:1 H10P14:1 H01J37:1 H10P72:1,,,,,country,,0
+182,Element Six Tech Ltd,,company,,1,1,C23C16:1 C30B25:1 C30B29:1 G01B11:1 G01J5:1 H01J37:1,,,,,unknown,,0
+183,Elmos Semiconductor Se,,company,DE,7,7,H10D84:5 H10D89:2 G06F2117:2 G06F30:2 B60R21:2 G01R31:2,Dortmund,North Rhine-Westphalia,51.4934,7.404,exact,Wikidata P159 headquarters with P625 coordinates,1
+184,Ememory Technology Inc,,company,TW,1,1,G05F3:1 G11C16:1 H02M1:1 H02M3:1 H03K17:1 H03K19:1,Hsinchu,Hsinchu,24.8066,120.9687,city,USPTO PatentsView assignee address (assignee ebbaafb5-a072-4370-b664-e8eb205b3b29; 324 of 330 US patents); town point from Overture Maps,1
+185,Enea Agenzia Naz Per Le Nuove Tecnologie Lenergia E Lo Sviluppo Economico Sostenibile,,research institute,IT,1,1,H10N60:1,,,,,country,,0
+186,Entegris Inc,,company,US,1,1,G03F1:1 H10P72:1,Billerica,Massachusetts,42.5583,-71.2694,city,Wikidata P159 headquarters (town centre coordinates),1
+187,Epicrew Corp,,company,JP,2,2,H10P72:2 C23C16:1 C30B25:1 F27B17:1 F27D11:1 F27D19:1,,,,,country,,0
+188,I Labo Corp,,company,JP,1,1,C01B3:1 F01D15:1 F01K25:1 F01K7:1 F02B63:1 F02C3:1,,,,,country,,0
+189,Epinovatech Ab,,company,SE,6,6,H10D30:5 H10D62:5 H10D64:3 H10D84:2 H10P14:2 B82Y10:2,Lund,Skåne County,55.7029,13.1929,city,Swedish company register (allabolag),1
+190,Eraytroniks Co Ltd,,company,TW,2,1,G11C13:2 G11C2013:2 G11C2213:2 H10B63:2 H10N70:2,,,,,country,,0
+191,Hsieh E Ray,,other/unknown,,1,1,G11C13:1 G11C2013:1 G11C2213:1 H10B63:1 H10N70:1,,,,,unknown,,0
+192,Ernst Abbe Hochschule Jena Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,H10P74:1,,,,,country,,0
+193,Ers Electronic Gmbh,,company,DE,1,1,H10P72:1 H10P74:1,,,,,country,,0
+194,Etel Sa,,company,CH,6,6,H10P72:6 H02K41:2 G01R15:1 G01R19:1 G03F7:1 H02M1:1,Môtiers,Neuchâtel,46.9105,6.6108,city,Supplier directory; USPTO PatentsView address (Motiers),1
+195,Everspin Technologies Inc,,company,US,10,10,H10B61:10 H10N50:10 G11C11:3 G01R33:2 H10N59:2 H01F10:2,Chandler,Arizona,33.3073,-111.9397,exact,Wikidata P159 headquarters with P625 coordinates,1
+196,Faes B V,,company,NL,2,2,F24F3:2 H10P72:2,,,,,country,,0
+197,Fei Co,,company,US,1,1,G01N23:1 G01N35:1 H01J37:1 H10P72:1,Hillsboro,Oregon,45.5469,-122.928,exact,Wikidata P159 headquarters with P625 coordinates,1
+198,Festo Se & Co Kg,,company,DE,14,14,H10P72:14 F15B11:11 F15B2211:11 F15B21:10 F16K3:6 F15B15:5,Esslingen am Neckar,Baden-Württemberg,48.7203,9.3061,exact,Wikidata P159 headquarters with P625 coordinates,1
+199,Fh Muenster Koerperschaft Des Oeffentlichen Rechts,,university,DE,8,1,G01R33:8 G06N10:8 G06N20:8 G06N3:8,Münster,North Rhine-Westphalia,51.961,7.6081,exact,Wikidata P625 coordinates of the organisation,1
+200,Quantum Tech Gmbh,,company,DE,14,4,G06N10:14 G01R33:8 G06N20:8 G06N3:8 H10D48:5 B82B3:4,Leipzig,Saxony,51.3406,12.3747,city,Interview / trade press,1
+201,Finwave Semiconductor Inc,,company,US,2,2,H10D30:2 H10D62:2 H10D64:2,,,,,country,,0
+202,Firat Ueniversitesi Rektoerluegue,,university,TR,3,3,G06N10:2 H10D1:1 H10K71:1 G06F11:1 B82Y10:1 G06F9:1,,,,,country,,0
+203,Flexlink Ab,,company,SE,1,1,B61B15:1 B65G1:1 H10P72:1,Gothenburg,Västra Götaland County,57.7075,11.9675,city,Wikidata P159 headquarters (town centre coordinates),1
+204,Flexxon Pte Ltd,,company,SG,1,1,G06N10:1 G06N20:1 G06N3:1 G06N7:1,Singapore,,1.2899,103.8519,city,USPTO PatentsView assignee address (assignee d2056d4e-9036-4c19-b97c-6f50bf3c133e; 2 of 2 US patents); town point from Overture Maps,1
+205,Flosfia Inc,,company,JP,2,1,B05B17:2 C07C49:2 C07F15:2 C23C16:2 C23C18:2 H10P14:2,Kyoto,Kyoto Prefecture,35.0116,135.7681,city,USPTO PatentsView assignee address (assignee 757103fb-c0a2-4004-a194-771f9f93ada4; 20 of 29 US patents); town point from Overture Maps,1
+206,Fonontech Holding B V,,company,NL,1,1,H10P72:1,,,,,country,,0
+207,Forschungsverbund Berlin Ev,,research institute,DE,1,1,C30B23:1 C30B25:1 C30B29:1 H10D62:1 H10H20:1 H10P14:1,Adlershof,Berlin,52.4378,13.5475,city,Wikidata P159 headquarters (town centre coordinates),1
+208,Forschungszentrum Juelich Gmbh,,research institute,DE,12,11,G06N10:7 H10N60:2 H10P14:2 B81C1:1 B81C2201:1 B82B3:1,Jülich,North Rhine-Westphalia,50.9222,6.3583,city,Wikidata P159 headquarters (town centre coordinates),1
+209,Univ Syracuse,,university,US,1,1,G06N10:1,Syracuse,New York,43.0376,-76.134,exact,Wikidata P625 coordinates of the organisation,1
+210,Fraunhofer,FRAUNHOFER GES FORSCHUNG,research institute,DE,30,26,G06N10:14 H10P14:8 H10P30:4 H10D62:4 H10P95:3 H10W42:3,Munich,Bavaria,48.1371,11.5754,city,USPTO PatentsView assignee address (assignee 8c69ea61-7888-44d7-9fd5-7e0b1f4c57a2; 2 of 4 US patents); town point from Overture Maps,1
+211,Friedrich Schiller Univ Jena Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,G02F1:1 G06N10:1 H04B10:1,Jena,Thuringia,50.9272,11.5864,city,Wikidata P159 headquarters (town centre coordinates),1
+212,Max Planck Gesellschaft,,research institute,DE,5,4,G06N10:4 B82Y10:2 H01S3:2 G02B26:1 G02B27:1 G02B5:1,Munich,Bavaria,48.1412,11.5821,exact,Wikidata P159 headquarters with P625 coordinates,1
+213,Rheinische Friedrich Wilhelms Univ Bonn Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,G06N10:1 G06N3:1,Bonn,North Rhine-Westphalia,50.7353,7.1025,city,USPTO PatentsView assignee address (assignee 75ef7509-3297-49ef-a29d-f52ba2b89928; 25 of 38 US patents); town point from Overture Maps,1
+214,Technische Univ Chemnitz Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,H10N60:1,Chemnitz,Saxony,50.8392,12.9275,exact,Wikidata P159 headquarters with P625 coordinates,1
+215,Trumpf Laser Se,,company,DE,2,2,B23K2101:1 B23K26:1 G03F7:1 H10P14:1 H10P50:1 H10P95:1,,,,,country,,0
+216,Freiberger Compound Mat Gesellschaft Mit Beschraenkter Haftung,,company,DE,1,1,H10P72:1,,,,,country,,0
+217,Freiberger Compound Mat Gmbh,,company,DE,1,1,H10P72:1,Freiberg,Saxony,50.9036,13.3568,exact,Wikidata P159 headquarters with P625 coordinates,1
+218,Friedrich Alexander Univ Erlangen Nuernberg In Vertretung Des Freistaates Bayern,,university,DE,2,2,H10N60:1 H10N69:1 B82Y10:1 H10D1:1 H10D62:1 H10D64:1,,,,,country,,0
+219,Fuji Corp,,company,JP,1,1,B41F15:1 B41F21:1 B41F27:1 B41F33:1 B41P2215:1 B41P2227:1,Chiryu,Aichi Prefecture,35.0015,137.0516,city,USPTO PatentsView assignee address (assignee 27dce6aa-a588-4b80-aeae-0492608b8883; 408 of 531 US patents); town point from Overture Maps,1
+220,Fuji Electric Co Ltd,,company,JP,11,11,H10W40:7 H10W90:7 H10W70:5 H10W74:3 H02M7:2 H10W72:2,Tokyo,Tokyo,35.6189,139.7319,exact,Wikidata P159 headquarters with P625 coordinates,1
+221,Fujifilm Electronic Mat Europe N V,,company,BE,1,1,C08F290:1 C08G73:1 C08L2312:1 C08L79:1 C09D4:1 G03F7:1,,,,,country,,0
+222,Fujifilm Electronic Mat Usa Inc,,company,US,2,2,B24B37:2 C09G1:2 C09K3:2 H10P52:2 H10P95:1 H10P90:1,,,,,country,,0
+223,Fujikoshi Machinery Corp,,company,JP,2,2,G01B11:1 G01B21:1 G01B2210:1 G01N21:1 H10P74:1 G05B19:1,Nagano,Nagano Prefecture,36.6486,138.1948,city,USPTO PatentsView assignee address (assignee 93c81cf4-3194-41a4-88e9-38e6188e3da6; 55 of 65 US patents); town point from Overture Maps,1
+224,Fujimi Inc,,company,JP,4,4,C09G1:4 C09K3:4 H10P52:4 H10P95:2 B24B37:2 H10P90:2,Kiyosu,Aichi Prefecture,35.2002,136.8531,city,USPTO PatentsView assignee address (assignee 8b237ef7-087d-4bec-afda-8b154fcc3f6d; 95 of 192 US patents); town point from Overture Maps,1
+225,Fujitsu,FUJITSU LTD,company,JP,101,101,G06N10:88 G06N5:20 G06N3:16 H10N60:15 H10N69:14 G06N20:9,Tokyo,Tokyo,35.6657,139.7609,exact,Wikidata P159 headquarters with P625 coordinates,1
+226,Qunasys Inc,,company,JP,1,1,G06N10:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+227,Riken,,research institute,JP,2,2,G06N10:2 H01P1:1 H03H2007:1 H03H7:1 H03K19:1 G03F7:1,Wako,Saitama Prefecture,35.7803,139.6125,exact,Wikidata P159 headquarters with P625 coordinates,1
+228,Fundacion Tecnalia Res & Innovation,,research institute,ES,2,2,G06N10:2 G06Q10:1,,,,,country,,0
+229,Gaiotto Automation S P A,,company,IT,2,1,B25J15:2 B25J9:2 B65G2249:2 B65G47:2 G05B2219:2 H10P72:2,,,,,country,,0
+230,Gauss Labs Inc,,company,US,1,1,G03F7:1 G03F9:1 G05B13:1 G06N20:1 G06N3:1 H10P74:1,,,,,country,,0
+231,Gdm Holding Llc,,company,US,1,1,G06F2119:1 G06F30:1,,,,,country,,0
+232,Ge Aviat Systems Ltd,,company,GB,2,2,B64D2221:1 G01R19:1 G05F1:1 G05F3:1 H02H3:1 H02H9:1,,,,,country,,0
+233,Ge Aviation Systems Llc,,company,US,2,2,H10D12:1 H10D30:1 H10D62:1 H10D8:1 B64D33:1 H02B1:1,Cincinnati,Ohio,39.1,-84.5125,city,Wikidata P159 headquarters (town centre coordinates),1
+234,Gelest Inc,,company,US,1,1,C07F7:1 C23C16:1 H10P14:1,,,,,country,,0
+235,Gen Electric,,other/unknown,US,5,5,H10W90:4 H10W70:3 H10W72:2 H10D30:1 H10D62:1 H10D64:1,,,,,country,,0
+236,Genesic Semiconductor Inc,,company,US,1,1,H10D12:1 H10D30:1 H10D62:1 H10D64:1 H10D8:1 H10D84:1,Dulles,Virginia,38.9702,-77.4911,exact,Wikidata P159 headquarters with P625 coordinates,1
+237,Ges Fuer Angewandte Mikro Und Optoelektronik Mit Beschraenkter Haftung Amo Gmbh,,company,DE,1,1,H10D30:1 H10D62:1,,,,,country,,0
+238,Rheinisch Westfaelische Technische Hochschule Aachen Koerperschaft Des Oeffentlichen Rechts,,university,DE,2,2,H10D30:1 H10D62:1 H05K7:1 H10W40:1,,,,,country,,0
+239,Getac Technology Corp,,company,TW,2,2,G06F1:2 H01R13:1 H05K9:1 H10B80:1 H05K1:1 H05K2201:1,Hsinchu,Hsinchu,24.8066,120.9687,city,USPTO PatentsView assignee address (assignee d93681eb-1ba0-497e-9031-4f3a665dde79; 313 of 443 US patents); town point from Overture Maps,1
+240,Gigadevice Semiconductor Shanghai Inc,,company,CN,3,3,H10B41:3 H10D1:2 H10D30:1 H10D64:1 H10P32:1 H10P50:1,Beijing,Beijing,39.9057,116.3913,city,USPTO PatentsView assignee address (assignee 90577226-8a2d-4390-80bb-687511f5aea3; 19 of 31 US patents); town point from Overture Maps,1
+241,Gigadevice Semiconductor Hefei Inc,,company,CN,2,2,H10B41:2 H10D30:1 H10D64:1 H10D1:1 H10D84:1,,,,,country,,0
+242,Gigadevice Semiconductor Xian Inc,,company,CN,2,2,H10B41:1 H10D30:1 H10D64:1 H10B80:1 H10W70:1 H10W72:1,,,,,country,,0
+243,Gigadevice Semiconductor Inc,,company,CN,3,3,H10B41:3 H10D1:2 H10D30:1 H10D64:1 H10P32:1 H10P50:1,,,,,country,,0
+244,Gigaphoton Inc,,company,JP,1,1,G03F7:1 H10P72:1,Tochigi,Tochigi Prefecture,36.3818,139.7336,city,USPTO PatentsView assignee address (assignee e237c506-9321-411f-b4f7-1f0990dcc9ec; 380 of 444 US patents); town point from Overture Maps,1
+245,GlobalFoundries,GLOBALFOUNDRIES US INC,company,US,96,95,H10D62:56 H10D30:40 H10D64:36 H10D84:24 H10D10:23 H10D86:20,"Malta, NY",New York,42.9712,-73.7929,city,Trade press,2
+246,Globalwafers Co Ltd,,company,TW,4,4,H10P90:3 B24B37:2 B24B49:2 H10P52:2 H10P74:2 H10D86:2,Hsinchu City,Hsinchu,24.7779,121.0061,exact,Wikidata P159 headquarters with P625 coordinates,1
+247,Goodrich Corp,,company,US,1,1,B64D15:1 G06N10:1 H04B10:1,Charlotte,North Carolina,35.2272,-80.8431,city,USPTO PatentsView assignee address (assignee 810069ba-af7f-4620-92b0-1fa26aa7ee6d; 1241 of 1255 US patents); town point from Overture Maps,1
+248,Google,GOOGLE LLC,company,US,31,30,H10W90:16 H10W40:13 G06N10:10 H10W72:8 H10W70:5 H05K7:4,Googleplex,California,37.4221,-122.0844,exact,Wikidata P159 headquarters with P625 coordinates,1
+249,Gottfried Wilhelm Leibniz Univ Hannover Koerperschaft Des Oeffentlichen Rechts,,university,DE,2,2,G06N10:1 H10W20:1 H10W70:1,Hannover,Lower Saxony,52.3745,9.7386,city,USPTO PatentsView assignee address (assignee 7694f797-9906-4f74-b3fe-5b397c45b23f; 13 of 13 US patents); town point from Overture Maps,1
+250,Volkswagen,VOLKSWAGEN AG,company,DE,57,44,H10W40:24 H10W70:21 H10W90:20 H10W72:19 H02M7:18 H10W74:18,Wolfsburg,Lower Saxony,52.4231,10.7872,city,Wikidata P159 headquarters (town centre coordinates),1
+251,Group14 Technologies Inc,,company,US,1,1,A01G25:1 C01B32:1 C01P2002:1 C01P2006:1 C08F2:1 C08G14:1,Woodinville,Washington,47.7546,-122.1589,city,USPTO PatentsView assignee address (assignee 331b5bfa-f563-40a4-aca1-11a5fde3c824; 10 of 10 US patents); town point from Overture Maps,1
+252,Gsec German Semiconductor Equipment Co Gmbh,,company,DE,1,1,B08B9:1 H10P72:1,,,,,country,,0
+253,Gsec German Semiconductor Equipment Company Gmbh,,company,DE,1,1,B08B9:1 F26B21:1 H10P72:1,,,,,country,,0
+254,Guangzhou China Star Optoelectronics Semiconductor Display Tech Co Ltd,,company,CN,5,5,H10D30:5 H10D86:4 H10D62:1 H10K59:1,,,,,country,,0
+255,Gudeng Prec Ind Co Ltd,,company,TW,14,8,G03F1:14 H10P72:14 G03F7:12 H05F3:2 G02B27:2 E05B15:2,New Taipei,New Taipei,25.012,121.4657,city,USPTO PatentsView assignee address (assignee 2e3c81d6-a8e0-4fb4-a79c-cb1e427864a8; 41 of 68 US patents); town point from Overture Maps,1
+256,GUSTKE PHIL,,private inventor,DE,1,1,G06N10:1,,,,,country,,0
+257,RUDER JANNES,,private inventor,DE,1,1,G06N10:1,,,,,country,,0
+258,Schoeneberg Philipp,,other/unknown,DE,1,1,G06N10:1,,,,,country,,0
+259,Gebr Schmid Gmbh,,company,DE,4,4,H05K2203:3 H05K3:3 H10P72:2 H10W70:2 H05K1:1 H05K2201:1,,,,,country,,0
+260,H P B Optoelectronics Co Ltd,,company,TW,1,1,B24B37:1 B24B49:1 B24B53:1 H10P52:1,,,,,country,,0
+261,Hangzhou Fujia Gallium Tech Co Ltd,,company,CN,1,1,C30B25:1 C30B29:1 G16C20:1 G16C60:1 H10P14:1,,,,,country,,0
+262,Hannstar Display Corp,,company,TW,1,1,G02F1:1 H10D86:1,Taipei,Taipei,25.0589,121.5788,exact,Wikidata P159 headquarters with P625 coordinates,1
+263,Hansol Chemical Co Ltd,,company,KR,1,1,C07F5:1 C23C16:1 H10P14:1,Seoul,Seoul,37.5046,127.0466,exact,Wikidata P159 headquarters with P625 coordinates,1
+264,Hanwha Solutions Corp,,company,KR,1,1,B01D53:1 H10P72:1,Seoul,Seoul,37.56,126.99,city,Wikidata P159 headquarters (town centre coordinates),1
+265,Harvard College,,university,US,1,1,G06N10:1 G21K1:1,Cambridge,Massachusetts,42.374,-71.117,exact,Wikidata P625 coordinates of the organisation,1
+266,Massachusetts Inst Technology,,university,US,2,2,G06N10:1 G21K1:1 H10P10:1 H10P14:1 H10P90:1 H10W10:1,Cambridge,Massachusetts,42.3598,-71.0921,exact,Wikidata P159 headquarters with P625 coordinates,1
+267,Hefei Reliance Memory Ltd,,company,CN,1,1,G11C13:1 G11C2213:1 G11C7:1 H10B63:1 H10N70:1,Hefei,Anhui,31.8666,117.2814,city,USPTO PatentsView assignee address (assignee 2e5e57fc-e00a-41eb-b4a8-a30d889d5757; 34 of 34 US patents); town point from Overture Maps,1
+268,Hefei Visionox Tech Co Ltd,,company,CN,1,1,H10D30:1 H10K59:1,,,,,country,,0
+269,Visionox Tech Inc,,company,CN,2,2,H10K59:2 H10D30:1 H10D99:1 H10K2102:1 H10K50:1,,,,,country,,0
+270,Hella Gmbh & Co Kgaa,,company,DE,2,2,G06F2115:1 G06F2119:1 G06F30:1 F21S41:1 F21S45:1 F21V29:1,Lippstadt,North Rhine-Westphalia,51.6743,8.3568,exact,Wikidata P159 headquarters with P625 coordinates,1
+271,Helmholtz Zentrum Berlin Fuer Mat Und Energie Gesellschaft Mit Beschraenkter Haftung,,research institute,DE,4,4,H10P72:2 G01R31:2 H10P74:2 B05D1:1 F25B21:1 F25B2321:1,,,,,country,,0
+272,Helmholtz Zentrum Berlin Fuer Mat Und Energie Gmbh,,research institute,DE,1,1,G01R31:1 G01R33:1 H10P74:1,,,,,country,,0
+273,Heraeus Precious Metals Gmbh,,company,DE,1,1,C07F15:1 C23C16:1 H10P14:1,Hanau,Hesse,50.1329,8.917,city,USPTO PatentsView assignee address (assignee b57510bb-cd0e-49f0-a4c6-3226716bde51; 42 of 62 US patents); town point from Overture Maps,1
+274,Heraeus Quarzglas,,other/unknown,DE,1,1,C03B19:1 C03C10:1 C03C14:1 C03C2214:1 C03C3:1 C03C4:1,Hanau,Hesse,50.1329,8.917,city,USPTO PatentsView assignee address (assignee 55c15506-80f9-45a7-9243-7e346743b142; 235 of 247 US patents); town point from Overture Maps,1
+275,Hewlett Packard Development Co,,company,US,1,1,B41J2:1 G11C16:1 G11C29:1 G11C8:1 H10B43:1 H10B53:1,Houston,Texas,29.7589,-95.3677,city,USPTO PatentsView assignee address (assignee 302d2c92-ccbb-4c7c-92c3-fc825f8dfacd; 25317 of 37405 US patents); town point from Overture Maps,1
+276,Hewlett Packard Entpr Dev Lp,,company,US,3,3,C30B25:1 C30B29:1 H10P14:1 H10P90:1 H10P95:1 G02F3:1,,,,,country,,0
+277,Hirata Spinning,,other/unknown,JP,1,1,H10P72:1,,,,,country,,0
+278,Hitachi Energy,HITACHI ENERGY LTD,company,CH,19,19,H10D62:8 H10W90:7 H10W72:6 H10D12:5 H10D64:5 H10D30:4,Zurich,Zurich,47.3744,8.5411,city,Wikidata P159 headquarters (town centre coordinates),1
+279,Hitachi High Tech Corp,,company,JP,1,1,H01J2237:1 H01J37:1 H02N15:1 H10P72:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+280,Hitachi Ltd,,company,JP,4,4,H10D62:2 G06N10:2 H10D30:1 H03F1:1 H03F3:1 H10D84:1,Marunouchi,Tokyo,35.6833,139.7657,exact,Wikidata P159 headquarters with P625 coordinates,1
+281,Hitachi Power Semiconductor Device Ltd,,company,JP,1,1,H10D62:1 H10D64:1 H10D8:1 H10P30:1,Ibaraki,Osaka Prefecture,34.8161,135.5685,city,USPTO PatentsView assignee address (assignee 2d2a1a30-3db0-4e15-a25a-8199d35d3630; 13 of 28 US patents); town point from Overture Maps,1
+282,Hon Hai Prec Ind Co Ltd,,company,TW,6,6,H10D62:5 H10D30:3 H10D64:3 H10D12:2 H10B12:1 H10B41:1,New Taipei,New Taipei,25.0125,121.465,city,Wikidata P159 headquarters (town centre coordinates),1
+283,Hon Young Semiconductor Corp,,company,TW,3,3,H10D30:2 H10D62:2 H10D64:2 H10P50:1 H10D84:1 H10W20:1,,,,,country,,0
+284,Honda Res Inst Europe Gmbh,,research institute,DE,3,2,G06F17:3 G06N10:3 G06N5:3 G06Q10:2 G06Q50:2 G06Q90:2,Lämmerspiel,Hesse,50.085,8.84,exact,Wikidata P625 coordinates of the organisation,1
+285,Honeywell Int Inc,,company,US,2,2,B81B7:2 G06N3:2 G11C11:2 G11C13:2 G11C23:2 H10B63:2,Charlotte,North Carolina,35.227,-80.8456,exact,Wikidata P159 headquarters with P625 coordinates,1
+286,Honor Device Co Ltd,,company,CN,2,2,H10D86:1 H10K59:1 H04R1:1 H10P14:1 H10W42:1 H10W70:1,Shenzhen,Guangdong,22.5446,114.0545,city,USPTO PatentsView assignee address (assignee b94bbf68-df15-41fa-a9e2-6dacc8b3aa97; 9 of 17 US patents); town point from Overture Maps,1
+287,Horiba Stec Co Ltd,,company,JP,1,1,B01B1:1 B01D1:1 B01D3:1 B01F2035:1 B01F23:1 B01F25:1,Kyoto,Kyoto Prefecture,35.0116,135.7681,city,USPTO PatentsView assignee address (assignee e9ec947a-fd2a-4179-b531-f1c04a905b6d; 94 of 135 US patents); town point from Overture Maps,1
+288,Horizon Quantum Computing Pte Ltd,,company,SG,1,1,G06F11:1 G06F30:1 G06F8:1 G06N10:1,Singapore,,1.2899,103.8519,city,Applicant country in the patent data (city-state),1
+289,Hpsp Co Ltd,,company,KR,5,5,H10P72:5 C23C16:3 F16J15:1 F17D1:1 H10P14:1 B01D8:1,,,,,country,,0
+290,Hq Dielectrics Gmbh,,company,DE,1,1,C23C16:1 H01J37:1 H10P72:1,,,,,country,,0
+291,Hqs Quantum Simulations Gmbh,,company,DE,1,1,G06N10:1,,,,,country,,0
+292,Hsbc Group Man Services Limited,,company,GB,3,3,G06N10:3 G06N5:2 G06F8:1 G06N20:1 G06N7:1 G06F7:1,,,,,country,,0
+293,Hsbc Tech And Services Usa Inc,,company,,1,1,G06N10:1 G06N20:1,,,,,unknown,,0
+294,Huaneng New Energy Co Ltd Shaanxi Branch,,company,CN,1,1,F03D80:1 F03D9:1 G06F17:1 G06F2111:1 G06F2113:1 G06F30:1,,,,,country,,0
+295,Huawei,HUAWEI TECH CO LTD,company,CN,43,43,H10D30:17 H10W40:16 H10D64:15 H10D62:14 H10W90:14 H10W70:12,Shenzhen,Guangdong,22.5446,114.0545,city,USPTO PatentsView assignee address (assignee ae90380d-5ef9-4eaf-a553-6b9174a80333; 14370 of 15577 US patents); town point from Overture Maps,1
+296,Hunan Sanan Semiconductor Co Ltd,,company,CN,2,2,H10D30:1 H10D62:1 H10D64:1 H10W40:1 H10W70:1 H10W90:1,,,,,country,,0
+297,Hyundai Motor Group,HYUNDAI MOTOR CO LTD,company,KR,32,32,H10W70:19 H10W90:17 H10W72:14 H10W40:13 H10W74:10 H02M7:7,Seoul,Seoul,37.4641,127.0423,exact,Wikidata P159 headquarters with P625 coordinates,3
+298,Seoul Nat Univ R&Db Foundation,,university,KR,3,3,H10D62:2 H01B12:1 H10N60:1 C30B25:1 C30B29:1 B82Y10:1,Seoul,Seoul,37.5667,126.9783,city,USPTO PatentsView assignee address (assignee dc8e77ed-9935-4c73-9a8a-c6abf207916d; 492 of 538 US patents); town point from Overture Maps,1
+299,Id Quantique S A,,company,CH,1,1,G01J1:1 G01J2001:1 H04B10:1 H04L9:1 H10F77:1 H10N60:1,Geneva,Geneva,46.1801,6.1353,exact,Wikidata P159 headquarters with P625 coordinates,1
+300,Ideaded S L,,company,ES,3,3,H10D62:2 H10K10:2 B81B2203:1 B81C1:1 H10K85:1 G06F17:1,,,,,country,,0
+301,Univ Barcelona,,university,ES,1,1,G06F17:1 G06N10:1,Barcelona,Catalonia,41.3825,2.1769,city,Wikidata P159 headquarters (town centre coordinates),1
+302,Ideal Power Inc,,company,US,4,4,H10D10:3 H10D62:3 H10D84:3 H03K17:2 H02M1:1 H02M3:1,,,,,country,,0
+303,Ihp Gmbh Innovations For High Performance Microelectronics / Leibniz Inst Fuer Innovative Mikroelekt,,research institute,DE,6,5,H10D62:2 H10P72:2 H10W72:2 H10W80:2 H10W90:2 H10W99:2,Frankfurt (Oder),Brandenburg,52.3412,14.5495,city,State ministry press release,1
+304,Ii Vi Delaware Inc,,company,US,17,16,H10P72:7 H10P95:4 H10D62:3 H10P30:3 B23K26:3 C04B2237:3,Wilmington,Delaware,39.7383,-75.5528,city,USPTO PatentsView assignee address (assignee 82801894-ad62-464e-b557-ad6ea253b4ac; 307 of 310 US patents); town point from Overture Maps,1
+305,Iii V Tech Gmbh,,company,AT,1,1,H10D10:1 H10D30:1 H10D62:1 H10D64:1 H10D8:1,,,,,country,,0
+306,Illinois Tool Works,,other/unknown,US,6,6,H10P72:5 B08B3:4 H05K3:3 B08B1:2 B65G15:2 B08B13:2,Glenview,Illinois,42.0794,-87.8156,city,Wikidata P159 headquarters (town centre coordinates),1
+307,Imagination Tech Ltd,,company,GB,2,1,G06F30:2 G06N3:2 G06T1:2 G06T2207:2 G06T5:2 G06V10:2,Kings Langley,England,51.7082,-0.4405,exact,Wikidata P159 headquarters with P625 coordinates,1
+308,imec,IMEC VZW,research institute,BE,129,127,H10D30:53 H10D84:44 H10D62:38 H10D64:37 H10W20:33 H10D88:29,Leuven,Flanders,50.8654,4.6796,exact,Wikidata P159 headquarters with P625 coordinates,2
+309,Katholieke Univ Leuven Ku Leuven Research & Development,,university,BE,12,12,G11C11:6 G11C2207:4 G11C5:4 G11C7:4 G11C8:4 H10B12:3,Leuven,Flanders,50.8792,4.7012,city,Flemish research portal,1
+310,Univ Gent,,university,BE,1,1,H10P34:1 H10P72:1,Ghent,Flanders,51.0439,3.7262,exact,Wikidata P159 headquarters with P625 coordinates,1
+311,Univ Leuven Kath,,university,BE,4,4,G11C11:3 G11C5:3 H10D30:2 H10D62:2 G11C7:2 G11C8:2,Leuven,Flanders,50.8792,4.7012,city,Flemish research portal,1
+312,Imms Inst Fuer Mikroelektronik Und Mechatronik Systeme Gemeinnuetzige Gmbh Imms Gmbh,,research institute,DE,1,1,G01N27:1 H10D30:1,,,,,country,,0
+313,X Fab Global Services Gmbh,,company,DE,5,4,H10W20:3 H10D30:2 H10D64:2 H10D84:2 G11C17:2 H10B20:2,,,,,country,,0
+314,Impedans Ltd,,company,IE,1,1,G01R19:1 H01J2237:1 H01J37:1 H05K9:1 H10P74:1,,,,,country,,0
+315,Imperial College Innovations Ltd,,university,GB,1,1,G11C11:1 H01F10:1 H10B61:1 H10N50:1,London,England,51.5072,-0.1275,city,Wikidata P159 headquarters (town centre coordinates),1
+316,Inbrain Neuroelectronics Sl,,company,ES,1,1,C01B32:1 H10P72:1,,,,,country,,0
+317,Infineon,INFINEON TECHNOLOGIES AG,company,DE,508,488,H10W70:174 H10W90:168 H10D62:165 H10W74:151 H10D30:149 H10W72:145,Neubiberg,Bavaria,48.0786,11.6136,exact,Wikidata P159 headquarters with P625 coordinates,5
+318,Infinite Potential Laboratories Lp,,company,CA,1,1,B82Y10:1 B82Y20:1 G06N10:1 H10D48:1 H10D62:1 H10N99:1,,,,,country,,0
+319,Innolux Corp,,company,TW,1,1,B25J15:1 B25J5:1 B25J9:1 B65D25:1 B65G47:1 B66F9:1,Zhunan Township,Miaoli County,24.6833,120.8833,city,Wikidata P159 headquarters (town centre coordinates),1
+320,Inova Semiconductors Gmbh,,company,DE,2,2,H04L25:2 H10D86:2,Munich,Bavaria,48.1371,11.5754,city,USPTO PatentsView assignee address (assignee 46797ee4-6449-463f-b68e-0b7fc3e6ed2a; 8 of 8 US patents); town point from Overture Maps,1
+321,Inphocal B V,,company,NL,1,1,B23K2103:1 B23K26:1 H10P54:1,,,,,country,,0
+322,Inst Doptique Theorique Et Appliquee,,research institute,FR,1,1,B82Y10:1 G01N2021:1 G02F3:1 G06N10:1,,,,,country,,0
+323,Univ Bordeaux,,university,FR,2,2,B82Y10:1 G01N2021:1 G02F3:1 G06N10:1 H10W72:1,Bordeaux,Nouvelle-Aquitaine,44.8069,-0.6,exact,Wikidata P159 headquarters with P625 coordinates,1
+324,Univ Savoie Mont Blanc,,university,FR,2,2,H10D30:2 H10D62:2 B82Y10:1 H10D64:1 H10D84:1 G01N27:1,Chambéry,Auvergne-Rhône-Alpes,45.5664,5.9208,city,Wikidata P159 headquarters (town centre coordinates),1
+325,Instadeep Ltd,,company,GB,1,1,G06F2115:1 G06F30:1 G06N3:1 G06N7:1,London,England,51.5072,-0.1275,city,Wikidata P159 headquarters (town centre coordinates),1
+326,Institut National De Rech En Informatique Et En Automatique,,research institute,FR,1,1,G06N10:1,,,,,country,,0
+327,Institut National De Rech En Informatique Et En Automatique Inria,,research institute,FR,1,1,G06N10:1,,,,,country,,0
+328,Int Iberian Nanotechnology Laboratory,,research institute,PT,1,1,G06N10:1,Braga (São Vítor),Braga,41.555,-8.3997,exact,Wikidata P625 coordinates of the organisation,1
+329,Univ Degli Studi Roma La Sapienza,,university,IT,1,1,G06N10:1,città universitaria of Rome,Lazio,41.9029,12.5145,city,Wikidata P159 headquarters (town centre coordinates),1
+330,Intel,INTEL CORP,company,US,560,552,H10D30:243 H10D84:235 H10D62:215 H10W20:206 H10D64:191 H10W70:187,Santa Clara,California,37.3881,-121.964,exact,Wikidata P159 headquarters with P625 coordinates,2
+331,Intrinsic Semiconductor Tech Ltd,,company,,1,1,G11C13:1 G11C2013:1 G11C2213:1 H10B63:1 H10N70:1,,,,,unknown,,0
+332,Ionq Inc,,company,US,4,4,G06N10:4 H04B10:2 G06N5:1 G21K1:1,College Park,Maryland,38.9967,-76.9275,city,Wikidata P159 headquarters (town centre coordinates),1
+333,Ionq Quantum Canada Inc,,company,CA,1,1,G06N10:1,,,,,country,,0
+334,Iotmemory Tech Inc,,company,TW,1,1,H10B41:1 H10D30:1 H10D64:1,Taipei,Taipei,25.0375,121.5637,city,USPTO PatentsView assignee address (assignee ae158365-0c95-4b50-a679-f69f429e14b8; 3 of 3 US patents); town point from Overture Maps,1
+335,Iqe Plc,,company,GB,6,6,H10D30:4 H10D62:4 H10P14:2 H10D64:2 H10H20:2 H10D8:1,Cardiff,Wales,51.4817,-3.1792,city,UK Companies House,1
+336,IQM,IQM FINLAND OY,company,FI,15,15,G06N10:14 H10N69:6 H10N60:2 H03K17:2 H10W20:2 G06N5:1,Espoo,Uusimaa,60.2056,24.6556,city,Wikidata P159 headquarters (town centre coordinates),1
+337,Ist Austria Institute Of Science And Tech Austria,,research institute,AT,1,1,G06N10:1 H10D1:1 H10N69:1,,,,,country,,0
+338,Istituto Naz Fisica Nucleare,,research institute,IT,2,1,H01F6:2 H10N60:2,,,,,country,,0
+339,Jabil Inc,,company,US,2,2,B25J11:1 B25J15:1 B25J19:1 H04B10:1 H10P72:1 H01Q1:1,St. Petersburg,Florida,27.7731,-82.64,city,Wikidata P159 headquarters (town centre coordinates),1
+340,Japan Display Inc,,company,JP,4,4,H10D30:4 H10D86:4 H10K59:2 G02F1:2 H10D64:2 H10D99:2,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+341,Jenoptik Optical Sys Gmbh,,company,DE,4,4,H10W90:2 C23C14:1 C23C16:1 H10P72:1 G01M11:1 G01R31:1,,,,,country,,0
+342,JESORKA ALDO,,private inventor,SE,1,1,B29C63:1 B32B2038:1 B81C1:1 H10P72:1,,,,,country,,0
+343,Liu Riu,,other/unknown,SE,1,1,B29C63:1 B32B2038:1 B81C1:1 H10P72:1,,,,,country,,0
+344,Pedrueza Villalmanzo Esteban,,other/unknown,SE,1,1,B29C63:1 B32B2038:1 B81C1:1 H10P72:1,,,,,country,,0
+345,Jondetech Sensors Ab Publ,,company,SE,1,1,B82Y15:1 G01J5:1 G01K2211:1 G01K7:1 H05K1:1 H05K2201:1,,,,,country,,0
+346,Jsw Afty Corp,,company,JP,1,1,C23C14:1 H01J37:1 H10P14:1,,,,,country,,0
+347,Karlsruher Institut Fuer Tech Koerperschaft Des Oeffentlichen Rechts,,research institute,DE,1,1,G06N10:1,Karlsruhe,Baden-Württemberg,49.0094,8.4122,exact,Wikidata P159 headquarters with P625 coordinates,1
+348,Kbr Wyle Services Llc,,company,,2,1,G06N10:2 H10D48:2 H10N60:2 H10N69:2,,,,,unknown,,0
+349,KIM JUN SUNG,,private inventor,KR,1,1,G11C13:1 G11C2013:1 H10B63:1 H10N70:1,,,,,country,,0
+350,Kioxia,KIOXIA CORP,company,JP,30,16,H10B43:18 G11C5:18 H10B41:16 H10W90:12 G11C11:10 G11C16:8,Tokyo,Tokyo,35.6451,139.7493,exact,Wikidata P159 headquarters with P625 coordinates,1
+351,Kipu Quantum Gmbh,,company,DE,13,13,G06N10:13 G06N3:3 G06V10:1 G06V2201:1 G06N5:1,Karlsruhe,Baden-Württemberg,49.0069,8.4034,city,Company register extract,1
+352,Kla Corp,,company,US,1,1,G01B15:1 G01B2210:1 G01N2223:1 G01N23:1 G21K1:1 G21K2201:1,Milpitas,California,37.4207,-121.9257,exact,Wikidata P159 headquarters with P625 coordinates,1
+353,Kla Tencor Corp,,company,US,2,2,G01N21:2 G01N2021:1 G02B1:1 G02B27:1 G03F7:1 H10P72:1,Milpitas,California,37.4332,-121.8989,city,USPTO PatentsView assignee address (assignee 967d0ff6-91a0-4e69-9138-d89ccaad6457; 2030 of 2369 US patents); town point from Overture Maps,1
+354,Koh Young Tech Inc,,company,KR,3,1,G01B11:3 G01B2210:3 H10P74:3,Seoul,Seoul,37.5667,126.9783,city,USPTO PatentsView assignee address (assignee 9691100e-855c-4341-bd6f-dcf368980b12; 122 of 122 US patents); town point from Overture Maps,1
+355,Kokusai Electric Corp,,company,JP,51,51,H10P72:37 C23C16:35 H10P14:28 H10P95:8 H10P50:6 G05B19:4,Tokyo,Tokyo,35.6908,139.7726,exact,Wikidata P159 headquarters with P625 coordinates,1
+356,Koninklijke Philips Nv,,company,NL,2,2,H01F6:2 H10N60:2 G01R33:1 H01R4:1,Amsterdam,North Holland,52.3667,4.8833,city,Wikidata P159 headquarters (town centre coordinates),1
+357,Korea Advanced Inst Of Science And Technology,,research institute,KR,1,1,B05D1:1 B05D2506:1 B05D3:1 H10B41:1 H10B43:1 H10D30:1,Daejeon,Daejeon,36.35,127.385,city,Wikidata P159 headquarters (town centre coordinates),1
+358,Korea Advanced Inst Sci & Tech,,university,KR,10,10,H10D30:5 H10D64:5 H10B43:4 H10D62:3 G11C11:2 H10B61:2,Daejeon,Daejeon,36.35,127.385,city,Wikidata P159 headquarters (town centre coordinates),1
+359,Korea Inst Of Fusion Energy,,research institute,KR,2,2,H01J37:2 G01R19:1 G01R21:1 G01R29:1 H01J2237:1 H01P5:1,,,,,country,,0
+360,Korea Inst Sci & Tech Inf,,research institute,KR,3,3,G06N10:3 H04L9:3 B82Y10:1 G06N7:1 H04B10:1 G06F11:1,,,,,country,,0
+361,Korea Res Inst Standards & Sci,,research institute,KR,1,1,G01B11:1 G01B2210:1 G01B7:1 G01N21:1 G01N27:1 G01R33:1,Jeonmin-dong,Daejeon,36.3878,127.3723,exact,Wikidata P625 coordinates of the organisation,1
+362,Kromberg & Schubert Automotive Gmbh & Co Kg,,company,DE,2,1,B25J9:2 G06F30:2 H01B13:2 H01B7:2 H01R43:2,,,,,country,,0
+363,Kubos Semiconductors Ltd,,company,,1,1,H10P14:1,,,,,unknown,,0
+364,Kyocera Tech Oy,,company,FI,4,4,B81C1:4 H03H2003:2 H03H3:2 B81B7:2 H03H2009:1 H03H9:1,,,,,country,,0
+365,L P E S P A,,company,IT,1,1,C23C16:1 H10P72:1,,,,,country,,0
+366,Lam Res Ag,,company,,1,1,H10P50:1 H10P70:1 H10P72:1,,,,,unknown,,0
+367,Lam Res Corp,,company,US,1,1,C23C16:1 G03F1:1 G03F7:1 H01J37:1 H10P14:1 H10P50:1,Fremont,California,37.4896,-121.956,exact,Wikidata P159 headquarters with P625 coordinates,1
+368,Lapmaster Wolters Gmbh,,company,DE,1,1,B24B37:1 B24B7:1 H10P72:1,Rendsburg,Schleswig-Holstein,54.3044,9.6644,city,Wikidata P159 headquarters (town centre coordinates),1
+369,Lattice Semiconductor Corp,,company,US,1,1,G06F15:1 G06F30:1 H03K19:1,Hillsboro,Oregon,45.5272,-122.9266,exact,Wikidata P159 headquarters with P625 coordinates,1
+370,Laytec Ag,,company,DE,2,2,H10P74:2 H01J37:1 G01J2005:1 G01J5:1,Berlin,Berlin,52.5174,13.3951,city,USPTO PatentsView assignee address (assignee 506449e5-0f20-496f-99b1-7a2dc77c7a30; 6 of 6 US patents); town point from Overture Maps,1
+371,Leibniz Inst Fuer Festkoerper Und Werkstoffforschung Dresden E V Ifw Dresden E V,,research institute,DE,1,1,H01F27:1 H01F5:1 H10D1:1,,,,,country,,0
+372,Leibniz Institut Fuer Photonische Tech E V Engl Leibniz Institute Of Photonic Tech,,research institute,DE,2,2,G01J1:1 G01J2001:1 G01J5:1 H10N60:1 G03F7:1 H10P14:1,,,,,country,,0
+373,Leonardo Spa,,company,IT,2,2,G01S7:1 G06N10:1 F28F21:1 H10W40:1,Rome,Lazio,41.9205,12.4693,exact,Wikidata P159 headquarters with P625 coordinates,1
+374,Leuven Air Bearings N V,,company,BE,1,1,H10P72:1,,,,,country,,0
+375,LEVAILLANT CLAIRE,,private inventor,FR,2,1,G06N10:2 G09C5:2 H04L9:2,,,,,country,,0
+376,LG (Display/Electronics/Innotek),LG DISPLAY CO LTD,company,KR,163,145,H10D86:125 H10K59:111 H10D30:82 G09G3:59 H10H29:52 G09G2300:51,Seoul,Seoul,37.5667,126.9783,city,USPTO PatentsView assignee address (assignee 9629d522-a5b4-4008-94a8-ac84dcf380f6; 9202 of 9221 US patents); town point from Overture Maps,3
+377,Littelfuse,LITTELFUSE INC,company,US,16,16,H10W90:10 H10W70:9 H10W72:9 H10D62:6 H10D8:6 H10W40:6,Chicago,Illinois,41.9868,-87.8455,exact,Wikidata P159 headquarters with P625 coordinates,2
+378,LITVINENKO ARTEM,,private inventor,SE,1,1,G02F1:1 G06E3:1 G06N10:1 G06N5:1 G06N7:1,,,,,country,,0
+379,Aakerman Johan,,other/unknown,SE,1,1,G02F1:1 G06E3:1 G06N10:1 G06N5:1 G06N7:1,,,,,country,,0
+380,KHYMYN ROMAN,,private inventor,SE,1,1,G02F1:1 G06E3:1 G06N10:1 G06N5:1 G06N7:1,,,,,country,,0
+381,LOEW THORSTEN,,private inventor,DE,1,1,G06N10:1,,,,,country,,0
+382,Lomare Tech Limited,,company,GB,2,2,G11C11:2 H10B61:2 H10N50:2 C01B21:1 C01G23:1 C01P2002:1,,,,,country,,0
+383,Lomare Chip Tech Changzhou Co Ltd,,company,CN,2,2,G11C11:2 H10B61:2 H10N50:2 C01B21:1 C01G23:1 C01P2002:1,,,,,country,,0
+384,Louder Than Liftoff Llc,,company,US,1,1,G06F30:1 G10H1:1 G10H2210:1 G10H2250:1 G10H3:1,,,,,country,,0
+385,Lpe Spa,,company,IT,25,18,H10P72:21 C23C16:19 C30B25:19 H10P14:10 C30B29:10 H01J37:4,Baranzate,Lombardy,45.5167,9.1,city,Wikidata P159 headquarters (town centre coordinates),1
+386,Luceda Nv,,company,BE,2,2,G06F30:2 G02B6:1,,,,,country,,0
+387,Lumai Ltd,,company,,1,1,G06E3:1 G06N10:1 G06N3:1,,,,,unknown,,0
+388,Lx Semicon Co Ltd,,company,KR,32,30,H10W40:18 H10W90:13 H02M7:12 H10D30:11 H10D62:10 C04B2237:9,Daejeon,Daejeon,36.3497,127.3849,city,Stock-exchange company profile,1
+389,Lfoundry Srl,,company,IT,1,1,H10B61:1 H10N52:1 H10N59:1,,,,,country,,0
+390,Machsync Co Ltd,,company,TW,2,2,H10P72:2,,,,,country,,0
+391,Macronix Int Co Ltd,,company,TW,6,6,H10B41:4 H10B43:4 G11C5:3 G11C7:2 H10B80:2 G11C16:2,Hsinchu City,Hsinchu,24.7677,121.0252,exact,Wikidata P159 headquarters with P625 coordinates,1
+392,Magnachip Semiconductor Ltd,,company,KR,2,2,H10D30:2 H10D62:2 H10D64:2 H10D12:1 H10D84:1,Cheongju,North Chungcheong,36.6421,127.4892,city,USPTO PatentsView assignee address (assignee 5d865c3d-57cf-4213-a2d4-a09261045eee; 308 of 463 US patents); town point from Overture Maps,1
+393,Magnescale Co Ltd,,company,JP,2,1,G01D5:2 G02B21:2 H10P74:2,,,,,country,,0
+394,Marvell Asia Pte Ltd,,company,SG,3,3,G02B6:2 H10W90:2 G01M11:1 H10P54:1 H10P74:1 H10W70:1,Singapore,,1.2899,103.8519,city,USPTO PatentsView assignee address (assignee 9bc25ba2-1cbb-4c06-9edb-9219ca7c89dc; 211 of 269 US patents); town point from Overture Maps,1
+395,Mastercard International Inc,,company,US,4,4,G06N10:4 G06Q20:2 H04L9:1 G06N20:1 G06N3:1 G06N7:1,Purchase,New York,41.0406,-73.7145,city,USPTO PatentsView assignee address (assignee 98413681-7f9c-4b5a-a05e-3651a383ec6d; 1356 of 1370 US patents); town point from Overture Maps,1
+396,Ludwig Maximilians Univ Muenchen In Vertretung Des Freistaates Bayern,,university,DE,1,1,G06N10:1,,,,,country,,0
+397,Univ Muenchen Ludwig Maximilians,,university,DE,3,2,B82Y10:2 G06N10:2 H01S3:2 G01J2001:1 H10N60:1,Hauptgebäude der Ludwig-Maximilians-Universität München,Bavaria,48.1507,11.5799,city,Wikidata P159 headquarters (town centre coordinates),1
+398,Mb Automation Gmbh & Co Kg,,company,DE,1,1,H10P72:1,,,,,country,,0
+399,MediaTek,MEDIATEK INC,company,TW,35,34,H10W20:16 H10W90:16 H10W70:15 H10W72:13 H10W74:12 H10W42:9,Hsinchu City,Hsinchu,24.7729,121.0232,exact,Wikidata P159 headquarters with P625 coordinates,2
+400,Mediso Medical Imaging Systems Kft,,company,HU,1,1,A61B5:1 G06F30:1 G06N10:1 G06N20:1 G06N3:1 G06T12:1,,,,,country,,0
+401,Memsstar Ltd,,company,GB,3,2,B81C1:3 B81C2201:3 B81B7:2 H10P70:2 H10P50:1,Livingston,Scotland,55.883,-3.5176,city,USPTO PatentsView assignee address (assignee 588c4d16-ff1a-4d68-a3be-88a4e9891349; 2 of 4 US patents); town point from Overture Maps,1
+402,Mercedes Benz Group Ag,,company,DE,7,7,G06F2113:2 G06F30:2 G06N10:2 G06Q10:2 H10D80:2 H10W72:2,Stuttgart,Baden-Württemberg,48.785,9.2399,exact,Wikidata P159 headquarters with P625 coordinates,1
+403,Merck Patent Gmbh,,company,DE,3,3,G03F7:2 H10P14:2 H10P76:1 C11D17:1 C11D2111:1 C11D7:1,Darmstadt,Hesse,49.8728,8.6512,city,USPTO PatentsView assignee address (assignee e71b0586-0f43-4ba3-b8eb-203093ecdc3a; 2279 of 2522 US patents); town point from Overture Maps,1
+404,Metryx Ltd,,company,,1,1,G01J5:1 G01K3:1 H10P72:1,,,,,unknown,,0
+405,Mi2 Factory Gmbh,,company,DE,2,2,H10P30:2 H01J2237:1 H01J37:1,Jena,Thuringia,50.9282,11.5879,city,USPTO PatentsView assignee address (assignee 356b7acd-6a63-499f-a65c-c390ef8bd78e; 2 of 2 US patents); town point from Overture Maps,1
+406,Micro Controle Spectra Physics,,other/unknown,FR,1,1,H10P72:1,Evry,Ile-de-France,48.6242,2.429,city,USPTO PatentsView assignee address (assignee e264ebc2-1db3-49f5-ab5b-8432a80e84ec; 4 of 4 US patents); town point from Overture Maps,1
+407,Micron,MICRON TECHNOLOGY INC,company,US,23,23,H10B63:13 H10N70:13 G11C13:8 G11C2213:7 H10W20:6 H10W90:6,Boise,Idaho,43.5307,-116.1504,exact,Wikidata P159 headquarters with P625 coordinates,1
+408,Microprogram Information Co Ltd,,company,TW,1,1,G03F7:1 H02J50:1 H04L43:1 H10P72:1,Taichung,Taichung,24.1632,120.6478,city,USPTO PatentsView assignee address (assignee 6b95c57d-0835-4fec-8c08-d3adde36707d; 4 of 4 US patents); town point from Overture Maps,1
+409,Microsoft,MICROSOFT TECHNOLOGY LICENSING LLC,company,US,22,21,G06N10:14 H10N60:4 H10N69:3 B82Y10:2 G06N5:2 H03K19:2,Redmond,Washington,47.6694,-122.1239,city,USPTO PatentsView assignee address (assignee cd43e2af-5c58-4750-94ea-7f92d9c54e27; 47038 of 47196 US patents); town point from Overture Maps,1
+410,Mikuni Electron Corp,,company,JP,1,1,G02F1:1 G02F2201:1 G09G2300:1 G09G2310:1 G09G3:1 H10D30:1,Saitama,Saitama Prefecture,35.8616,139.6456,city,USPTO PatentsView assignee address (assignee 6d296c76-74e2-4ee3-bdef-4e354dc6bcc9; 7 of 15 US patents); town point from Overture Maps,1
+411,Milwaukee Electric Tool Corp,,company,US,1,1,B25F5:1 H02K11:1 H02K19:1 H02K7:1 H02M7:1 H02P27:1,Brookfield,Wisconsin,43.0581,-88.1147,city,Wikidata P159 headquarters (town centre coordinates),1
+412,Minebea Power Semiconductor Device Inc,,company,JP,2,2,H10D30:1 H10D62:1 H02K11:1 H02K19:1 H02M1:1 H02M7:1,,,,,country,,0
+413,Miskolci Egyetem,,university,HU,1,1,B32B15:1 H05K9:1 H10N60:1,Miskolc,Borsod-Abaúj-Zemplén,48.0797,20.765,exact,Wikidata P159 headquarters with P625 coordinates,1
+414,Mitsubishi Electric,MITSUBISHI ELECTRIC CORP,company,JP,194,194,H10D62:89 H10D64:66 H10D12:65 H10W90:55 H10W74:47 H10W70:45,Tokyo,Tokyo,35.6788,139.7649,exact,Wikidata P159 headquarters with P625 coordinates,1
+415,Mitutoyo Corp,,company,JP,1,1,G01B11:1 G01B9:1 G01N21:1 G03H1:1 G03H2001:1 G06N3:1,Kawasaki,Kanagawa Prefecture,35.5309,139.703,city,Wikidata P159 headquarters (town centre coordinates),1
+416,Moonlight Ai Sarl,,company,CH,1,1,G06N10:1 G06N20:1 G06N3:1 G06T2207:1 G06T7:1 G06V10:1,,,,,country,,0
+417,Mpi Corp,,company,TW,3,2,G01R1:2 G01R31:2 G01R35:2 H10W46:2 H10P72:1 H10P74:1,Hsinchu,Hsinchu,24.8066,120.9687,city,USPTO PatentsView assignee address (assignee cd7340ac-63d1-40f1-a734-79ee97f9b858; 37 of 102 US patents); town point from Overture Maps,1
+418,Msscorps Co Ltd,,company,TW,1,1,G01N27:1 G01Q60:1 G01R27:1 H10P74:1,Hsinchu City,Hsinchu,24.8047,120.9714,city,Wikidata P159 headquarters (town centre coordinates),1
+419,Mu Tech Prec Co Ltd,,company,TW,3,3,H10P72:3 B08B2203:2 B08B3:2 B08B1:1 B65G1:1 B65G2201:1,,,,,country,,0
+420,Muehlbauer Tech Wuxi Co Ltd,,company,CN,1,1,H10P72:1,,,,,country,,0
+421,Multiverse Computing Inc,,company,CA,1,1,G06F7:1 G06N10:1,,,,,country,,0
+422,Murata Manufacturing,MURATA MANUFACTURING CO,company,JP,23,23,H10D1:16 H01G4:12 H10D84:5 H10W90:5 H10W74:5 H05K1:3,Nagaokakyo,Kyoto Prefecture,34.9239,135.7019,exact,Wikidata P159 headquarters with P625 coordinates,1
+423,Murr Elektronik Gmbh,,company,DE,1,1,G06F2111:1 G06F2113:1 G06F2119:1 G06F30:1 G06N20:1 G06N3:1,,,,,country,,0
+424,Nanoco Technologies Ltd,,company,,1,1,H10P14:1,,,,,unknown,,0
+425,Nanofiber Quantum Tech Inc,,company,JP,3,2,G06N10:3 G02B6:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+426,Nanya Technology Corp,,company,TW,2,2,H01G2:1 H01G4:1 H10B12:1 G11C11:1 H10W20:1 H10W90:1,Taoyuan City,Taoyuan City,25.0381,121.3739,exact,Wikidata P159 headquarters with P625 coordinates,1
+427,Navitas Semiconductor Ltd,,company,IE,4,4,H10W70:3 H10W72:3 H10W90:3 H02M1:2 H10W40:2 H10W74:2,Dublin,County Dublin,53.3494,-6.2606,city,USPTO PatentsView assignee address (assignee 673c6f5a-e5d4-4daf-9dda-ed3b9fb3b760; 7 of 64 US patents); town point from Overture Maps,1
+428,NEUMANN ULRICH,,private inventor,DE,2,1,H10N60:2,,,,,country,,0
+429,Nexgen Wafer Systems Pte Ltd,,company,SG,3,3,H10P72:3 H10P74:3 H10P50:1 G01B11:1 G01B2210:1 G01B9:1,Singapore,,1.2899,103.8519,city,Applicant country in the patent data (city-state),1
+430,Nexperia,Nexperia BV,company,NL,154,130,H10W70:81 H10W90:67 H10W72:60 H10W74:48 H10D30:40 H10D62:39,Nijmegen,Gelderland,51.8247,5.8252,exact,Wikidata P159 headquarters with P625 coordinates,2
+431,Nexwafe Gmbh,,company,DE,5,5,H10P72:4 C23C16:3 H10P14:2 C23C14:1 C30B25:1 C30B29:1,,,,,country,,0
+432,Nidec Instruments Corp,,company,JP,2,2,B25J11:2 B25J15:2 B25J9:2 B65G47:2 H10P72:2,,Nagano Prefecture,,,region,Wikidata P159 headquarters (region only),0
+433,Nio Technology Anhui Co Ltd,,company,CN,1,1,H10D12:1 H10D62:1 H10D64:1 H10D8:1,,,,,country,,0
+434,Nissin Electric Co Ltd,,company,,1,1,C23C16:1 H01J37:1 H05H1:1 H10P50:1,,,,,unknown,,0
+435,Nitto Advanced Film Gronau,,other/unknown,DE,1,1,B32B27:1 B32B7:1 C08K2003:1 C08K2201:1 C08K3:1 C08L23:1,,,,,country,,0
+436,Nitto Denko Corp,,company,JP,8,8,C09J7:8 C09J2203:7 C09J2301:7 H10P72:5 H10W72:5 C09J9:4,Osaka,Osaka Prefecture,34.6938,135.5021,city,Wikidata P159 headquarters (town centre coordinates),1
+437,Nkt Photonics As,,company,DK,1,1,G02F1:1 G02F2201:1 G02F2203:1 G06N10:1 H01S3:1 H01S5:1,,,,,country,,0
+438,Nokia Networks France,,other/unknown,FR,1,1,H10D30:1 H10D62:1 H10D86:1 H10P14:1,,,,,country,,0
+439,Northrop Grumman Systems Corp,,company,US,2,2,H03K19:2 H03M7:2 B82Y10:1 G11C11:1 H10N60:1 G06N10:1,Los Angeles,California,34.0537,-118.2428,city,USPTO PatentsView assignee address (assignee 7473a87b-964b-422c-aa40-76c38bce177a; 1963 of 3001 US patents); town point from Overture Maps,1
+440,Nova Measuring Instr Inc,,company,US,1,1,G01N2223:1 G01N23:1 H10P74:1,,,,,country,,0
+441,Nu Quantum Ltd,,company,GB,6,1,G06N10:6 H04B10:6,Cambridge,England,52.2081,0.1225,city,Wikidata P159 headquarters (town centre coordinates),1
+442,Nuflare Technology Inc,,company,JP,1,1,G01N2021:1 G01N21:1 G03F1:1 H04N23:1 H10P74:1,Numazu,Shizuoka Prefecture,35.0958,138.8634,city,USPTO PatentsView assignee address (assignee 4d1e0838-6368-47a6-89c4-1e6ccfd51d87; 194 of 592 US patents); town point from Overture Maps,1
+443,Nvidia Corp,,company,US,7,7,G06F1:3 G06N10:2 G06N20:2 G06N3:2 G06N5:2 H05K7:2,Santa Clara,California,37.3733,-121.966,exact,Wikidata P159 headquarters with P625 coordinates,1
+444,NXP,NXP USA INC,company,NL,169,169,H10W90:77 H10W70:73 H10W74:66 H10W72:65 H10W44:39 H10W20:31,Austin,Texas,30.2649,-97.7474,city,USPTO PatentsView assignee address (assignee fa9dcee4-651c-42eb-946b-920de416e65a; 1886 of 1889 US patents); town point from Overture Maps,2
+445,Nordamps Ab,,company,SE,1,1,H10D30:1 H10D62:1 H10D89:1,,,,,country,,0
+446,Okmetic Oy,,company,FI,3,3,H10P10:3 H10P90:3 H10P95:3 H10P14:2 C23C14:1 H10D64:1,Vantaa,Uusimaa,60.2914,24.9882,exact,Wikidata P159 headquarters with P625 coordinates,1
+447,Omron Tateisi Electronics Co,,company,JP,1,1,G05B19:1 G05B2219:1 G05B23:1 G06F3:1 G06F30:1 G06F8:1,Kyoto,Kyoto Prefecture,35.0116,135.7681,city,USPTO PatentsView assignee address (assignee 2fccb858-b4fa-49e3-81bc-05091010a5f2; 540 of 584 US patents); town point from Overture Maps,1
+448,Orange,,other/unknown,FR,1,1,G06N10:1 G06N20:1 G06N3:1,Issy-les-Moulineaux,Ile-de-France,48.8231,2.2692,city,Wikidata P159 headquarters (town centre coordinates),1
+449,Orange Quantum Systems Holding B V,,company,NL,2,2,G06N10:2,,,,,country,,0
+450,Orca Computing Ltd,,company,GB,5,5,G06N10:5 G06N3:2 G06E1:1 G01B2290:1 G11C13:1,,,,,country,,0
+451,Osiris Int Gmbh,,company,DE,1,1,H10P72:1,,,,,country,,0
+452,Oulun Yliopisto,,university,FI,1,1,G06N10:1,Linnanmaa,North Ostrobothnia,65.0592,25.4661,exact,Wikidata P159 headquarters with P625 coordinates,1
+453,Oxford Instruments Nanotechnology Tools Ltd,,company,,2,1,H10P50:2 H10P72:2,,,,,unknown,,0
+454,Oxford Ionics Ltd,,company,,1,1,G02B2006:1 G02B6:1 G06N10:1,,,,,unknown,,0
+455,Oxford Nanoscience Ltd,,company,GB,1,1,F25B19:1 F25B2500:1 F25B9:1 F25D19:1 G06N10:1,,,,,country,,0
+456,Oxford Quantum Circuits Ltd,,company,GB,4,4,G06N10:3 H10N60:2 H03K19:1 H10N69:1,,,,,country,,0
+457,Pac Tech Packaging Tech Gmbh,,company,DE,4,4,H10P72:3 H10W72:3 C25D17:1 C25D5:1 H01R12:1 H01R4:1,,,,,country,,0
+458,Pallidus Inc,,company,US,1,1,C01B32:1 C01P2006:1 C04B2235:1 C04B2237:1 C04B35:1 C04B37:1,Albany,New York,42.6512,-73.755,city,USPTO PatentsView assignee address (assignee da11140a-c367-4761-ac84-89d1c9035282; 5 of 7 US patents); town point from Overture Maps,1
+459,Parabellum Strategic Opportunities Fund Llc,,company,US,1,1,B82Y10:1 H10D30:1 H10D62:1 H10D64:1 H10P14:1 H10P50:1,,,,,country,,0
+460,Paragraf Ltd,,company,GB,4,4,H10D62:3 H10P14:3 H10D30:2 G01N27:2 C01B32:1 C30B25:1,,,,,country,,0
+461,Parcis Ltd,,company,,1,1,G06N10:1 G06N20:1 G06N3:1 G06N5:1,,,,,unknown,,0
+462,Patentix Inc,,company,JP,1,1,H10D62:1 H10D64:1 H10D8:1 H10P14:1,,,,,country,,0
+463,Pfeiffer Vacuum,,other/unknown,FR,3,3,H10P72:3 F04B37:1 F04D19:1 F04D25:1 F04D27:1,Annecy,Auvergne-Rhône-Alpes,45.8992,6.1289,city,USPTO PatentsView assignee address (assignee fbde63c1-9ee8-4a08-bc6b-fc79479961ec; 9 of 68 US patents); town point from Overture Maps,1
+464,Phasecraft Ltd,,company,GB,10,7,G06N10:10 G06N5:4 G06F30:3 G06F17:2 G16C10:1 G16C20:1,London,England,51.5072,-0.1275,city,Wikidata P159 headquarters (town centre coordinates),1
+465,Phi0 Kuantum Teknolojileri Anonim Sirketi,,company,TR,1,1,H01F27:1 H10N60:1,,,,,country,,0
+466,Phlexing Tech Co Ltd,,company,CN,1,1,G06F2119:1 G06F30:1,,,,,country,,0
+467,Phoenix Contact Gmbh & Co,,company,DE,2,2,G06F30:2 G01R31:1 G06F2111:1 G06F2113:1 H02B3:1,Blomberg,North Rhine-Westphalia,51.9344,9.1047,exact,Wikidata P159 headquarters with P625 coordinates,1
+468,Photonic Inc,,company,CA,1,1,B82Y10:1 B82Y20:1 G06N10:1 H04B10:1 H10D48:1 H10H20:1,Coquitlam,British Columbia,49.2839,-122.7919,city,Wikidata P159 headquarters (town centre coordinates),1
+469,Photronics Inc,,company,US,1,1,G03F1:1 G03F7:1 G06F2119:1 G06F30:1 G06T2207:1 G06T7:1,Brookfield,Connecticut,41.4824,-73.4096,city,USPTO PatentsView assignee address (assignee a47699a7-e176-4c92-a082-432259dd4fc6; 39 of 45 US patents); town point from Overture Maps,1
+470,Phys Instrumente Pi Se & Co Kg,,company,DE,2,2,H10P72:2 G03F7:1,,,,,country,,0
+471,Phys Technische Bundesanstalt Braunschweig Und Berlin,,research institute,DE,3,2,G04F5:2 G06N10:2 G21K1:2 H10W20:1 H10W70:1,,,,,country,,0
+472,Pibond Oy,,company,FI,5,4,B32B27:4 C08J3:3 C08J5:3 G03F7:3 H10P14:3 C08F220:2,Espoo,Uusimaa,60.205,24.656,city,USPTO PatentsView assignee address (assignee 31094953-c03e-4809-905f-b6f4eb5d7c6a; 2 of 2 US patents); town point from Overture Maps,1
+473,Pico Semiconductor Inc,,company,KR,1,1,H10D1:1 H10D84:1,,,,,country,,0
+474,Picosun Oy,,company,FI,16,15,C23C16:14 H10P72:12 H10P14:7 H01J37:5 H01J2237:3 C30B25:3,Espoo,Uusimaa,60.205,24.656,city,USPTO PatentsView assignee address (assignee 07cf8f44-d507-4081-afb9-5c6cb2c03503; 21 of 21 US patents); town point from Overture Maps,1
+475,Planqc Gmbh,,company,DE,1,1,G06N10:1,Munich,Bavaria,48.1375,11.575,city,Wikidata P159 headquarters (town centre coordinates),1
+476,Politechnika Lodzka,,university,PL,1,1,D06M15:1 H10D10:1 H10D12:1,Łódź,Łódź Voivodeship,51.7531,19.45,exact,Wikidata P159 headquarters with P625 coordinates,1
+477,Politechnika Warszawska,,university,PL,1,1,G11C11:1 G11C13:1 H10D84:1 H10N70:1 H10P95:1,Warsaw,Masovian Voivodeship,52.2203,21.0106,exact,Wikidata P159 headquarters with P625 coordinates,1
+478,Polyteknik As,,company,DK,2,2,H01J37:2 H10P72:2 C23C14:1,,,,,country,,0
+479,POMORSKI KRZYSZTOF DOMINIK,,private inventor,PL,1,1,B82Y40:1 H10D48:1 H10D62:1 H10D64:1 H10P14:1 H10P90:1,,,,,country,,0
+480,Porsche,PORSCHE AG,company,DE,20,20,H10W40:12 H05K7:7 G06N10:6 H02M7:6 H10W90:5 G06N3:3,Stuttgart,Baden-Württemberg,48.7775,9.18,city,Wikidata P159 headquarters (town centre coordinates),1
+481,Postech Res & Business Dev Found,,university,KR,8,8,H10D30:3 H10D62:3 G06N3:2 G11C11:2 G11C27:2 H10B12:2,Pohang,North Gyeongsang,36.0189,129.3429,city,USPTO PatentsView assignee address (assignee cd995b8b-1ff2-465f-86e3-1f97cbeea15b; 3 of 3 US patents); town point from Overture Maps,1
+482,Potens Semiconductor Corp,,company,TW,3,1,H10D30:3 H10D62:3 H10D8:3 H10D84:3,,,,,country,,0
+483,Power Integrations Inc,,company,US,3,3,H10D30:2 H10D62:2 H10D64:2 H10D1:1 H10D84:1 G05F3:1,San Jose,California,37.2705,-121.7936,exact,Wikidata P159 headquarters with P625 coordinates,1
+484,Pragmatic Semiconductor Ltd,,company,,5,5,H10W20:2 H10W72:2 H10P72:1 H10D86:1 G06K19:1 H10W42:1,,,,,unknown,,0
+485,Precitec Optronik Gmbh,,company,DE,3,3,G01B11:3 G01B9:3 H10P74:3 G01B2210:2 G01B2290:1 G01B21:1,Neu-Isenburg,Hesse,50.0464,8.6718,city,USPTO PatentsView assignee address (assignee 4fd4cfda-16cd-48d5-8e63-14a36aa88da2; 12 of 22 US patents); town point from Overture Maps,1
+486,Proasia Semiconductor Corp,,company,TW,3,3,H10D30:3 H10D62:3 H10D64:2 H10P14:1 H10P95:1 H10D1:1,,,,,country,,0
+487,Proterial Ltd,,company,JP,2,2,H10D62:2 H10P14:2 C30B29:1 G01N2021:1 G01N21:1 H10P74:1,Toyosu,Tokyo,35.6443,139.7847,city,Wikidata P159 headquarters (town centre coordinates),1
+488,Proxima Fusion Gmbh,,company,DE,2,2,G21B1:2 H01F6:2 H10N60:2 H01B12:1,Munich,Bavaria,48.1375,11.575,city,Wikidata P159 headquarters (town centre coordinates),1
+489,Psemi Corp,,company,US,1,1,H10D1:1 H10D62:1,San Diego,California,32.7157,-117.1638,city,USPTO PatentsView assignee address (assignee 6b5fb574-5a16-44d0-8e3b-26f2278d3825; 326 of 326 US patents); town point from Overture Maps,1
+490,Psiquantum Corp,,company,US,5,5,G06N10:5 B82Y10:2 H04Q11:2 H04Q2011:2 G06F11:1 G06F3:1,Palo Alto,California,37.4292,-122.1381,city,Wikidata P159 headquarters (town centre coordinates),1
+491,Pulse Ip Llc,,company,US,1,1,A61B5:1 A61N1:1 B23K26:1 H10P50:1,San Diego,California,32.7157,-117.1638,city,USPTO PatentsView assignee address (assignee d466fc3a-6ac5-4abd-8271-dc95d8391207; 79 of 107 US patents); town point from Overture Maps,1
+492,Q Ant Gmbh,,company,DE,3,3,G06N10:3 G02B5:1 G02F2:1 G02F2201:1 G06E3:1,Stuttgart,Baden-Württemberg,48.7775,9.18,city,Wikidata P159 headquarters (town centre coordinates),1
+493,Q M Tech Ltd,,company,IL,1,1,G01R31:1 G06N10:1 G06N20:1,Tel Aviv,Tel-Aviv District,32.08,34.78,city,Wikidata P159 headquarters (town centre coordinates),1
+494,Qblox B V,,company,NL,2,2,G06N10:2 H03M1:1 G06F1:1 H03K4:1,Delft,South Holland,52.0117,4.3592,city,Wikidata P159 headquarters (town centre coordinates),1
+495,Qc Design Gmbh,,company,DE,1,1,G06N10:1,Ulm,Baden-Württemberg,48.3984,9.9916,city,Wikidata P159 headquarters (town centre coordinates),1
+496,Qcentroid Labs S L,,company,ES,3,3,G06N10:3 G06F17:1 H04L9:1 G06N3:1 G06V10:1 G06V40:1,,,,,country,,0
+497,Qedma Quantum Computing Ltd,,company,IL,7,7,G06N10:7 B82Y10:4 G06N7:1 G06F9:1 G06F17:1,Tel Aviv,Tel-Aviv District,32.08,34.78,city,Wikidata P159 headquarters (town centre coordinates),1
+498,Qmill Oy,,company,FI,2,2,G06F17:2 G06F7:2 G06N10:2 H04L9:2 H04L63:1 H04L67:1,,,,,country,,0
+499,Qna Tech Spolka Akcyjna,,company,PL,1,1,B82B3:1 B82Y30:1 B82Y40:1 C01B19:1 C09K11:1 H10P30:1,,,,,country,,0
+500,Qoro Quantum Ltd,,company,GB,1,1,G06F11:1 G06F2201:1 G06F2209:1 G06F8:1 G06F9:1 G06N10:1,,,,,country,,0
+501,Qorvo Us Inc,,company,US,4,4,H10W74:3 H10W90:3 H10W40:2 H10W42:2 H10W70:2 H10W72:2,Greensboro,North Carolina,36.0726,-79.792,city,USPTO PatentsView assignee address (assignee 10127c72-4233-4733-9642-92d70edb9bdd; 882 of 884 US patents); town point from Overture Maps,1
+502,Qphox B V,,company,,1,1,G06N10:1,,,,,unknown,,0
+503,Quandela,,other/unknown,FR,5,5,G06N10:5 G06N3:2 B82Y10:1 G01M11:1,Palaiseau,Ile-de-France,48.7183,2.2497,city,Wikidata P159 headquarters (town centre coordinates),1
+504,Univ Paris Saclay,,university,FR,3,3,H10D30:2 H10D62:2 H10D64:2 H10W20:2 G01M11:1 G06N10:1,Gif-sur-Yvette,Ile-de-France,48.7014,2.1336,city,Wikidata P159 headquarters (town centre coordinates),1
+505,Quantinuum Ltd,,company,GB,1,1,G06N10:1 G06N20:1 G06N3:1 G06N7:1,,,,,country,,0
+506,Quantrolox Finland Oy,,company,FI,1,1,G06N10:1,,,,,country,,0
+507,Univ Degli Studi Di Napoli Federico Ii,,university,IT,1,1,G06N10:1,Naples,Campania,40.8359,14.2488,city,USPTO PatentsView assignee address (assignee 721e05fe-b7be-416e-aede-832ba1054c1e; 2 of 3 US patents); town point from Overture Maps,1
+508,Quantum Motion Tech Limited,,company,GB,1,1,B82Y10:1 G06N10:1,Leeds,England,53.7975,-1.5436,city,Wikidata P159 headquarters (town centre coordinates),1
+509,Quantum Network Tech Inc,,company,US,1,1,B82Y10:1 G02B26:1 G02B6:1 G02F1:1 G06N10:1 H04B10:1,,,,,country,,0
+510,Quantum Transistors Tech Ltd,,company,IL,1,1,G02F1:1 G06N10:1 H03K19:1 H10F30:1,,,,,country,,0
+511,Quantumz Io Sp Z O O,,company,PL,1,1,G06N10:1 G06N5:1,,,,,country,,0
+512,Quantware Holding B V,,company,NL,8,8,G06N10:6 H10N69:6 H10N60:4 H03F19:1 G06F1:1 H10W70:1,Delft,South Holland,52.0117,4.3592,city,Wikidata P159 headquarters (town centre coordinates),1
+513,Qudora Tech Gmbh,,company,DE,2,2,G06N10:2 B23K2103:1 B23K26:1 G21K1:1,,,,,country,,0
+514,Quinas Tech Limited,,company,,1,1,H10B41:1 H10D30:1 H10D62:1 H10D64:1,,,,,unknown,,0
+515,Quix Quantum B V,,company,,1,1,G06N10:1,,,,,unknown,,0
+516,Quix Quantum Bv,,company,NL,2,2,G06N10:1 G02B2006:1 G02B6:1 G06E1:1 G06E3:1 G06F30:1,,,,,country,,0
+517,Qwer Gmbh,,company,AT,1,1,H10P72:1,,,,,country,,0
+518,Quanscient Oy,,company,FI,3,3,G06N10:3 G11C19:1 H03K19:1,Tampere,Pirkanmaa,61.4981,23.76,city,Wikidata P159 headquarters (town centre coordinates),1
+519,Quantum Brilliance Gmbh,,company,DE,1,1,B82Y10:1 G06N10:1 H10D30:1 H10D48:1 H10D62:1 H10D64:1,,,,,country,,0
+520,Quawi Gmbh,,company,DE,1,1,G06N10:1 G06N20:1 G06N3:1 G06N5:1 G06N7:1,,,,,country,,0
+521,Rayzher Ind Co Ltd,,company,TW,1,1,B01D45:1 B01F23:1 B01F25:1 B04C5:1 H10P72:1,,,,,country,,0
+522,Red Hat Inc,,company,US,1,1,G06N10:1,Raleigh,North Carolina,35.78,-78.64,city,Wikidata P159 headquarters (town centre coordinates),1
+523,Red Hat Llc,,company,US,4,4,G06N10:4 G06F9:3,Raleigh,North Carolina,35.78,-78.64,city,Wikidata P159 headquarters (town centre coordinates),1
+524,Rena Tech Gmbh,,company,DE,1,1,B08B3:1 H10P72:1,Gutenbach,Baden-Württemberg,48.0455,8.1382,city,USPTO PatentsView assignee address (assignee ceb5e0c0-85f9-4ac8-8a85-a4c0a65cf78d; 2 of 4 US patents); town point from Overture Maps,1
+525,Renaissance Fusion,,other/unknown,FR,1,1,C23C16:1 H10N60:1,Grenoble,Auvergne-Rhône-Alpes,45.1869,5.7264,city,Wikidata P159 headquarters (town centre coordinates),1
+526,Renault,,other/unknown,FR,1,1,H02J7:1 H03K2017:1 H10D30:1 H10D62:1,Boulogne-Billancourt,Ile-de-France,48.8315,2.2288,exact,Wikidata P159 headquarters with P625 coordinates,1
+527,Renesas,RENESAS ELECTRONICS CORP,company,JP,56,56,H10D62:31 H10D64:27 H10D30:22 H10W20:18 H10D84:13 H10D12:12,Tokyo,Tokyo,35.6578,139.7948,exact,Wikidata P159 headquarters with P625 coordinates,1
+528,Research & Business Found Sungkyunkwan Univ,,university,KR,3,3,H10D30:2 H10D62:2 H10D64:2 H10N70:2 H10F77:2 B82Y10:1,Suwon,Gyeonggi,37.2633,127.0288,city,USPTO PatentsView assignee address (assignee 95edaedb-f6ee-4eb8-853f-f9ffbbe402b1; 426 of 537 US patents); town point from Overture Maps,1
+529,Resonac Corp,,company,JP,12,11,C30B29:11 H10P14:10 C30B25:7 C30B23:6 H10D62:5 B32B3:3,Minato,Tokyo,35.658,139.7515,city,Wikidata P159 headquarters (town centre coordinates),1
+530,Rheinland Pfaelzische Technische Univ Kaiserslautern Landau,,university,DE,1,1,G02B26:1 G06N10:1 G21K1:1 G21K2201:1,,,,,country,,0
+531,Rheinland Pfaelzische Technische Univ Kaiserslautern Landau Koerperschaft Des Oeffentlichen Rechts,,university,DE,2,2,G06N10:2 G02B26:1 G21K1:1 G21K2201:1,,,,,country,,0
+532,Univ Hamburg Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,G06N10:1,Hamburg,Hamburg,53.5669,9.9839,exact,Wikidata P159 headquarters with P625 coordinates,1
+533,Riber,,other/unknown,FR,1,1,H10P72:1,Bezons,Ile-de-France,48.925,2.2106,city,USPTO PatentsView assignee address (assignee 06bba2e4-b1e6-41a5-8fc0-ada15812d75a; 7 of 10 US patents); town point from Overture Maps,1
+534,Richwave Technology Corp,,company,TW,1,1,H02H9:1 H02M1:1 H10D89:1,Taipei,Taipei,25.0375,121.5637,city,USPTO PatentsView assignee address (assignee c99022d9-b15f-42ba-8205-5b95da27d65d; 115 of 144 US patents); town point from Overture Maps,1
+535,Rigetti & Co Inc,,company,US,1,1,G06N10:1 H01B7:1 H01P1:1 H01P3:1 H01R12:1 H05K1:1,Berkeley,California,37.8533,-122.2939,exact,Wikidata P159 headquarters with P625 coordinates,1
+536,Rigetti & Co Llc,,company,US,3,2,G06N10:3 H03K19:2 B82Y10:1 G02F1:1 H03F19:1 H10N60:1,Berkeley,California,37.8533,-122.2939,exact,Wikidata P159 headquarters with P625 coordinates,1
+537,Rimac Tech Llc,,company,HR,1,1,G06F30:1 H02M1:1 H02M7:1 H05K1:1 H05K2201:1,,,,,country,,0
+538,Riverlane Ltd,,company,GB,14,12,G06N10:14 G06F11:4 G06F9:3 G06F8:1 H04L12:1 G06N7:1,Cambridge,England,52.2055,0.1187,city,Official press kit,1
+539,Rivian Ip Holdings Llc,,company,US,2,2,B60L1:1 B60L2210:1 B60L3:1 B60L50:1 B60R16:1 G06F30:1,,,,,country,,0
+540,Rohm Co Ltd,,company,JP,12,8,H10W72:9 H10W40:8 H10W74:8 H10W90:8 H10W70:7 H10D80:5,Kyoto Prefecture,Kyoto Prefecture,34.9953,135.7296,exact,Wikidata P159 headquarters with P625 coordinates,1
+541,Rotonium S R L,,company,IT,2,2,G06N10:2,,,,,country,,0
+542,Rotosi Gmbh,,company,CH,1,1,G06F2119:1 G06F30:1,,,,,country,,0
+543,Rtx Bbn Tech Inc,,company,US,1,1,G06N10:1,,,,,country,,0
+544,S&S Tech Co Ltd,,company,KR,1,1,G03F1:1 H10P76:1,Daegu,Daegu,35.8713,128.6018,city,USPTO PatentsView assignee address (assignee 3e304557-5d26-48ab-92ac-0ef63b2b460e; 11 of 401 US patents); town point from Overture Maps,1
+545,Safran,SAFRAN ELECTRICAL & POWER,company,FR,15,13,H10W90:8 H10W40:6 H10W42:6 H10W76:3 H10W70:2 H10W72:2,Blagnac,Occitania,43.6356,1.39,city,Wikidata P159 headquarters (town centre coordinates),3
+546,Sald Ip B V,,company,NL,1,1,C23C16:1 H10P14:1,,,,,country,,0
+547,Samsung,SAMSUNG ELECTRONICS CO LTD,company,KR,720,718,H10D30:336 H10D64:246 H10D62:232 H10W20:224 H10D84:209 H10B12:165,Suwon,Gyeonggi,37.2633,127.0288,city,"Wikidata P159 (Suwon statement) and USPTO PatentsView address (Suwon, 54,177 US patents)",3
+548,Iucf Hyu,,other/unknown,KR,2,2,H10D30:2 H10B12:1 H10D62:1,,,,,country,,0
+549,Ulsan National Institute Of Science And Tech Unist,,research institute,KR,1,1,G11C13:1 G11C16:1 H10B43:1 H10B63:1 H10D64:1 H10N70:1,Ulsan,Ulsan,35.5392,129.3119,city,USPTO PatentsView assignee address (assignee 09d8678c-aa4a-495e-b55c-3202ccefcf6e; 108 of 134 US patents); town point from Overture Maps,1
+550,Univ Chicago,,university,US,1,1,H10D30:1 H10D62:1 H10K10:1 H10K19:1 H10K71:1 H10K85:1,Chicago,Illinois,41.8819,-87.6278,city,Wikidata P159 headquarters (town centre coordinates),1
+551,Univ Colorado Regents,,university,US,2,2,C23C16:1 H10P14:1 H01J37:1 H10P50:1 H10P70:1,,,,,country,,0
+552,Univ Korea Res & Bus Found,,university,KR,9,9,H10D12:5 G11C11:3 H10D30:3 G06N3:2 H03K19:2 H10B99:2,Seoul,Seoul,37.5667,126.9783,city,Patent-applicant directory,1
+553,SanDisk,SANDISK TECHNOLOGIES INC,company,US,18,18,H10W90:9 G11C11:8 H10B43:7 H10B80:6 H10W72:6 H10W70:5,Plano,Texas,33.0137,-96.6925,city,USPTO PatentsView assignee address (assignee 00d8ce38-147e-4f7d-81fb-5650b64bb0ad; 2492 of 4689 US patents); town point from Overture Maps,1
+554,SANGLE FERRIERE BRUNO,,private inventor,FR,1,1,B82Y10:1 G06N10:1 H04B10:1,,,,,country,,0
+555,Sanwa Eng Corp,,company,TW,3,3,H10P72:3 B65H54:1 B66F7:1,,,,,country,,0
+556,Sap Se,,company,DE,1,1,B82Y10:1 G06N10:1 G06N5:1 G06Q10:1,Walldorf,Baden-Württemberg,49.2935,8.6418,exact,Wikidata P159 headquarters with P625 coordinates,1
+557,Sas Inst Inc,,research institute,,1,1,G06F17:1 G06N10:1 G06N20:1 G06N3:1 G06N5:1 G06N7:1,,,,,unknown,,0
+558,Saxonq Gmbh,,company,DE,6,5,G06N10:6 B82Y10:1 C23C14:1 H10P30:1,Leipzig,Saxony,51.3406,12.3747,city,Official website,1
+559,Scalinq Ab,,company,SE,1,1,G02B6:1 G06N10:1 H01P1:1,,,,,country,,0
+560,Schneider Electric China Co Ltd,,company,CN,2,2,G06F30:1 G06N3:1 G06V10:1 G06V30:1 H02H3:1 H10D30:1,,,,,country,,0
+561,Schunk Xycarb Tech B V,,company,NL,1,1,C04B2111:1 C04B2235:1 C04B35:1 C04B41:1 C23C14:1 C23C16:1,,,,,country,,0
+562,Scientech Corp,,company,TW,2,1,H10P72:2,Taipei,Taipei,25.0375,121.5637,city,USPTO PatentsView assignee address (assignee 6c669441-86c7-4828-9fa9-69ac6cf23db7; 4 of 9 US patents); town point from Overture Maps,1
+563,Screen Holdings Co Ltd,,company,JP,43,43,H10P72:42 B08B3:10 G03F7:8 H10P50:7 H10P70:7 B08B13:5,Kyoto,Kyoto Prefecture,35.0373,135.7513,exact,Wikidata P159 headquarters with P625 coordinates,1
+564,Sdt Inc,,company,KR,1,1,B82Y10:1 G06F1:1 G06N10:1,,,,,country,,0
+565,Search For The Next Ltd,,company,GB,4,2,H10D84:4 G03F7:3 H10D88:3 H10P50:3 H10P76:3 H10W10:3,,,,,country,,0
+566,Seeqc Inc,,company,,1,1,G06N10:1,,,,,unknown,,0
+567,onsemi,SEMICONDUCTOR COMPONENTS IND LLC,company,US,55,55,H10W70:26 H10W90:23 H10D62:16 H10W72:15 H10W74:14 H10D30:12,Phoenix,Arizona,33.4484,-112.0741,city,USPTO PatentsView assignee address (assignee 215318b7-ee43-4b46-b191-185bb1cf8ce8; 2733 of 2764 US patents); town point from Overture Maps,1
+568,Semiconductor Energy Lab,,other/unknown,JP,13,13,H10D30:13 H10D86:8 H10K59:6 H10D62:6 H10B12:5 H10P14:4,Atsugi,Kanagawa Prefecture,35.4297,139.3365,exact,Wikidata P159 headquarters with P625 coordinates,1
+569,Semikron Danfoss,SEMIKRON DANFOSS ELEKTRONIK GMBH & CO KG,company,DE,39,39,H10W90:17 H10W72:15 H10W70:12 H10W40:8 H10W74:8 H10W76:8,Nürnberg,Bavaria,49.4539,11.0773,city,Company profile; USPTO address of the same entity under its former name,1
+570,Semilab Semiconductor Physics Laboratory Co Ltd,,research institute,HU,2,1,G01R1:2 G01R27:2 G01R3:2 H10P74:2,Budapest,Budapest,47.4979,19.0402,city,USPTO PatentsView assignee address (assignee 44df10e0-ebb5-4871-b3fa-28bf75644310; 7 of 7 US patents); town point from Overture Maps,1
+571,Semiqon Tech Oy,,company,FI,5,5,H10D64:4 G06N10:3 H10D30:3 H10N60:2 H10N69:2 B82Y10:2,,,,,country,,0
+572,Semsysco Gmbh,,company,AT,2,2,H10P72:2 C25D17:1 C25D21:1 C25D7:1,,,,,country,,0
+573,Shenzhen China Star Optoelectronics Semiconductor Display Tech Co Ltd,,company,CN,5,4,H10D86:5 G09F9:2 H10D30:2 H10D62:2 G09G2300:2 G09G2310:2,,,,,country,,0
+574,Shibaura Mechatronics Corp,,company,JP,2,2,H10P72:2 H10P74:1 B08B3:1 G03F1:1 H10P70:1,Yokohama,Kanagawa Prefecture,35.4503,139.6344,city,USPTO PatentsView assignee address (assignee 689f89e2-783c-49f2-b939-660c55b4eab2; 79 of 140 US patents); town point from Overture Maps,1
+575,Shin-Etsu,SHINETSU CHEMICAL CO,company,JP,66,66,G03F7:60 H10P76:50 H10P50:39 G03F1:16 C07F7:13 C08K5:12,"Chiyoda, Tokyo",Tokyo,35.6941,139.7535,city,Wikipedia,2
+576,Shindengen Electric Mfg,,other/unknown,JP,16,16,H10W90:15 H10W70:14 H10W40:9 H10W74:9 H10W72:8 H10D80:3,Tokyo,Tokyo,35.6851,139.7671,exact,Wikidata P159 headquarters with P625 coordinates,1
+577,Shpp Global Tech Bv,,company,NL,1,1,C08K2201:1 C08L2203:1 C08L23:1 C08L87:1 H10P72:1,Bergen op Zoom,North Brabant,51.4945,4.2871,city,USPTO PatentsView assignee address (assignee cd792255-30e4-4385-bada-a42187a40c0a; 29 of 29 US patents); town point from Overture Maps,1
+578,Siec Badawcza Lukasiewicz Inst Mikroelektroniki I Fotoniki,,research institute,PL,3,3,H10P10:2 H10P14:2 H10P95:2 H10P30:2 H10P50:1 H10P76:1,,,,,country,,0
+579,Siec Badawcza Lukasiewicz Port Polski Osrodek Rozwoju Tech,,other/unknown,PL,1,1,H10D62:1 H10F77:1 H10H20:1,,,,,country,,0
+580,Siemens,SIEMENS AG,company,DE,42,42,H10W40:26 H10W70:12 H10W90:10 H10W72:9 G06N10:7 H05K1:6,Munich,Bavaria,48.1443,11.5751,exact,Wikidata P159 headquarters with P625 coordinates,1
+581,Univ Friedrich Alexander Er,,university,DE,1,1,G06N10:1,,,,,country,,0
+582,Siemens Healthcare Ltd,,company,GB,1,1,G01R33:1 H01F6:1 H10N60:1,Camberley,England,51.3393,-0.7461,city,USPTO PatentsView assignee address (assignee 6e3ad08a-f76f-4483-8e3e-69031044d057; 36 of 1526 US patents); town point from Overture Maps,1
+583,Siemens Ind Software Inc,,company,US,4,4,G06F30:4 G06F2115:2 G03F1:1 G03F7:1 G06T5:1 G06T7:1,Plano,Texas,33.0137,-96.6925,city,USPTO PatentsView assignee address (assignee 7eb75785-1fa5-4516-88bd-13d393e953db; 44 of 69 US patents); town point from Overture Maps,1
+584,Silent Waves,,other/unknown,FR,1,1,G06N10:1 H03F19:1 H03F7:1,Grenoble,Auvergne-Rhône-Alpes,45.1869,5.7264,city,Wikidata P159 headquarters (town centre coordinates),1
+585,Silergy Semiconductor Tech Hangzhou Co Ltd,,company,CN,1,1,H10D30:1 H10D62:1 H10D64:1,Hangzhou,Zhejiang,30.249,120.2052,city,USPTO PatentsView assignee address (assignee 1b6f41da-cf5f-4af1-abf5-3e92d8c4d0aa; 429 of 440 US patents); town point from Overture Maps,1
+586,Silergy Semiconductor Technology Hangzhou Ltd,,company,CN,3,3,H10D30:3 H10D62:3 H10D64:2 H02M1:1 H03K17:1 H03K2217:1,Hangzhou,Zhejiang,30.249,120.2052,city,USPTO PatentsView assignee address (assignee 1b6f41da-cf5f-4af1-abf5-3e92d8c4d0aa; 429 of 440 US patents); town point from Overture Maps,1
+587,Silicon Storage Tech Inc,,company,US,3,3,H10B41:3 G06F17:2 G06N3:2 G11C11:2 G11C16:2 G06F7:1,Sunnyvale,California,37.3689,-122.0369,city,Wikidata P159 headquarters (town centre coordinates),1
+588,Siltectra Gmbh,,company,DE,2,2,B23K2103:2 B23K26:2 H10P52:2 H10P54:2 B23K2101:1 B23K37:1,Dresden,Saxony,51.0493,13.7381,city,USPTO PatentsView assignee address (assignee a104f799-2754-472b-9b03-b506890085af; 22 of 25 US patents); town point from Overture Maps,1
+589,Siltronic,SILTRONIC AG,company,DE,20,20,H10P72:6 H10P74:6 G01N21:5 C30B29:5 C30B33:4 H10P14:3,Munich,Bavaria,48.137,11.6231,exact,Wikidata P159 headquarters with P625 coordinates,1
+590,Single Quantum B V,,company,NL,1,1,G01J1:1 G01J2001:1 H10N60:1,,,,,country,,0
+591,Singulus Tech Aktiengesellschaft,,other/unknown,DE,5,5,H10P72:5 C03C17:1 C03C23:1 C23C14:1 B01F23:1,Kahl am Main,Bavaria,50.0681,9.0067,city,Wikidata P159 headquarters (town centre coordinates),1
+592,Sk Enpulse Co Ltd,,company,KR,7,7,C09G1:6 C09K3:6 H10P52:5 B24B37:4 H10P95:4 H10P90:1,,,,,country,,0
+593,SK hynix,SK HYNIX INC,company,KR,64,63,H10B12:20 H10B43:20 H10W90:19 H10B80:15 H10D30:15 H10W20:14,Icheon,Gyeonggi,37.2512,127.4844,exact,Wikidata P159 headquarters with P625 coordinates,1
+594,Smarttec Gmbh,,company,DE,1,1,B23K1:1 F27B17:1 F27D19:1 F27D7:1 G05B13:1 H10P72:1,,,,,country,,0
+595,Snap Inc,,company,US,1,1,G02C1:1 G02C11:1 G02C5:1 H01R13:1 H02J7:1 H03K19:1,Santa Monica,California,34.0195,-118.4912,city,USPTO PatentsView assignee address (assignee bfb70c1d-86cd-406d-aef5-36c692a535da; 639 of 732 US patents); town point from Overture Maps,1
+596,Soerensen Knud Haugaard,,other/unknown,DK,1,1,B82Y15:1 G01R29:1 G06N10:1 H04L9:1,,,,,country,,0
+597,Diamfab,,other/unknown,FR,3,3,H10D1:3 H10D30:3 H10D62:3 H10D84:3 H10D48:1 H10P90:1,,,,,country,,0
+598,Solayer Gmbh,,company,DE,1,1,C23C14:1 H10P72:1,,,,,country,,0
+599,SOMEKH GUY,,private inventor,FR,1,1,B82Y10:1 G06N10:1,,,,,country,,0
+600,BROUSSEAU YVON,,private inventor,CA,1,1,B82Y10:1 G06N10:1,,,,,country,,0
+601,Sony Corp,,company,JP,3,3,H10D30:3 H10D62:3 H10D64:3 B82Y10:2 H10W10:1,Minato,Tokyo,35.6312,139.7438,exact,Wikidata P159 headquarters with P625 coordinates,1
+602,Sony Group Corp,,company,JP,2,2,H10D30:2 H10D64:2 H10D84:2 H10W20:1,Minato,Tokyo,35.6312,139.7438,exact,Wikidata P159 headquarters with P625 coordinates,1
+603,Sony Semiconductor Solutions Corp,,company,JP,2,2,B82Y10:1 B82Y20:1 G02B2006:1 G02B6:1 H03K19:1 H04B10:1,Asahi-chō,Kanagawa Prefecture,35.4369,139.3661,city,Wikidata P159 headquarters (town centre coordinates),1
+604,Spts Technologies Ltd,,company,GB,31,24,H01J37:21 H10P50:20 H10P72:17 H01J2237:13 H10P14:11 C23C16:10,Newport,Wales,51.5882,-2.9975,city,USPTO PatentsView assignee address (assignee 753a61ec-ec29-4282-ad77-fb93f54dc464; 43 of 50 US patents); town point from Overture Maps,1
+605,Ssp Inc,,company,KR,2,2,H10P72:1 B23K1:1 B23K2101:1 H05K3:1 H10W72:1,,Tokyo,,,region,USPTO PatentsView assignee address (assignee c48f7a01-72cd-4af9-95eb-a008f862ca61); names only the province,0
+606,Univ Tours,,university,FR,4,4,H10N30:2 H10P90:2 H10W10:2 H10D62:1 H10D8:1 H10D84:1,Tours,Centre-Val de Loire,47.3928,0.6883,city,Wikidata P159 headquarters (town centre coordinates),1
+607,Standard Chartered Bank,,other/unknown,,1,1,G06F17:1 G06N10:1,,,,,unknown,,0
+608,Standard Chartered Bank Singapore Branch,,other/unknown,,2,2,G06N10:2 G06N3:2 G06F16:1 G06F2209:1 G06F40:1 G06F9:1,,,,,unknown,,0
+609,Stichting Radboud Univ,,university,NL,1,1,G06N10:1 G06N5:1 G06N7:1,,,,,country,,0
+610,Sumco Corp,,company,JP,4,4,C30B29:3 H10D62:3 C30B25:2 C30B33:2 H10P95:2 B32B3:1,Shibaura,Tokyo,35.6501,139.7568,exact,Wikidata P159 headquarters with P625 coordinates,1
+611,Sumitomo Electric Industries,,other/unknown,JP,5,5,H10P70:5 C30B29:4 H10P14:4 H10P90:4 C30B25:3 C30B33:3,Osaka,Osaka Prefecture,34.6923,135.4993,exact,Wikidata P159 headquarters with P625 coordinates,1
+612,Sumitomo Heavy Industries,,other/unknown,JP,4,4,H10P72:3 F04B37:2 F04B39:2 B23K2101:2 B23K26:2 H10P34:2,Ōsaki,Tokyo,35.6197,139.728,city,Wikidata P159 headquarters (town centre coordinates),1
+613,Suragus Gmbh,,company,DE,2,1,G01B7:2 G01N27:2 G01R31:2 H10P74:2,Dresden,Saxony,51.05,13.74,city,Wikidata P159 headquarters (town centre coordinates),1
+614,Surpass Ind Co Ltd,,company,JP,1,1,F16K27:1 F16K37:1 F16K7:1 G01K1:1 G01K13:1 H10P72:1,Saitama,Saitama Prefecture,35.8616,139.6456,city,USPTO PatentsView assignee address (assignee fd40866a-b7f8-470b-aae1-fe8fcf26ff37; 75 of 151 US patents); town point from Overture Maps,1
+615,Suss Microtec Solutions Gmbh & Co Kg,,company,DE,8,4,H10P72:6 B81C3:3 B82Y40:3 G03F7:2 H10P10:2 H10P90:2,,,,,country,,0
+616,Suzhou Watech Electronics Co Ltd,,company,CN,6,6,H10D62:5 H10D12:4 H10D30:4 H10D64:4 H10D1:2 H10D84:2,,,,,country,,0
+617,Swatch Group Res & Dev Ltd,,company,CH,2,2,G11C16:2 H10D30:2 G11C2216:1 H10D1:1 H10B41:1,,,,,country,,0
+618,Swaysure Tech Co Ltd,,company,CN,6,6,H10D30:5 H10B12:3 H10D64:3 H10W20:3 H10D84:2 C23C16:2,,,,,country,,0
+619,Sweden Quantum Ab,,company,SE,1,1,G06N10:1 H01P1:1 H01P3:1 H10N69:1,,,,,country,,0
+620,Swisssem Tech Ag,,company,CH,1,1,H10D12:1 H10D30:1 H10D62:1 H10D64:1,,,,,country,,0
+621,Sun King Pacific Semiconductors Tech Zhejiang Co Ltd,,company,CN,1,1,H10D12:1 H10D30:1 H10D62:1 H10D64:1,,,,,country,,0
+622,Synopsys Inc,,company,US,1,1,G06F15:1 G06F2119:1 G06F30:1,Mountain View,California,37.3945,-122.0503,exact,Wikidata P159 headquarters with P625 coordinates,1
+623,Salience Labs Ltd,,company,GB,1,1,G02F3:1 G06E1:1 G06E3:1 G06N10:1 G06N3:1 G11C11:1,,,,,country,,0
+624,Westfaelische Wilhelms Univ Muenster Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,G02F3:1 G06E1:1 G06E3:1 G06N10:1 G06N3:1 G11C11:1,Muenster,North Rhine-Westphalia,51.9625,7.6252,city,USPTO PatentsView assignee address (assignee 65711f14-6684-4b1f-b0af-26c1433151f4; 13 of 33 US patents); town point from Overture Maps,1
+625,Sciprios Gmbh,,company,DE,1,1,H10P72:1,,,,,country,,0
+626,Siemens Healthineers Ag,,company,DE,2,2,G01N21:1 G01N23:1 H10P74:1 H05K3:1 H10W72:1,Erlangen,Bavaria,49.5925,11.005,city,Wikidata P159 headquarters (town centre coordinates),1
+627,Siemens Mobility Gmbh,,company,DE,3,2,B61L27:2 G06N10:2 G06N5:2 H10D89:1,Munich,Bavaria,48.1375,11.575,city,Wikidata P159 headquarters (town centre coordinates),1
+628,Sofics Bv,,company,BE,1,1,H02H9:1 H10D89:1,Gistel,Flanders,51.1543,2.9615,city,USPTO PatentsView assignee address (assignee 2e4c6acf-c8bf-4a53-ae8a-a047a1d2b1e6; 22 of 22 US patents); town point from Overture Maps,1
+629,T Mobile Innovations Llc,,company,US,1,1,G06N10:1 H04L41:1 H04L9:1 H04W12:1,Overland Park,Kansas,38.9742,-94.6852,city,USPTO PatentsView assignee address (assignee 7aa6f2cd-bb86-4b9a-bc5d-3c7c49b31a38; 19 of 30 US patents); town point from Overture Maps,1
+630,Taara Connect Inc,,company,US,1,1,G06E3:1 G06N10:1 G06N3:1 G06T2207:1 G06T5:1 G06V10:1,,,,,country,,0
+631,Taiwan Asia Semiconductor Corp,,company,TW,6,6,H10D62:5 H10P14:3 H10D30:3 C30B25:2 C23C16:1 H10P72:1,Hsinchu,Hsinchu,24.8066,120.9687,city,Stock-exchange company profile,1
+632,TSMC,TAIWAN SEMICONDUCTOR MFG CO LTD,company,TW,352,351,H10D84:168 H10D30:165 H10D64:147 H10D62:139 H10W20:126 H10W90:85,Hsinchu,Hsinchu,24.7696,121.0121,exact,Wikidata P159 headquarters with P625 coordinates,1
+633,Tsmc Arizona Corp,,company,US,2,2,H10D84:2 H10D30:1 H10D64:1,,,,,country,,0
+634,Tsmc China Co Limited,,company,CN,2,2,H02H9:1 H10D89:1 H10W20:1 H10W40:1 H10W42:1 H10W72:1,Shanghai,Shanghai,31.2323,121.4691,city,USPTO PatentsView assignee address (assignee 947ecbbf-8a0a-4eb7-a3e7-ee75ac3082f9; 4 of 5 US patents); town point from Overture Maps,1
+635,Tsmc China Company Ltd,,company,CN,1,1,H10D30:1 H10D64:1 H10D84:1,Shanghai,Shanghai,31.2323,121.4691,city,USPTO PatentsView assignee address (assignee 947ecbbf-8a0a-4eb7-a3e7-ee75ac3082f9; 4 of 5 US patents); town point from Overture Maps,1
+636,Tsmc Nanjing Company Ltd,,company,CN,3,3,G11C11:1 G11C7:1 G11C8:1 H10B10:1 G06F30:1 H10D89:1,Nanjing,Jiangsu,32.0438,118.7789,city,USPTO PatentsView assignee address (assignee de896271-4a44-470c-a035-db02af24337e; 2 of 2 US patents); town point from Overture Maps,1
+637,Tata Consultancy Services Ltd,,company,IN,15,15,G06N10:15 G16C10:5 G06N20:4 G06F17:3 G06N5:3 G06N3:3,Mumbai,Maharashtra,19.0758,72.8775,city,Wikidata P159 headquarters (town centre coordinates),1
+638,Tcl China Star Optoelectronics Tech Co Ltd,,company,CN,2,2,H10D86:2 H10D30:1 G02F1:1 H10K59:1 H10W90:1,Shenzhen,Guangdong,22.535,114.054,city,Wikidata P159 headquarters (town centre coordinates),1
+639,Tdk Corp,,company,JP,2,2,G01J1:1 G01J2005:1 G01J5:1 G11C13:1 G11C2013:1 G11C2213:1,Minato,Tokyo,35.6815,139.7744,exact,Wikidata P159 headquarters with P625 coordinates,1
+640,Tdk Electronics Ag,,company,DE,10,8,H10W72:6 H10W70:4 G02B26:3 H01C7:3 H01G4:3 H01G7:3,Munich,Bavaria,48.1371,11.5754,city,USPTO PatentsView assignee address (assignee a6c6ea96-faf4-44af-a133-d04c33f3ec20; 52 of 394 US patents); town point from Overture Maps,1
+641,Tdk Man Services Gmbh,,company,DE,1,1,G06F2115:1 G06F2119:1 G06F30:1,,,,,country,,0
+642,Tdk Micronas Gmbh,,company,DE,2,2,H02P29:1 H03K17:1 H10D30:1 H10D62:1 H10D8:1 H10D84:1,,,,,country,,0
+643,Technische Hochschule Nuernberg Georg Simon Ohm In Vertretung Des Freistaates Bayern,,university,DE,1,1,B33Y10:1 B33Y80:1 B82Y10:1 B82Y20:1 C30B29:1 C30B33:1,,,,,country,,0
+644,Technische Univ Muenchen Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,G06F11:1 G06F2209:1 G06F9:1 G06N10:1 G06N3:1,Munich,Bavaria,48.1375,11.575,city,Wikidata P159 headquarters (town centre coordinates),1
+645,Technische Univ Muenchen In Vertretung Des Freistaats Bayern,,university,DE,1,1,G06N10:1,,,,,country,,0
+646,Teknologian Tutkimuskeskus Vtt Oy,,research institute,FI,15,15,H10W44:5 G06N10:4 H10N69:4 H01Q1:4 H10N60:3 H10N30:3,Espoo,Uusimaa,60.2056,24.6556,city,Wikidata P159 headquarters (town centre coordinates),1
+647,Terapore Tech Inc,,company,US,1,1,B01D2256:1 B01D2257:1 B01D2258:1 B01D2323:1 B01D2325:1 B01D53:1,,,,,country,,0
+648,Tesa Se,,company,DE,1,1,B32B2307:1 B32B27:1 H10P72:1,Hamburg,Hamburg,53.55,10.0,city,Wikidata P159 headquarters (town centre coordinates),1
+649,Texas Instruments,TEXAS INSTRUMENTS INC,company,US,53,53,H10W72:20 H10W90:20 H10W70:17 H10W74:17 H10D64:13 H10D84:13,Dallas,Texas,32.91,-96.7525,exact,Wikidata P159 headquarters with P625 coordinates,1
+650,Thales Sa,,company,FR,15,12,H10W74:6 H10W72:5 H10W70:4 G06N10:3 H05K2201:3 H05K3:3,La Défense,Ile-de-France,48.8917,2.2408,city,Wikidata P159 headquarters (town centre coordinates),1
+651,THALLNER ERICH,,private inventor,AT,1,1,H10P72:1,,,,,country,,0
+652,The Hong Kong Univ Of Science And Technology Guangzhou,,university,CN,2,2,H10P72:2 B25J11:1 B25J9:1,Kwun Tan Village,Guangdong,22.8942,113.4783,exact,Wikidata P625 coordinates of the organisation,1
+653,Thermocoax Cie,,other/unknown,FR,1,1,H10P72:1,,,,,country,,0
+654,Thyssenkrupp Ag,,company,DE,2,1,B08B15:2 B25H1:2 F24F3:2 F24F9:2 H10P72:2,Essen,North Rhine-Westphalia,51.4625,6.9931,exact,Wikidata P159 headquarters with P625 coordinates,1
+655,Thyssenkrupp Automation Eng Gmbh,,company,DE,2,1,B08B15:2 B25H1:2 F24F3:2 F24F9:2 H10P72:2,,,,,country,,0
+656,Tianma Advanced Display Tech Institute Xiamen Co Ltd,,research institute,CN,2,2,G09G2300:2 G09G3:2 H10D86:2 H10H29:2 H10K59:2 G09G2320:1,,,,,country,,0
+657,Tianma Advanced Display Technology Inst Xiamen Co Ltd,,research institute,CN,1,1,G09G2300:1 G09G2330:1 G09G3:1 H10D30:1 H10D86:1 H10K59:1,,,,,country,,0
+658,Tno,,research institute,NL,13,13,H10P72:5 G06N10:4 B82Y10:3 H10W72:3 H04B10:2 H10D30:2,Delft,South Holland,52.0117,4.3592,city,Wikidata P159 headquarters (town centre coordinates),1
+659,Tokyo Seimitsu Co Ltd,,company,JP,1,1,B23K2103:1 B23K26:1 H10P54:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+660,Toshiba,TOSHIBA KK,company,JP,14,13,H10D64:7 H10D62:6 H10D12:4 H10D30:3 H01S5:2 H10P90:2,Minato,Tokyo,35.6516,139.758,exact,Wikidata P159 headquarters with P625 coordinates,3
+661,Eth Zuerich,,university,CH,1,1,G06N10:1 G06N20:1 G06N5:1,Zurich,Zurich,47.3764,8.5479,exact,Wikidata P159 headquarters with P625 coordinates,1
+662,Univ Of Twente,,university,NL,1,1,B82Y10:1 G06G7:1 G06N10:1 G06N20:1 G06N3:1,Enschede,Overijssel,52.2225,6.8925,city,Wikidata P159 headquarters (town centre coordinates),1
+663,Tu Delft,,university,NL,2,2,H10N69:2 G06N10:1 H10N60:1,Delft,South Holland,52.0117,4.3592,city,Wikidata P159 headquarters (town centre coordinates),1
+664,Tensor Al Solutions Gmbh,,company,DE,1,1,G06N10:1 G06N20:1 G06N5:1,,,,,country,,0
+665,Univ Ulm,,university,DE,1,1,G06N10:1 G06N20:1 G06N5:1,Ulm,Baden-Württemberg,48.4221,9.9538,exact,Wikidata P159 headquarters with P625 coordinates,1
+666,Terra Quantum Ag,,company,CH,18,18,G06N10:15 G06N3:7 B82Y10:6 H10N69:4 G06N20:3 H10N60:3,Rorschach,St. Gallen,47.4786,9.4936,city,Wikidata P159 headquarters (town centre coordinates),1
+667,Leibniz Inst Fuer Festkoerper Und Werkstoffforschung Dresden E V,,research institute,DE,1,1,G06N10:1 H10N60:1 H10N69:1,Dresden,Saxony,51.0493,13.7381,city,USPTO PatentsView assignee address (assignee fcbf85c8-cd0d-4632-a7f3-c668109fc0f7; 16 of 16 US patents); town point from Overture Maps,1
+668,The Yellow Sic Holding Gmbh,,company,DE,1,1,C30B29:1 C30B33:1 H10P10:1 H10P90:1,Berlin,Berlin,52.431,13.5242,exact,Wikidata P159 headquarters with P625 coordinates,1
+669,Ublox Ag,,company,CH,1,1,H02H9:1 H10D89:1,Thalwil,Zurich,47.2849,8.5658,exact,Wikidata P159 headquarters with P625 coordinates,1
+670,Ucl Business Ltd,,company,,2,2,G06N10:2 G06N5:1,,,,,unknown,,0
+671,Uif Univ Industry Foundation Yonsei Univ,,university,KR,4,4,G11C11:3 H10B61:2 H10B12:2 H10N52:1 H10D30:1 H10D62:1,Seoul,Seoul,37.5667,126.9783,city,USPTO PatentsView assignee address (assignee d9ac7163-86ab-4015-9fc7-7ca37fbb8dc2; 12 of 13 US patents); town point from Overture Maps,1
+672,Ultraband Tech Inc,,company,TW,5,3,H10D30:5 H10D62:5 H10D64:5 H10P14:4 H10P50:1 H10P95:1,,,,,country,,0
+673,Umicore Nv,,company,BE,1,1,H10P10:1 H10P90:1,Brussels metropolitan area,Brussels-Capital,50.8467,4.3525,city,Wikidata P159 headquarters (town centre coordinates),1
+674,UMC,UNITED MICROELECTRONICS CORP,company,TW,28,28,H10D30:9 H10B63:7 H10D84:7 H10N70:6 H10D64:6 H10W20:6,Hsinchu City,Hsinchu,24.7706,121.0193,exact,Wikidata P159 headquarters with P625 coordinates,1
+675,United Silicon Carbide Inc,,company,US,1,1,H10D30:1 H10D62:1 H10D64:1 H10P30:1,Monmouth Junction,New Jersey,40.379,-74.5465,city,USPTO PatentsView assignee address (assignee 0a76ee2b-9810-4557-ac53-2a3cb08d228f; 25 of 27 US patents); town point from Overture Maps,1
+676,Unity Semiconductor,,other/unknown,FR,2,2,G01N2021:1 G01N21:1 H10P74:1 H01R12:1 H01R31:1 H10P72:1,,,,,country,,0
+677,Univ Beijing Inf Sci & Tech,,university,CN,1,1,G06F17:1 G06N10:1 G06N5:1,,,,,country,,0
+678,Univ Berlin Tech,,university,DE,1,1,G06N10:1 G06N3:1,"Technische Universität Berlin, Hauptgebäude",Berlin,52.5119,13.3264,exact,Wikidata P159 headquarters with P625 coordinates,1
+679,Univ Bologna Alma Mater Studiorum,,university,IT,1,1,H01G7:1 H02N13:1 H10P72:1,Bologna,Emilia-Romagna,44.4938,11.3426,city,USPTO PatentsView assignee address (assignee 6c41b525-2e4e-4fa0-acd0-b31cffc44fce; 49 of 58 US patents); town point from Overture Maps,1
+680,Univ Cadiz,,university,ES,1,1,H10D30:1 H10D62:1 H10P14:1 H10P95:1,Cádiz,Andalusia,36.5358,-6.2942,exact,Wikidata P625 coordinates of the organisation,1
+681,Univ College Cardiff Consultants Ltd,,university,GB,1,1,G01N27:1 H10D62:1,Cardiff,Wales,51.4817,-3.1792,city,USPTO PatentsView assignee address (assignee 47783d0e-42ed-4ccc-9ed5-f92c5a44e021; 98 of 113 US patents); town point from Overture Maps,1
+682,TU Delft,UNIV DELFT TECH,university,NL,25,24,G06N10:14 B82Y10:8 H10D48:4 H10D64:4 H10W72:3 G01N24:2,Delft,South Holland,52.0117,4.3592,city,Wikidata P159 headquarters (town centre coordinates),1
+683,Univ Groningen,,university,NL,1,1,H10B63:1 H10N70:1,Groningen,Groningen,53.2192,6.5628,exact,Wikidata P625 coordinates of the organisation,1
+684,Univ Hamburg,,university,DE,1,1,G06N10:1 H10N60:1 H10N69:1,Hamburg,Hamburg,53.5669,9.9839,exact,Wikidata P159 headquarters with P625 coordinates,1
+685,Univ Of South Eastern Norway,,university,NO,1,1,G06N10:1 H10N60:1 H10N69:1,Porsgrunn,Buskerud,59.7438,10.1936,exact,Wikidata P159 headquarters with P625 coordinates,1
+686,Univ Heidelberg,,university,DE,1,1,G02B26:1 G02F2203:1 G06N10:1,Heidelberg,Baden-Württemberg,49.4122,8.71,city,Wikidata P159 headquarters (town centre coordinates),1
+687,Univ Ilmenau Tech,,university,DE,1,1,B65G54:1 B81C99:1 H10P72:1,Ilmenau,Thuringia,50.6817,10.939,exact,Wikidata P159 headquarters with P625 coordinates,1
+688,Univ Innsbruck,,university,AT,3,3,G06N10:3,Innsbruck,Tyrol,47.2683,11.3933,city,Wikidata P159 headquarters (town centre coordinates),1
+689,Oesterreichische Akademie Der Wss,,research institute,AT,2,2,G06N10:2,,,,,country,,0
+690,Univ Degli Studi Di Trieste,,university,IT,2,2,G06N10:2,Trieste,Friuli – Venezia Giulia,45.6497,13.7773,city,USPTO PatentsView assignee address (assignee 9d1df76c-fa46-4625-a8ac-27c6cbe3a389; 9 of 9 US patents); town point from Overture Maps,1
+691,Univ Istanbul Teknik,,university,TR,1,1,G06N10:1 G06N3:1,,,,,country,,0
+692,Univ Ulsan Found Ind Coop,,university,KR,2,2,C22C2202:1 C22C27:1 G11C11:1 H01F10:1 H10B61:1 H10N50:1,,,,,country,,0
+693,Univ Korea Res & Business Foundation Sejong Campus,,university,KR,1,1,G01R31:1 H10D30:1,Sejong,Sejong,36.48,127.289,city,USPTO PatentsView assignee address (assignee f61efc76-7cac-4e66-8828-711f4bf73d1b; 24 of 24 US patents); town point from Overture Maps,1
+694,Univ Leiden,,university,NL,1,1,B32B2457:1 B32B7:1 B32B9:1 B82Y30:1 B82Y40:1 C01B32:1,Leiden,South Holland,52.1561,4.487,exact,Wikidata P159 headquarters with P625 coordinates,1
+695,Univ Morski W Gdyni,,university,PL,1,1,G01R31:1 H10P90:1,,,,,country,,0
+696,Univ Nat Chonnam Ind Found,,university,KR,2,2,G03F7:2 C07F7:1 H10P76:1 H10D30:1 H10D62:1 H10D86:1,Gwangju,,35.1595,126.8515,city,USPTO PatentsView assignee address (assignee 84ca42a3-647c-42e3-bb46-4aaa07325c11; 93 of 120 US patents); town point from Overture Maps,1
+697,Univ Newcastle,,university,,1,1,H02M1:1 H02M7:1 H03K17:1 H03K2217:1 H10D62:1,,,,,unknown,,0
+698,Univ Oxford Brookes,,university,,1,1,G01R31:1 G06F30:1,,,,,unknown,,0
+699,Univ Oxford Innovation Ltd,,university,,3,3,G06N10:2 H01F6:1 H01R4:1 H10N60:1,,,,,unknown,,0
+700,Univ Paderborn Koerperschaft Des Oeffentlichen Rechts,,university,DE,3,3,G06N10:3 G02F1:1 G02F2203:1 G02F7:1 H04B10:1 H04L9:1,Paderborn,North Rhine-Westphalia,51.7081,8.7722,exact,Wikidata P625 coordinates of the organisation,1
+701,Univ Rovira I Virgili,,university,ES,1,1,B82Y40:1 C23C16:1 C30B29:1 G01N33:1 H10P14:1,Tarragona,Catalonia,41.1175,1.2528,city,Wikidata P159 headquarters (town centre coordinates),1
+702,Univ Science & Technology China,,university,CN,2,2,G06N10:1 H03K5:1 G06F7:1 H04B10:1 H04L2209:1 H04L9:1,Chengdu,Sichuan,30.6599,104.0633,city,USPTO PatentsView assignee address (assignee db1ad8af-b43a-41ba-b2bc-654a6417be9c; 131 of 213 US patents); town point from Overture Maps,1
+703,Hefei Nat Laboratory,,research institute,CN,2,2,G06N10:1 H03K5:1 G06F7:1 H04B10:1 H04L2209:1 H04L9:1,,,,,country,,0
+704,Univ Sheffield,,university,,1,1,G01B11:1 G01N21:1 H10P72:1,,,,,unknown,,0
+705,Univ Space Research Association,,university,,1,1,G06N10:1,,,,,unknown,,0
+706,Univ Strasbourg,,university,FR,1,1,G06N10:1,Strasbourg,Grand Est,48.5733,7.7522,city,Wikidata P159 headquarters (town centre coordinates),1
+707,Univ Stuttgart Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,B82Y10:1 C23C14:1 C30B29:1 G06N10:1,Stuttgart,Baden-Württemberg,48.7817,9.1752,exact,Wikidata P159 headquarters with P625 coordinates,1
+708,Univ Twente,,university,NL,1,1,G06N10:1,Enschede,Overijssel,52.2225,6.8925,city,Wikidata P159 headquarters (town centre coordinates),1
+709,Univ Warwick,,university,,1,1,C23C14:1 C23C16:1 H10P72:1,,,,,unknown,,0
+710,Univ Wien Tech,,university,AT,1,1,G06N10:1 G21K1:1 G21K2201:1,Vienna,Vienna,48.1989,16.37,exact,Wikidata P159 headquarters with P625 coordinates,1
+711,Ushio Electric Inc,,company,JP,2,2,H10P72:2 B05D1:1 B05D3:1 B05D5:1 B05D7:1 B08B7:1,Tokyo,Tokyo,35.6769,139.7639,city,USPTO PatentsView assignee address (assignee 7f0fdebe-13c6-4701-a702-f1a03f9df0a3; 4 of 4 US patents); town point from Overture Maps,1
+712,Vahle Paul Kg,,company,DE,1,1,H01F38:1 H02J50:1 H10P72:1,Kamen,North Rhine-Westphalia,51.5918,7.6617,city,USPTO PatentsView assignee address (assignee 204cadf6-4e55-4db2-ab8c-93896e345eaa; 8 of 10 US patents); town point from Overture Maps,1
+713,Valstybinis Moksliniu Tyrimu Institutas Fiziniu Ir Tech Mokslu Centras,,research institute,LT,1,1,B82Y10:1 G03F7:1 H10D30:1 H10D62:1,,,,,country,,0
+714,Vat Holding Ag,,company,CH,6,6,H10P72:6 F15B11:2 F15B13:2 F15B15:2 F16K37:2 F16K51:2,Sennwald,St. Gallen,47.2664,9.5,city,Wikidata P159 headquarters (town centre coordinates),1
+715,Veeco Instr Inc,,company,US,1,1,C23C16:1 C30B25:1 H10P72:1,,,,,country,,0
+716,Versum Mat Us Llc,,company,US,1,1,C07F7:1 C23C16:1 H10P14:1,Tempe,Arizona,33.4255,-111.94,city,USPTO PatentsView assignee address (assignee f29e305e-be7d-4a4f-a5b8-5568fc893f6d; 105 of 114 US patents); town point from Overture Maps,1
+717,Vishay Siliconix,,other/unknown,US,1,1,G01R19:1 H10D30:1 H10D62:1 H10D64:1 H10D84:1 H10D89:1,Santa Clara,California,37.3541,-121.9552,city,USPTO PatentsView assignee address (assignee 07df26ce-9d50-4414-abea-1aa7e49b3277; 95 of 124 US patents); town point from Overture Maps,1
+718,Xanadu Quantum Tech Inc,,company,CA,14,13,G06N10:13 B82Y10:2 H04B10:2 G16C10:1 H03M13:1 G02F3:1,Toronto,Ontario,43.6535,-79.3839,city,USPTO PatentsView assignee address (assignee 56a9cbe3-9758-48d6-aab9-b743a9e55b0d; 3 of 4 US patents); town point from Overture Maps,1
+719,Wacqt Ip Ab,,company,SE,3,3,G06N10:3 H10N60:2 H03D7:1 H03F1:1 H03F19:1 H03F2200:1,,,,,country,,0
+720,Wave Photonics Ltd,,company,,1,1,G06F7:1 G06N10:1 H04B10:1 H04L9:1,,,,,unknown,,0
+721,Welinq,,other/unknown,FR,1,1,G06N10:1 G11C13:1,,,,,country,,0
+722,Werner Lieb Gmbh,,company,DE,1,1,H10P72:1,,,,,country,,0
+723,Western Digital Tech Inc,,company,US,1,1,G11C11:1 G11C13:1 G11C2213:1 G11C8:1 H10B61:1,Irvine,California,33.6857,-117.826,city,USPTO PatentsView assignee address (assignee a51cd862-c0a7-4741-a215-ee0a6d9385ec; 1621 of 4556 US patents); town point from Overture Maps,1
+724,Willis Group Ltd,,company,,1,1,G06F17:1 G06F2111:1 G06F30:1 G06N10:1 G06N20:1 G06N3:1,,,,,unknown,,0
+725,Winse Power Oy,,company,FI,1,1,F17C2250:1 F17C3:1 F25D19:1 F25D2700:1 H02J50:1 H02S40:1,,,,,country,,0
+726,Wisconsin Alumni Res Found,,other/unknown,,1,1,G06E3:1 G06N10:1,,,,,unknown,,0
+727,Wistron Neweb Corp,,company,TW,2,2,G01B21:1 G01B2210:1 G01C9:1 G01P15:1 G08C17:1 H10P72:1,,,,,country,,0
+728,Wojskowa Akademia Techniczna Im Jaroslawa Dabrowskiego,,other/unknown,PL,1,1,C23C22:1 H10P10:1 H10P95:1,Warsaw,Masovian Voivodeship,52.232,21.0067,city,USPTO PatentsView assignee address (assignee 4ac10fea-1a89-4c5c-ae89-e9ef0cff4a9f; 2 of 2 US patents); town point from Overture Maps,1
+729,Wolfspeed Inc,,company,US,4,4,H10D62:2 H03F1:1 H03F2200:1 H03F2203:1 H03F3:1 H03K17:1,Durham,North Carolina,35.9013,-78.8403,exact,Wikidata P159 headquarters with P625 coordinates,1
+730,Wormsensing,,other/unknown,FR,2,2,H10N30:2 H10P72:2 B32B37:1 B32B15:1 B32B27:1 B32B7:1,,,,,country,,0
+731,Wuhan Xinxin Semiconductor Mfg,,other/unknown,CN,1,1,G11C5:1 G11C7:1 G11C8:1 H10B41:1,,Hubei,,,region,USPTO PatentsView assignee address (assignee 6cacb51a-f0c8-493f-94e2-894f975103d2); names only the province,0
+732,Wuxi Goyes Prec Machinery Co Ltd,,company,CN,1,1,B23D45:1 B28D5:1 H10P72:1 H10P95:1,,,,,country,,0
+733,Wang Pei Ju,,other/unknown,TW,1,1,H10D30:1 H10D62:1 H10D64:1,,,,,country,,0
+734,Xanadu Quantum Tech Holdings Ulc,,company,CA,1,1,G06N10:1,,,,,country,,0
+735,Yageo Corp,,company,TW,1,1,C23C14:1 H01C17:1 H01C7:1 H10D1:1,Taipei,Taipei,25.0375,121.5625,city,Wikidata P159 headquarters (town centre coordinates),1
+736,YMTC,YANGTZE MEMORY TECH CO LTD,company,CN,42,37,H10B43:37 H10B41:27 H10W20:23 H10W80:17 H10W90:17 H10W72:13,Wuhan,Hubei,30.4622,114.6081,exact,Wikidata P159 headquarters with P625 coordinates,1
+737,Yield Eng Systems Inc,,company,US,1,1,B05B12:1 B05B7:1 B08B11:1 B08B13:1 B08B2203:1 B08B3:1,Livermore,California,37.6821,-121.7681,city,USPTO PatentsView assignee address (assignee 3573e140-5460-4af0-b9fa-c167fe4ece54; 7 of 12 US patents); town point from Overture Maps,1
+738,Yiyaniq Inc,,company,CA,2,2,G06N10:2 G06N3:2 G06N5:2 G06F17:1 G06N7:1 G06Q10:1,,,,,country,,0
+739,Zadient Tech Sas,,company,FR,1,1,B23K2103:1 B23K26:1 B28D5:1 H10P52:1 H10P90:1,,,,,country,,0
+740,ZF Friedrichshafen,ZAHNRADFABRIK FRIEDRICHSHAFEN,company,DE,110,109,H10W40:71 H10W90:44 H05K7:33 H10W72:30 H10W70:29 H02M7:28,Friedrichshafen,Baden-Württemberg,47.65,9.4801,city,USPTO PatentsView assignee address (assignee d5045024-89b0-42b2-be5e-39b9cc490272; 335 of 405 US patents); town point from Overture Maps,1
+741,Zapata Computing Inc,,company,US,1,1,G06N10:1 G06N5:1 G06N7:1,Boston,Massachusetts,42.3603,-71.0578,city,Wikidata P159 headquarters (town centre coordinates),1
+742,Zeiss Carl Smt Gmbh,,company,DE,15,14,G03F1:7 H10P72:6 G03F7:5 G06N20:4 H10P74:4 G06F30:3,Oberkochen,Baden-Württemberg,48.7839,10.1053,exact,Wikidata P159 headquarters with P625 coordinates,1
+743,Zhejiang Int Maritime College,,university,CN,1,1,G01D21:1 G06F30:1 G08B17:1 G08B25:1 H03K17:1 H03K2017:1,,,,,country,,0
+744,eleQtron,eleQtron GmbH,company,DE,31,31,G06N10:31 G21K1:8 H03H7:1 H01Q3:1 B82Y10:1 F25D19:1,Siegen,North Rhine-Westphalia,50.8751,8.0256,city,Startup register,1
+745,Univ Siegen Koerperschaft Des Oeffentlichen Rechts,,university,DE,13,13,G06N10:13 G21K1:3 H01F41:1 H01F7:1 G06F1:1 H03K4:1,Niedersetzen,North Rhine-Westphalia,50.9064,8.0283,exact,Wikidata P625 coordinates of the organisation,1
+746,3d Plus,,other/unknown,FR,1,1,H05K1:1 H10W40:1,,,,,country,,0
+747,Abb Schweiz Ag,,company,CH,7,7,H10W40:7 H05K7:4 F04D29:1 G06F1:1 H03K17:1 H10W90:1,Baden,Aargau,47.4737,8.3087,city,USPTO PatentsView assignee address (assignee 0d3783c8-eda8-40e6-ab2f-0afde69d3c76; 1486 of 1553 US patents); town point from Overture Maps,1
+748,Abbott Diabetes Care Inc,,company,US,1,1,A61B2562:1 A61B5:1 H05K2201:1 H05K3:1 H10W72:1,Alameda,California,37.7652,-122.2416,city,USPTO PatentsView assignee address (assignee 88a8e9e4-227e-4dad-b716-2e8bb8cd7ec1; 1037 of 1039 US patents); town point from Overture Maps,1
+749,Actron Tech Corp,,company,TW,4,4,H10W90:4 H10W70:3 H10W74:3 H10W40:1 H10W72:1 H02M7:1,,,,,country,,0
+750,Adeia Semiconductor Bonding Technologies Inc,,company,US,18,12,H10W72:16 H10W80:16 H10W90:16 H10W20:13 H10W70:12 H10W74:12,,,,,country,,0
+751,Adeia Semiconductor Inc,,company,US,1,1,G06F15:1 G11C5:1 H10B80:1 H10W20:1 H10W72:1 H10W80:1,,,,,country,,0
+752,Adeia Semiconductor Tech Llc,,company,US,1,1,H10P14:1 H10P50:1 H10P90:1 H10W20:1 H10W44:1 H10W72:1,,,,,country,,0
+753,Advanced Semiconductor Eng,,other/unknown,TW,1,1,H01M10:1 H01M2220:1 H01M50:1 H01Q1:1 H04R1:1 H04R2420:1,Kaohsiung,Kaohsiung,22.713,120.3013,exact,Wikidata P159 headquarters with P625 coordinates,1
+754,Air Liquide,,other/unknown,FR,3,2,H10W40:3 F25B9:2 F25D19:2 F25D3:2 B23K1:1 H01J37:1,quai d'Orsay,Ile-de-France,48.8622,2.3047,exact,Wikidata P159 headquarters with P625 coordinates,1
+755,Air Prod & Chem,,other/unknown,US,1,1,B23K1:1 B23K3:1 H01J2237:1 H01J37:1 H10W72:1,,,,,country,,0
+756,ALEKSEI ALEKSANDROVICH PODUVALTSEV,,private inventor,RU,2,2,B23K20:2 H10W72:2 B23K37:1 B23K2101:1 H05K2203:1 H05K3:1,,,,,country,,0
+757,Allatherm Sia,,other/unknown,LV,1,1,F28D15:1 F28F2230:1 F28F3:1 H10W40:1,,,,,country,,0
+758,Allegro Microsystems Llc,,company,US,5,5,H01F27:4 H01F38:2 H01F41:2 H10W70:2 H10W90:2 H10W44:2,Worcester,Massachusetts,42.2626,-71.8019,city,USPTO PatentsView assignee address (assignee 481f5b37-0968-4c9d-82a9-862ca8297e92; 384 of 652 US patents); town point from Overture Maps,1
+759,Alpha Assembly Solutions Inc,,company,US,1,1,B22F2301:1 B22F2304:1 B22F7:1 H10W72:1 H10W90:1,,,,,country,,0
+760,Alps Alpine Co Ltd,,company,JP,6,4,H05K7:4 H10W40:4 G06F1:2 G06F2200:2 B60R1:1 B60R2300:1,Tokyo,Tokyo,35.6769,139.7639,city,USPTO PatentsView assignee address (assignee e5752068-f5d5-4c9d-b9c1-d856cdcc1e86; 178 of 181 US patents); town point from Overture Maps,1
+761,Alstom Holdings,,company,FR,1,1,B61C17:1 H05K7:1 H10W40:1,Saint-Ouen-sur-Seine,Ile-de-France,48.9139,2.3323,exact,Wikidata P159 headquarters with P625 coordinates,1
+762,Am Global Holding Gmbh,,company,DE,1,1,F16L2201:1 F16L33:1 H10W40:1,,,,,country,,0
+763,American Axle & Mfg Inc,,company,US,1,1,H02K1:1 H02K11:1 H02K2211:1 H02K5:1 H02K7:1 H02K9:1,Detroit,Michigan,42.3316,-83.0466,city,USPTO PatentsView assignee address (assignee ea4384e6-cb90-4b7c-bfde-7e6a43a13a84; 470 of 472 US patents); town point from Overture Maps,1
+764,Ampere Sas,,company,FR,5,4,F28D15:5 F28F2265:5 H10W40:5 H05K7:3 H01M10:3 F28F2255:1,Boulogne-Billancourt,Ile-de-France,48.8353,2.2414,city,Wikidata P159 headquarters (town centre coordinates),1
+765,Ampleon Netherlands Bv,,company,NL,11,7,H10W44:10 H03F3:7 H10W72:6 H03F1:5 H03F2200:5 H10D1:2,Nijmegen,Gelderland,51.8475,5.8638,city,USPTO PatentsView assignee address (assignee 12e8e417-520e-4369-ae85-f8102faf4ad1; 35 of 39 US patents); town point from Overture Maps,1
+766,Amx Automatrix S R L,,company,IT,1,1,H10W72:1,,,,,country,,0
+767,Apag Elektronik Ag,,company,CH,1,1,B26D7:1 B26F1:1 B29C2793:1 H10W40:1,Dubendorf,Zurich,47.397,8.6186,city,USPTO PatentsView assignee address (assignee 998bc139-f46e-4f82-acfb-4c4a7336c67c; 2 of 2 US patents); town point from Overture Maps,1
+768,Arieca Inc,,company,US,1,1,C08K2201:1 C08K3:1 C08K5:1 C08L2205:1 C08L83:1 C08L9:1,,,,,country,,0
+769,Arista Networks Inc,,company,US,1,1,H05K1:1 H05K2201:1 H05K3:1 H10W40:1 H10W90:1,Santa Clara,California,37.4117,-121.976,exact,Wikidata P159 headquarters with P625 coordinates,1
+770,Arnold & Richter Cinetech,,other/unknown,DE,1,1,H10W40:1,,,,,country,,0
+771,Asahi Kasei Microdevices Corp,,company,JP,1,1,G01R15:1 G01R19:1 G01R33:1 H02M1:1 H02M7:1 H10W70:1,Tokyo,Tokyo,35.6769,139.7639,city,USPTO PatentsView assignee address (assignee e3362f63-2d53-4793-8c50-89ad9052e1b6; 173 of 173 US patents); town point from Overture Maps,1
+772,Asetek Danmark As,,company,DK,1,1,G06F1:1 G06F2200:1 H05K7:1 H10W40:1,Aalborg,North Denmark Region,57.0463,9.9215,city,USPTO PatentsView assignee address (assignee 7fa2781d-b1f1-42fa-a615-e4c07dd82e95; 19 of 19 US patents); town point from Overture Maps,1
+773,Asmpt Gmbh & Co Kg,,company,DE,2,2,H05K13:2 H10W99:2 F04B39:1 F04B41:1 F04B45:1 F04B49:1,,,,,country,,0
+774,At & S Austria Tech & Systemtechnik Ag,,company,AT,2,2,H05K1:2 H05K2201:2 H05K3:2 H10W44:2 H10W70:2 H05K2203:1,Leoben,Styria,47.3817,15.0972,city,Wikidata P159 headquarters (town centre coordinates),1
+775,At & S China Co Ltd,,company,CN,1,1,H05K1:1 H05K2203:1 H05K3:1 H10P72:1 H10W42:1 H10W70:1,,,,,country,,0
+776,Audi Ag,,company,DE,3,3,H10W40:3 H02M3:1 H02M7:1 H05K1:1 H10W72:1 H10W90:1,Ingolstadt,Bavaria,48.7833,11.418,exact,Wikidata P159 headquarters with P625 coordinates,1
+777,Audiowell Elect Guangdong Co,,company,CN,1,1,F04D33:1 G06F1:1 H05K7:1 H10W40:1,,,,,country,,0
+778,Aumovio Germany Gmbh,,company,DE,1,1,H05K7:1 H10W40:1,,,,,country,,0
+779,Avery Dennison Retail Information Services Llc,,company,US,1,1,G06K19:1 H10P72:1 H10W72:1 H10W90:1 H10W99:1,Mentor,Ohio,41.6665,-81.34,city,USPTO PatentsView assignee address (assignee 7735202f-3def-4006-8be4-80f767fe889d; 186 of 244 US patents); town point from Overture Maps,1
+780,Avl List Gmbh,,company,AT,1,1,H05K7:1 H10W40:1,Graz,Styria,47.0709,15.4383,city,USPTO PatentsView assignee address (assignee 1eb49367-835d-4a2d-a2b3-7aedbff9b81c; 332 of 335 US patents); town point from Overture Maps,1
+781,Ay Mehmet Garip,,other/unknown,TR,1,1,H01G4:1 H01G5:1 H01G7:1 H10W44:1,,,,,country,,0
+782,Aledia,,other/unknown,FR,1,1,H10W72:1,Échirolles,Auvergne-Rhône-Alpes,45.1428,5.7178,city,Wikidata P159 headquarters (town centre coordinates),1
+783,Alupress Spa,,company,IT,1,1,B33Y80:1 F28D15:1 F28F13:1 F28F21:1 H05K7:1 H10W40:1,,,,,country,,0
+784,Aptiv Technologies Ag,,company,CH,2,2,H05K7:2 H10W40:2 H10W72:1 H10W90:1 H05K9:1,,,,,country,,0
+785,Bayerische Motoren Werke Ag,,company,DE,8,8,H10W40:7 H02M7:5 H05K7:4 H10W70:3 H10W44:3 H10W72:3,Munich,Bavaria,48.1769,11.56,city,Wikidata P159 headquarters (town centre coordinates),1
+786,Beammwave Ab,,company,SE,1,1,H04B1:1 H04B2001:1 H04B7:1 H10D84:1 H10W44:1,,,,,country,,0
+787,Beijing Naura Microelectronics Equipment Co Ltd,,company,CN,1,1,H10P50:1 H10W20:1 H10W70:1 H10W72:1,Beijing,Beijing,39.9057,116.3913,city,USPTO PatentsView assignee address (assignee d23d62cb-fb98-49d5-9867-0c2a483b8e11; 40 of 42 US patents); town point from Overture Maps,1
+788,Beijing X Ring Tech Co Ltd,,company,CN,2,2,H10W20:2 H10W72:2 H10W90:2 H10W42:1 H10W44:1 G06F1:1,,,,,country,,0
+789,Bitdeer Semiconductor Tech Pte Ltd,,company,SG,8,8,G06F1:8 G06F2200:8 H05K7:8 H10W40:8 H05K1:3 H05K2201:2,Singapore,,1.2899,103.8519,city,Applicant country in the patent data (city-state),1
+790,Borgwarner Emissions Systems Spain Slu,,other/unknown,ES,1,1,F28D2021:1 F28F21:1 F28F2280:1 F28F3:1 H05K7:1 H10W40:1,,,,,country,,0
+791,Borgwarner Inc,,company,US,1,1,B60L15:1 B60L2240:1 H02M7:1 H05K1:1 H05K3:1 H05K7:1,Auburn Hills,Michigan,42.6875,-83.2342,city,Wikidata P159 headquarters (town centre coordinates),1
+792,Borgwarner Luxembourg Automotive Systems S A,,company,LU,1,1,B60L15:1 B60L2210:1 H02M1:1 H02M7:1 H02P27:1 H05K7:1,,,,,country,,0
+793,Borgwarner Us Tech Llc,,company,US,4,4,H02M7:4 H10W90:4 H05K7:3 H02M1:3 H02P25:3 H10W44:2,,,,,country,,0
+794,Bsh Hausgeraete Gmbh,,company,DE,2,2,H10W40:2 F24C15:1 F24C7:1,Munich,Bavaria,48.0886,11.6439,exact,Wikidata P159 headquarters with P625 coordinates,1
+795,C I R A Centro Italiano Ricerche Aerospaziali S C P A,,other/unknown,IT,1,1,H10W40:1,,,,,country,,0
+796,Cariad Se,,company,DE,2,2,H05K7:2 H10W40:2 H05K2201:1 H05K3:1 B23K2101:1 B23P15:1,Wolfsburg,Lower Saxony,52.4237,10.7981,exact,Wikidata P159 headquarters with P625 coordinates,1
+797,Carrier Corp,,company,US,3,3,H05K7:3 H10W40:3 G06F1:1 H10W72:1 H10W90:1,Farmington,Connecticut,41.7278,-72.8403,city,Wikidata P159 headquarters (town centre coordinates),1
+798,Cedrion Consultoria Tecnica E Ingenieria Sl,,company,ES,1,1,F28D2021:1 F28F13:1 G06F1:1 H01T19:1 H05K7:1 H10W40:1,,,,,country,,0
+799,Centre Nat Etd Spatiales,,research institute,FR,3,2,B33Y80:2 F28D15:2 F28F21:2 F28F2255:2 H10W40:2 H10W42:1,,,,,country,,0
+800,Univ Polytechnique Hauts De France,,university,FR,2,2,H10D30:2 H10W20:1 H10W40:1 H10D62:1 H10D64:1 H10P90:1,Famars,Hauts-de-France,50.3156,3.5192,city,Wikidata P159 headquarters (town centre coordinates),1
+801,Cercuits,,other/unknown,BE,1,1,H10W76:1,,,,,country,,0
+802,Changxin Memory Tech Inc,,company,CN,1,1,H10W40:1 H10W42:1 H10W70:1 H10W72:1 H10W74:1 H10W90:1,Hefei,Anhui,31.3747,117.5668,exact,Wikidata P159 headquarters with P625 coordinates,1
+803,Chemelex Europe Gmbh,,company,CH,1,1,H05B2203:1 H05B3:1 H10W72:1 H10W90:1,,,,,country,,0
+804,Chipbond Technology Corp,,company,TW,4,4,H10W40:4 H10W74:4 H10P54:3 H10W90:3 H10P72:2 H10W42:2,Hsinchu City,Hsinchu,24.7844,121.0062,exact,Wikidata P159 headquarters with P625 coordinates,1
+805,Cianna Medical Inc,,company,US,2,2,A61B2034:2 A61B2090:2 A61B2562:2 A61B5:2 A61B90:2 H10W42:2,Aliso Viejo,California,33.5688,-117.7284,exact,Wikidata P625 coordinates of the organisation,1
+806,Ciena Corp,,company,US,1,1,G06F1:1 H05K1:1 H05K7:1 H10W70:1,Hanover,Maryland,39.1928,-76.7242,city,Wikidata P159 headquarters (town centre coordinates),1
+807,Cisco Tech Inc,,company,US,3,3,H10W70:2 H05K1:2 G06F30:1 H10W90:1 G02B6:1 H01R12:1,San Jose,California,37.3362,-121.8906,city,USPTO PatentsView assignee address (assignee 2911cdcf-0008-4315-9e81-388354504a02; 16584 of 16625 US patents); town point from Overture Maps,1
+808,Cit Co Ltd,,company,KR,1,1,C23C14:1 H10W20:1 H10W70:1,,,,,country,,0
+809,Inst Polytechnique Bordeaux,,university,FR,1,1,H10W72:1,Talence,Nouvelle-Aquitaine,44.8086,-0.5883,city,Wikidata P159 headquarters (town centre coordinates),1
+810,Synchrotron Soleil,,other/unknown,FR,1,1,H10N70:1 H10W70:1,Saint-Aubin,Ile-de-France,48.71,2.145,exact,Wikidata P625 coordinates of the organisation,1
+811,Compleo Charging Solutions Gmbh & Co Kg,,company,DE,1,1,B60L53:1 H02M3:1 H02M7:1 H10W40:1,,,,,country,,0
+812,Composecure Llc,,company,US,1,1,G06K19:1 H01Q1:1 H10W70:1,,,,,country,,0
+813,Continental Automotive Tech Gmbh,,company,DE,2,2,H05K7:2 H10W40:2 H01M10:1 H05K1:1,,,,,country,,0
+814,Continental Autonomous Mobility Germany Gmbh,,company,DE,2,2,H05K7:2 H10W40:2 H01M10:1 H05K1:1,,,,,country,,0
+815,Cooler Master Co Ltd,,company,TW,8,8,H05K7:8 H10W40:8 F28F3:4 G06F1:3 G06F2200:2 F28F13:2,New Taipei,New Taipei,25.0125,121.465,city,Wikidata P159 headquarters (town centre coordinates),1
+816,National Yang Ming Chiao Tung Univ,,university,TW,1,1,H05K7:1 H10W40:1,Hsinchu,Hsinchu,24.8066,120.9687,city,USPTO PatentsView assignee address (assignee e06ff446-ece4-4d7b-a30c-bcb22d792b8e; 813 of 852 US patents); town point from Overture Maps,1
+817,Cooler Master Tech Inc,,company,TW,1,1,F28D15:1 H05K7:1 H10W40:1,,,,,country,,0
+818,Coolit Systems Inc,,company,CA,1,1,F28F3:1 H05K7:1 H10W40:1,Calgary,Alberta,51.0456,-114.0575,city,USPTO PatentsView assignee address (assignee 31e58bdd-2142-4fd8-a01c-60ed67928123; 32 of 33 US patents); town point from Overture Maps,1
+819,Corintis Sa,,company,CH,3,3,H10W40:3 F28F3:1 H05K7:1,,,,,country,,0
+820,Crrc Zhuzhou Electric Locomotive Research Inst Co Ltd,,research institute,CN,1,1,F28D15:1 F28D20:1 F28D2021:1 F28F3:1 H05K7:1 H10W40:1,,Hunan,,,region,USPTO PatentsView assignee address (assignee 104d4108-3774-4c16-8459-d62f8653c3fd); names only the province,0
+821,Cxmt Corp,,company,CN,2,2,H10B12:2 H10W20:2 H10D88:1,Hefei,Anhui,31.3747,117.5668,exact,Wikidata P159 headquarters with P625 coordinates,1
+822,Cypress Semiconductor Corp,,company,US,2,2,H10W42:2 H10W90:2 H10W44:1 H10W74:1 H10W72:1,San Jose,California,37.3042,-121.8728,city,Wikidata P159 headquarters (town centre coordinates),1
+823,Chipletti Ltd,,company,GB,1,1,G06F12:1 G06F2115:1 G06F2212:1 G06F30:1 G11C11:1 G11C5:1,,,,,country,,0
+824,D Matrix Corp,,company,US,1,1,H10B80:1 H10D80:1 H10W20:1 H10W70:1 H10W72:1 H10W74:1,,,,,country,,0
+825,Daikin Ind Ltd,,company,JP,1,1,C09K2205:1 C09K5:1 F28D15:1 G06F1:1 G06F2200:1 H05K7:1,Umeda,Osaka Prefecture,34.7,135.497,city,Wikidata P159 headquarters (town centre coordinates),1
+826,Dana Canada Corp,,company,CA,1,1,B22F3:1 B22F7:1 B23K35:1 B32B15:1 C22C1:1 C22C28:1,Oakville,Ontario,43.4486,-79.692,exact,Wikidata P159 headquarters with P625 coordinates,1
+827,Danfoss Silicon Power Gmbh,,company,DE,1,1,H10W40:1 H10W72:1 H10W74:1,Flensburg,Schleswig-Holstein,54.7833,9.4333,city,USPTO PatentsView assignee address (assignee 62240ccf-c5fa-4eea-bf85-ba166e5027e8; 19 of 33 US patents); town point from Overture Maps,1
+828,Danger Devices Inc,,company,US,1,1,H01F27:1 H10D86:1 H10W20:1,,,,,country,,0
+829,Deepx Co Ltd,,company,KR,1,1,G11C11:1 G11C5:1 H10B80:1 H10D80:1 H10P72:1 H10W42:1,,,,,country,,0
+830,Deere & Co,,company,US,4,4,H10W40:4 H05K7:3 H10D1:1 H10W72:1 H10W90:1 F16J15:1,Moline,Illinois,41.4765,-90.4258,exact,Wikidata P159 headquarters with P625 coordinates,1
+831,Dell Products Lp,,company,US,1,1,G06F1:1 H05K7:1 H05K9:1 H10W40:1,Round Rock,Texas,30.5086,-97.6788,city,USPTO PatentsView assignee address (assignee fbf27c8a-7713-45d3-93be-25ef4055f19b; 6618 of 6677 US patents); town point from Overture Maps,1
+832,Delo Industrie Klebstoffe Gmbh & Co Kgaa,,company,DE,1,1,C08G59:1 C08L63:1 H10W74:1,Windach,Bavaria,48.069,11.0061,exact,Wikidata P159 headquarters with P625 coordinates,1
+833,Delta Electronics Shanghai Co,,company,CN,1,1,G06F1:1 H05K7:1 H10W40:1,,,,,country,,0
+834,Destination 2d Inc,,company,US,1,1,C01B32:1 C23C16:1 H10P72:1 H10P95:1 H10W20:1,,,,,country,,0
+835,Diabatix N V,,company,BE,1,1,G06F2111:1 G06F2113:1 G06F2119:1 G06F30:1 H05K7:1 H10W40:1,,,,,country,,0
+836,Diehl Metal Applications Gmbh,,company,DE,1,1,F28D15:1 F28F1:1 H05K7:1 H10W40:1 H10W70:1,Berlin,Berlin,52.5174,13.3951,city,USPTO PatentsView assignee address (assignee d7f21a03-a1df-4b78-b046-457a9da92e34; 3 of 3 US patents); town point from Overture Maps,1
+837,Differential Power Sl,,company,ES,1,1,H02M1:1 H02M3:1 H10W44:1 H10W90:1,,,,,country,,0
+838,Diggers Gmbh,,company,AT,1,1,G06F1:1 H10W40:1,,,,,country,,0
+839,Doliam Invest,,other/unknown,FR,1,1,H10D86:1 H10D88:1 H10K10:1,,,,,country,,0
+840,Dongguan Tuoxinjie Heat Transfer Tech Co Ltd,,company,CN,1,1,F28D15:1 F28F1:1 F28F2225:1 H10W40:1,,,,,country,,0
+841,Draexlmaier Lisa Gmbh,,company,DE,2,2,H05K7:2 H10W40:2 H10W76:1,Vilsbiburg,Bavaria,48.4485,12.3558,city,USPTO PatentsView assignee address (assignee 04e54b52-c8c2-4dab-9315-f958f60fc74d; 120 of 189 US patents); town point from Overture Maps,1
+842,Eagle Tech Llc,,company,US,2,2,H10W40:2 H10W70:2 H10W90:1,,,,,country,,0
+843,Effect Photonics B V,,company,NL,1,1,G02F1:1 H10W20:1,Eindhoven,North Brabant,51.4447,5.4596,exact,Wikidata P159 headquarters with P625 coordinates,1
+844,Ember S R L,,company,IT,1,1,G06F1:1 G06F2200:1 H10W40:1,,,,,country,,0
+845,Endress Hauser Se Co Kg,,company,DE,1,1,G01L19:1 G01L9:1 H05K1:1 H10W70:1 H10W90:1,Maulburg,Baden-Württemberg,47.6415,7.7795,city,USPTO PatentsView assignee address (assignee e6337357-22fa-4b66-9002-e0e1b46604d4; 628 of 738 US patents); town point from Overture Maps,1
+846,Enead,,other/unknown,FR,1,1,H10W40:1,,,,,country,,0
+847,Enover Isi Sistemleri Anonim Sirketi,,company,TR,1,1,F28D15:1 F28D2015:1 F28F1:1 H10W40:1,,,,,country,,0
+848,Epistar Corp,,company,TW,1,1,H05B45:1 H10D89:1 H10H20:1 H10H29:1 H10W42:1 H10W72:1,Hsinchu City,Hsinchu,24.7834,121.0054,exact,Wikidata P159 headquarters with P625 coordinates,1
+849,Erwin Quarder Systemtechnik Gmbh,,company,DE,4,3,H10W40:4 H05K7:3 F28F3:2 H10W70:2 F28D9:1,,,,,country,,0
+850,Ev Group E Thallner Gmbh,,company,AT,2,2,H10P72:2 H10W72:2 H10W80:2 H10W90:2 H10W99:2 H10P10:1,St. Florian am Inn,Upper Austria,48.4422,13.4427,city,USPTO PatentsView assignee address (assignee d7c77c66-aedd-4c77-99b0-15726f96713a; 121 of 130 US patents); town point from Overture Maps,1
+851,Everlight Electronics Co Ltd,,company,TW,1,1,H05K1:1 H10W40:1 H10W70:1,New Taipei,New Taipei,24.9842,121.4239,exact,Wikidata P159 headquarters with P625 coordinates,1
+852,F&K Delvotec Bondtechnik Gmbh,,company,DE,2,2,B23K26:2 H01R43:2 H10W72:2 B23K2101:1,Ottobrunn,Bavaria,48.0648,11.6648,city,USPTO PatentsView assignee address (assignee c6dd085e-7eb7-40ff-81a6-e7a130d96180; 10 of 15 US patents); town point from Overture Maps,1
+853,Fachhochschule Kiel Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,H10W40:1 H10W72:1,,,,,country,,0
+854,Faurecia Clarion Electronics Co Ltd,,company,JP,1,1,G06F1:1 H05K7:1 H10W40:1,,,,,country,,0
+855,Flint Eng Ltd,,company,,1,1,F28D15:1 F28F1:1 F28F2255:1 H05K7:1 H10W40:1,,,,,unknown,,0
+856,Ford Global Tech Llc,,company,US,3,3,H10D62:2 H10P72:1 H10W20:1 H10W70:1 H10W72:1 H02M1:1,Dearborn,Michigan,42.3223,-83.1763,city,USPTO PatentsView assignee address (assignee 52083e83-8013-467e-aa81-cf6463f3f29d; 20361 of 20489 US patents); town point from Overture Maps,1
+857,Frore Systems Inc,,company,US,2,2,B06B1:2 G06F1:2 H05K7:2 H10W40:2 G06F2200:1 B81B7:1,San Jose,California,37.3362,-121.8906,city,USPTO PatentsView assignee address (assignee 2bdd137b-9e63-46f4-9d38-e2814004d612; 4 of 4 US patents); town point from Overture Maps,1
+858,Fulltech Fiber Glass Corp,,company,TW,1,1,C03C13:1 C03C2213:1 C03C3:1 C03C4:1 G01S7:1 H01Q1:1,,,,,country,,0
+859,Getters Spa,,company,IT,1,1,B01D2253:1 B01D53:1 H01J7:1 H10W76:1,Milan,Lombardy,45.4642,9.1896,city,USPTO PatentsView assignee address (assignee 5f63224a-c568-4493-96b7-a42a10fbd21d; 30 of 34 US patents); town point from Overture Maps,1
+860,Gkn Automotive Ltd,,company,GB,1,1,H05K7:1 H10W40:1,,,,,country,,0
+861,Gm Global Tech Operations Llc,,company,US,8,8,H02M7:5 H10W90:5 H05K7:3 H10W40:3 H02M1:3 G01R31:2,Detroit,Michigan,42.3316,-83.0466,city,USPTO PatentsView assignee address (assignee 0e281937-3444-4378-8ff8-ce42d14a0832; 15010 of 15059 US patents); town point from Overture Maps,1
+862,Goodrich Lighting Systems Inc,,company,US,1,1,B29C64:1 B29L2031:1 B33Y10:1 B33Y80:1 B64D2221:1 B64U20:1,Oldsmar,Florida,28.0342,-82.6651,city,USPTO PatentsView assignee address (assignee a3af5c6d-bbfe-4401-a1ee-963cd22d4ccc; 18 of 131 US patents); town point from Overture Maps,1
+863,Groove Quantum Bv,,company,NL,1,1,H10D48:1 H10D89:1 H10W42:1,,,,,country,,0
+864,Guangdong Newidea Tech Co Ltd,,company,CN,1,1,B21D53:1 B23P15:1 B23P2700:1 F28D15:1 H10W40:1 H10W70:1,,,,,country,,0
+865,The First Affiliated Hospital Sun Yat Sen Univ,,university,CN,1,1,B21D53:1 B23P15:1 B23P2700:1 F28D15:1 H10W40:1 H10W70:1,Guangzhou,Guangdong,23.1288,113.259,city,USPTO PatentsView assignee address (assignee f31e8b8e-7823-4dc6-8399-be541cb2a1ce; 4 of 4 US patents); town point from Overture Maps,1
+866,Univ Guangdong Polytechnic Normal,,university,CN,2,2,B23P15:2 B23P2700:2 F28D15:2 H10W40:2 H10W70:2 B21D53:1,新港街道,Guangdong,23.1006,113.285,exact,Wikidata P625 coordinates of the organisation,1
+867,Hamilton Sundstrand Corp,,company,US,3,3,H10W40:3 H05K7:2 H02G5:1 H02M7:1 B33Y80:1 F28F1:1,Windsor Locks,Connecticut,41.9312,-72.6314,city,USPTO PatentsView assignee address (assignee 0ea2274f-016e-42a5-8595-830574df873b; 1548 of 2916 US patents); town point from Overture Maps,1
+868,Hangzhou Yushu Tech Co Ltd,,company,CN,1,1,B25J19:1 B25J5:1 B62D57:1 G06F1:1 H05K5:1 H05K7:1,Hangzhou,Zhejiang,30.25,120.1675,city,Wikidata P159 headquarters (town centre coordinates),1
+869,Hangzhou Zhicun Witmem Tech Co Ltd,,company,CN,5,5,G06F15:5 H10W90:5 G11C5:4 H10B80:4 H10W20:3 G11C11:3,,,,,country,,0
+870,Harman Becker Automotive Systems Gmbh,,company,DE,1,1,G06F15:1 G06F30:1 H10B80:1 H10W90:1,Karlsbad (Baden),Baden-Württemberg,48.9144,8.5064,city,Wikidata P159 headquarters (town centre coordinates),1
+871,Heliatek Gmbh,,company,DE,1,1,H10W20:1,Dresden,Saxony,51.05,13.74,city,Wikidata P159 headquarters (town centre coordinates),1
+872,Hensoldt Sensors Gmbh,,company,DE,1,1,G06F1:1 H05K1:1 H10W40:1,,,,,country,,0
+873,Heraeus Electronics,HERAEUS ELECTRONICS GMBH & CO KG,company,DE,22,18,C04B2237:14 C04B37:14 H10W40:14 H10W70:13 C04B41:10 H05K1:9,,,,,country,,0
+874,Heraeus Materials Singapore Pte Ltd,,company,SG,1,1,H10W72:1 H10W90:1,Singapore,,1.2899,103.8519,city,USPTO PatentsView assignee address (assignee c686c7b2-d8e2-4af8-af36-a9fd843caf1d; 2 of 2 US patents); town point from Overture Maps,1
+875,Hgf,,other/unknown,GB,1,1,H10B80:1 H10D80:1 H10P72:1 H10W20:1 H10W70:1 H10W72:1,,,,,country,,0
+876,Hitek Power Ltd,,company,GB,1,1,H02M7:1 H05K1:1 H05K2201:1 H05K3:1 H05K5:1 H05K7:1,,,,,country,,0
+877,Hl Mando Corp,,company,KR,2,2,H05K7:2 H10W40:2 B60R16:1 B60Y2306:1 H05K1:1 H10W70:1,,,,,country,,0
+878,Hofer Powertrain Innovation Gmbh,,company,DE,1,1,H02M7:1 H10W44:1 H10W90:1,,,,,country,,0
+879,Horizon Journey Shanghai Tech Co Ltd,,company,CN,1,1,H10W40:1,,,,,country,,0
+880,Hrl Lab Llc,,company,US,1,1,H10W40:1 H10W90:1,Malibu,California,34.0425,-118.695,exact,Wikidata P159 headquarters with P625 coordinates,1
+881,HUANG TSUNG HSIEN,,private inventor,TW,4,4,F28D1:4 F28F1:4 F28F2250:4 H05K7:4 H10W40:4 F28D2021:2,,,,,country,,0
+882,Huizhou Chuyue Thermal Tech Co Ltd,,company,CN,1,1,H10W40:1,,,,,country,,0
+883,Husqvarna Ab,,company,SE,2,1,A01D2101:2 A01D34:2 F28F13:2 F28F21:2 F28F3:2 H05K5:2,Huskvarna,Jönköping County,57.7919,14.2756,city,Wikidata P159 headquarters (town centre coordinates),1
+884,Hyundai Transys Inc,,company,KR,1,1,H05K1:1 H05K2201:1 H05K3:1 H05K7:1 H10W20:1 H10W40:1,South Chungcheong,South Chungcheong,36.5,126.75,city,Wikidata P159 headquarters (town centre coordinates),1
+885,Hirschvogel Holding Gmbh,,company,DE,2,2,H05K7:2 H10W40:2 B60K11:1 B60K2001:1 B60L2240:1 F28D2021:1,Denklingen,Bavaria,47.9167,10.85,city,Wikidata P159 headquarters (town centre coordinates),1
+886,Icepower As,,company,DK,1,1,H05K1:1 H05K2201:1 H10W40:1,,,,,country,,0
+887,Ifm Electronic Gmbh,,company,DE,1,1,G01N23:1 H10W74:1,Essen,North Rhine-Westphalia,51.4438,7.0063,exact,Wikidata P159 headquarters with P625 coordinates,1
+888,Tokyo Electron Ltd,,company,JP,2,2,H10D30:2 H10D62:2 H10D84:2 H10D88:2 H10P14:2 H10W10:2,Akasaka,Tokyo,35.675,139.7366,exact,Wikidata P159 headquarters with P625 coordinates,1
+889,Univ Hasselt,,university,BE,1,1,H10D8:1 H10D80:1 H10F19:1,Diepenbeek,Flanders,50.9335,5.3425,exact,Wikidata P159 headquarters with P625 coordinates,1
+890,Imh Inc,,company,KR,1,1,H05K1:1 H05K2201:1 H05K3:1 H10W40:1 H10W70:1,,,,,country,,0
+891,Incize,,other/unknown,BE,2,2,H10P50:2 H10P90:2 H10W10:2,,,,,country,,0
+892,Ind Tech Res Inst,,research institute,TW,5,5,H10W40:3 H10W70:3 H05K7:3 H01Q1:2 H10W42:2 H10W44:2,Zhudong Township,Hsinchu County,24.7742,121.0479,exact,Wikidata P159 headquarters with P625 coordinates,1
+893,Indium Corp,,company,US,1,1,B23K35:1 C22C13:1 H10W72:1 H10W90:1,Clinton,New York,43.0489,-75.3803,city,Wikidata P159 headquarters (town centre coordinates),1
+894,Infotech Ag,,company,CH,1,1,H05K13:1 H10P72:1 H10W72:1,,,,,country,,0
+895,Innomotics Gmbh,,company,DE,2,2,H05K7:1 H10W72:1 H10W90:1 H10W40:1,Nuremberg,Bavaria,49.4539,11.0775,city,Wikidata P159 headquarters (town centre coordinates),1
+896,Innoscience Suzhou Technology Holding Co Ltd,,company,CN,5,1,H02M1:5 H02M7:5 H03K17:5 H03K2217:5 H10D1:5 H10D30:5,,,,,country,,0
+897,Inst Of Materials Henan Academy Of Sciences,,research institute,CN,1,1,B23K1:1 B23K2101:1 B23K2103:1 C04B37:1 H10W40:1,,,,,country,,0
+898,Zhengzhou Research Inst Harbin Inst Of Technology,,university,CN,1,1,B23K1:1 B23K2101:1 B23K2103:1 C04B37:1 H10W40:1,,,,,country,,0
+899,Harbin Inst Of Technology,,university,CN,1,1,B23K1:1 B23K2101:1 B23K2103:1 C04B37:1 H10W40:1,Harbin,Heilongjiang,45.75,126.6333,city,Wikidata P159 headquarters (town centre coordinates),1
+900,Inst Of Microelectronics Of The Chinese Academy Of Sciences,,research institute,CN,1,1,H10D30:1 H10D62:1 H10D64:1 H10W74:1,Beijing,Beijing,39.9057,116.3913,city,USPTO PatentsView assignee address (assignee 13eb3d45-5680-4ce0-ba93-569be2c3d8d1; 399 of 427 US patents); town point from Overture Maps,1
+901,Integense Microelectronics Inc,,company,US,2,1,H01F2038:2 H01F27:2 H01F38:2 H03K17:2 H03K19:2 H04B1:2,,,,,country,,0
+902,Invent And Collaboration Laboratory Inc,,research institute,TW,4,4,H10D62:3 H10W10:3 H10D84:3 H10W40:3 H10W20:2 H10D88:1,,,,,country,,0
+903,Jade Bird Display Shanghai Ltd,,company,CN,3,1,H10D86:3 H10H20:3 H10H29:3 H10W90:3,Shanghai,Shanghai,31.2323,121.4691,city,USPTO PatentsView assignee address (assignee 56c58a86-854c-47fc-a8b2-9d03ffa28ea8; 3 of 4 US patents); town point from Overture Maps,1
+904,Japan Aviation Electronics Ind Ltd,,company,JP,1,1,H01R12:1 H01R13:1 H01R24:1 H05K1:1 H05K2201:1 H10W70:1,Tokyo,Tokyo,35.6769,139.7639,city,USPTO PatentsView assignee address (assignee 1198db35-e1fe-43f3-aab3-0f507703eda6; 1555 of 1609 US patents); town point from Overture Maps,1
+905,Jariet Tech Inc,,company,US,1,1,H10D89:1 H10W20:1 H10W70:1 H10W72:1 H10W90:1,Redondo Beach,California,33.8398,-118.3846,city,USPTO PatentsView assignee address (assignee 80c3843a-130f-405a-ae4d-20a3fd885a3c; 9 of 9 US patents); town point from Overture Maps,1
+906,Jentech Prec Industrial Co Ltd,,company,TW,1,1,B24C9:1 H10W70:1,,,,,country,,0
+907,Jess Link Products Co Ltd,,company,TW,1,1,F28F21:1 H05K7:1 H10N10:1 H10W40:1,Taipei,Taipei,25.0375,121.5637,city,USPTO PatentsView assignee address (assignee 269fd253-8668-446a-a9b9-7dada3845901; 34 of 43 US patents); town point from Overture Maps,1
+908,Jetcool Tech Inc,,company,US,1,1,H05K1:1 H05K5:1 H05K7:1 H10W40:1,,,,,country,,0
+909,Juniper Networks Inc,,company,US,1,1,H10W40:1 H10W42:1 H10W46:1 H10W70:1 H10W72:1 H10W90:1,Sunnyvale,California,37.4094,-122.027,exact,Wikidata P159 headquarters with P625 coordinates,1
+910,Kk Toshiba Inc,,company,JP,1,1,B23K1:1 C04B37:1 H05K1:1 H10W40:1 H10W70:1,Minato,Tokyo,35.6516,139.758,exact,Wikidata P159 headquarters with P625 coordinates,1
+911,Kk Wind Solutions As,,company,DK,1,1,B33Y80:1 F28C3:1 F28D2021:1 F28F7:1 F28F9:1 H10W40:1,Ikast,Central Denmark Region,56.139,9.1548,city,USPTO PatentsView assignee address (assignee 6d1b56e4-f688-4b3d-a75b-c3efc09e84b7; 5 of 22 US patents); town point from Overture Maps,1
+912,Knowles Electronics Llc,,company,US,1,1,B81B7:1 H02M3:1 H04R1:1 H04R19:1 H04R2201:1 H04R2460:1,Itasca,Illinois,41.9713,-88.0129,city,USPTO PatentsView assignee address (assignee 54e6aa1e-3c1c-4da3-add3-f6c6462d3683; 334 of 342 US patents); town point from Overture Maps,1
+913,Koenigsegg Automotive Ab,,company,SE,1,1,H02M7:1 H05K7:1 H10W40:1,,,,,country,,0
+914,Kontron Modular Computers Sas,,company,FR,1,1,G06F1:1 H05K7:1 H10W40:1,Toulon,Provence-Alpes-Côte d'Azur,43.1257,5.9305,city,USPTO PatentsView assignee address (assignee 2d21635d-32cb-4043-bec7-f7e2d6aac741; 2 of 3 US patents); town point from Overture Maps,1
+915,Korea Atomic Energy Res,,other/unknown,KR,1,1,H10W72:1 H10W74:1 H10W80:1 H10W90:1 H10W99:1,,,,,country,,0
+916,Kostal Automobil Elektrik Gmbh & Co Kg,,company,DE,1,1,H05K1:1 H05K2201:1 H05K2203:1 H05K7:1 H10W40:1,Luedenscheid,North Rhine-Westphalia,51.2181,7.6397,city,USPTO PatentsView assignee address (assignee 68754cb4-e0be-4a24-9804-7d5d23f4ce4b; 4 of 4 US patents); town point from Overture Maps,1
+917,Kulicke & Soffa Ind Inc,,company,US,2,1,B23K20:2 B23K2101:2 H10W70:2 H10W72:2,Fort Washington,Pennsylvania,40.1378,-75.2118,city,USPTO PatentsView assignee address (assignee 7ea6aca6-7c7e-46a7-b359-17264fc4300f; 105 of 171 US patents); town point from Overture Maps,1
+918,Kyocera Avx Components Corp,,company,US,1,1,H01S5:1 H05K1:1 H05K2201:1 H05K7:1 H10W40:1,,,,,country,,0
+919,L3harris Technologies Inc,,company,US,1,1,H10W40:1,Melbourne,Florida,28.0836,-80.6081,city,Wikidata P159 headquarters (town centre coordinates),1
+920,Laird Technologies Inc,,company,US,7,7,C09K5:6 H10W40:6 H05K7:4 C08K2003:2 C08K2201:2 H05K9:2,"Chesterfield, MO",Missouri,38.6582,-90.5681,city,Trade press (2007),1
+921,Lemfoerder Electronic Gmbh,,company,DE,1,1,H10W40:1 H10W70:1 H10W90:1,Espelkamp,North Rhine-Westphalia,52.3778,8.6157,city,USPTO PatentsView assignee address (assignee bccbb8cb-5f0e-4158-8271-b41a8e4106a8; 13 of 13 US patents); town point from Overture Maps,1
+922,Lenovo Singapore Pte Ltd,,company,SG,1,1,B32B15:1 B32B2307:1 B32B2457:1 C09K5:1 H05K7:1 H10W40:1,Singapore,,1.3513,103.8616,exact,Wikidata P159 headquarters with P625 coordinates,1
+923,Lessengers Inc,,company,KR,1,1,G02B6:1 H04B10:1 H10W40:1 H10W90:1,,,,,country,,0
+924,Ligentec Sa,,company,CH,3,2,G02B6:3 H10W42:2 H10W70:1 H10W72:1 H10W74:1 H10W90:1,,,,,country,,0
+925,Lockheed Corp,,company,US,1,1,B23K26:1 B28B1:1 B32B18:1 B33Y10:1 B33Y30:1 B33Y70:1,Burbank,California,34.1803,-118.3283,city,Wikidata P159 headquarters (town centre coordinates),1
+926,Lohmann Gmbh & Co Kg,,company,DE,1,1,B32B7:1 C09J9:1 H05K1:1 H05K13:1 H05K2201:1 H05K2203:1,Neuwied,Rhineland-Palatinate,50.4302,7.4663,city,USPTO PatentsView assignee address (assignee 44523807-f54d-452c-81e2-b9bb60eeff73; 44 of 55 US patents); town point from Overture Maps,1
+927,Lti Holdings Inc,,company,US,1,1,H05K7:1 H10W40:1,Castle Rock,Colorado,39.3723,-104.8587,city,USPTO PatentsView assignee address (assignee 8d9c5a59-aa86-4cc9-99f8-34ce64f46689; 2 of 5 US patents); town point from Overture Maps,1
+928,Fj Composite Mat Co Ltd,,company,JP,2,2,H10W40:2,,,,,country,,0
+929,Lynred,,other/unknown,FR,2,1,G01J1:2 G01J5:2 H02K55:2 H02K9:2 H10W42:2 H10W72:2,Palaiseau,Ile-de-France,48.7145,2.2454,city,USPTO PatentsView assignee address (assignee 243c647f-0e5a-41fb-996c-b1d2f39c513d; 2 of 2 US patents); town point from Overture Maps,1
+930,Lambda Resins Gmbh,,company,DE,1,1,C08K2003:1 C08K2201:1 C08K3:1 H10W40:1,,,,,country,,0
+931,Liquacool Ip Llc,,company,US,1,1,G06F1:1 H05K1:1 H05K2201:1 H05K5:1 H05K7:1 H10W40:1,,,,,country,,0
+932,M Arms D O O,,other/unknown,SI,1,1,F28D2021:1 H05K7:1 H10W40:1 H10W70:1,,,,,country,,0
+933,Macdonald Dettwiler & Associates Corp,,company,CA,1,1,H05K1:1 H05K3:1 H05K7:1 H10W40:1 H10W72:1 H10W90:1,Brampton,Ontario,43.6227,-79.7593,exact,Wikidata P159 headquarters with P625 coordinates,1
+934,Macom Tech Solutions Holdings Inc,,company,US,1,1,H03F1:1 H03F2200:1 H03F3:1 H03H7:1 H10D30:1 H10D62:1,Lowell,Massachusetts,42.636,-71.316,exact,Wikidata P159 headquarters with P625 coordinates,1
+935,Magna Electronics Sweden Ab,,company,SE,1,1,H10W40:1,,,,,country,,0
+936,Mahle Int Gmbh,,company,DE,1,1,B60H1:1 H05B1:1 H05B2203:1 H05B3:1 H10W40:1,,,,,country,,0
+937,Makita Corp,,company,JP,2,2,H02K11:2 H02K2211:2 H02K7:2 H10D80:2 H10W40:2 H10W90:2,Anjo,Aichi Prefecture,34.9587,137.0803,city,Wikidata P159 headquarters (town centre coordinates),1
+938,Marel Power Solutions Inc,,company,US,1,1,H02M1:1 H02M7:1 H02P27:1 H05K7:1 H10W40:1 H10W70:1,,,,,country,,0
+939,Marelli Automotive Lighting Italy Spa,,company,IT,1,1,B60Q1:1 F21S43:1 H10W90:1,Turin,Piedmont,45.0678,7.6825,city,USPTO PatentsView assignee address (assignee 38251cfa-89d6-4edf-a323-eebd3c79d741; 7 of 7 US patents); town point from Overture Maps,1
+940,Marelli Europe Spa,,company,IT,2,1,H10W40:2,Corbetta,Lombardy,45.4659,8.9201,city,USPTO PatentsView assignee address (assignee 95a40f92-9d3b-4281-b891-9aa276102aa3; 20 of 20 US patents); town point from Overture Maps,1
+941,Matriq Ag,,company,CH,1,1,B29C2945:1 B29C45:1 B29K2909:1 C04B2237:1 C04B37:1 H05K1:1,,,,,country,,0
+942,Mazda Motor,,other/unknown,JP,4,4,H02M7:4 H05K1:4 H05K2201:4 H10W70:4 H10W90:4 H10D80:1,Hiroshima,Hiroshima Prefecture,34.3917,132.4518,city,USPTO PatentsView assignee address (assignee 68b52bd7-e80f-46e2-afd7-8460a23e432e; 3261 of 3981 US patents); town point from Overture Maps,1
+943,Mbda Uk Ltd,,company,GB,1,1,F25D19:1 F28F2013:1 H05K7:1 H10W40:1,London,England,51.8965,-0.2104,exact,Wikidata P159 headquarters with P625 coordinates,1
+944,Mcsmbs,,other/unknown,FR,1,1,H05B45:1 H05B47:1 H10W90:1,,,,,country,,0
+945,MEHTA MITUL,,private inventor,BE,1,1,H10W40:1 H10W70:1,,,,,country,,0
+946,Melexis Tech Sa,,company,CH,1,1,B33Y80:1 G01R15:1 G01R19:1 H10W70:1,Bevaix,Neuchâtel,46.9303,6.8146,city,USPTO PatentsView assignee address (assignee 9a95df0c-a5bd-4ccb-b60f-7bb1a01d0698; 55 of 189 US patents); town point from Overture Maps,1
+947,Mellanox Technologies Ltd,,company,IL,4,4,G02B6:2 H10W90:2 H10W40:2 H05K1:1 H05K3:1 H10W70:1,Haifa,North District,32.6647,35.1052,exact,Wikidata P159 headquarters with P625 coordinates,1
+948,Menlo Microsystems Inc,,company,US,1,1,B81B2201:1 B81B2207:1 B81B7:1 B81C1:1 B81C2203:1 H01H1:1,,,,,country,,0
+949,Meta Platforms Inc,,company,US,1,1,G06N3:1 H10B80:1 H10W72:1 H10W90:1,Menlo Park,California,37.485,-122.1475,exact,Wikidata P159 headquarters with P625 coordinates,1
+950,Meta Platforms Tech Llc,,company,US,1,1,H05K1:1 H05K2201:1 H05K9:1 H10W42:1 H10W90:1,,,,,country,,0
+951,Miba Sinter Austria Gmbh,,company,AT,14,8,H10W40:14 H05K7:13 B22F3:12 B22F2005:10 B22F5:8 H10W70:7,Laakirchen,Upper Austria,47.9826,13.8225,city,USPTO PatentsView assignee address (assignee f7f71b97-89b9-4489-aaad-33ccd1540d17; 52 of 57 US patents); town point from Overture Maps,1
+952,Micro Star Intl Co Ltd,,company,TW,1,1,G06F1:1 H05K7:1 H10W40:1,,,,,country,,0
+953,Msi Electronic Kun Shan Co Ltd,,company,CN,1,1,G06F1:1 H05K7:1 H10W40:1,Kunshan,Jiangsu,31.3264,120.9906,city,USPTO PatentsView assignee address (assignee 27f6f466-0398-43c4-b19f-e87f2df7dd4d; 6 of 8 US patents); town point from Overture Maps,1
+954,Mikuni Kogyo Kk,,company,JP,1,1,H02K11:1 H02K9:1 H10W40:1 H10W74:1 H10W90:1,Tokyo,Tokyo,35.6769,139.7639,city,USPTO PatentsView assignee address (assignee e11e11cb-1269-4e8a-ab6a-ae53365ecd9a; 50 of 59 US patents); town point from Overture Maps,1
+955,Mitsubishi Materials Corp,,company,JP,2,2,H05K1:1 H05K2203:1 H05K3:1 H10W40:1 H10W70:1 B22F1:1,Tokyo,Tokyo,35.6779,139.7615,exact,Wikidata P159 headquarters with P625 coordinates,1
+956,Mitwell Inc,,company,TW,1,1,G06F1:1 H05K1:1 H05K2201:1 H05K2203:1 H05K3:1 H10W74:1,,,,,country,,0
+957,Morningrich Tech Co Ltd,,company,TW,1,1,H10W40:1 H10W42:1 H10W74:1,,,,,country,,0
+958,Msc Control Oy,,company,FI,1,1,H01F27:1 H05K7:1 H10W40:1,,,,,country,,0
+959,Musco Corp,,company,US,11,1,F16C11:11 F16M11:11 F16M13:11 F21K9:11 F21S8:11 F21V11:11,Oskaloosa,Iowa,41.2951,-92.6449,city,USPTO PatentsView assignee address (assignee 263cf60f-e4ee-40bb-b0e9-10d238ba82ae; 251 of 251 US patents); town point from Overture Maps,1
+960,Magna Powertrain Gmbh & Co Kg,,company,AT,1,1,H02M1:1 H02M7:1 H10W42:1 H10W90:1,,,,,country,,0
+961,Nanomation Ltd,,company,,2,2,H10W46:2 G06V30:1 G03F7:1 G03F9:1 G06K19:1,,,,,unknown,,0
+962,Nanowired Gmbh,,company,DE,2,2,B22F1:1 B22F2999:1 B22F7:1 H10W72:1 H10W40:1 H10W70:1,,,,,country,,0
+963,Nat Univ Gyeongsang Iacf,,university,KR,2,2,H10D30:2 H10D62:2 H10D64:1 H10D8:1 H10P14:1 H10W20:1,,,,,country,,0
+964,National Univ Corporation Tokai National Higher Education And Research System,,university,JP,1,1,B33Y80:1 F25B39:1 F28D15:1 F28D2021:1 F28F2230:1 F28F3:1,Nagoya,Aichi Prefecture,35.1851,136.8998,city,USPTO PatentsView assignee address (assignee 5ec1c3e8-831d-4da0-ab15-cee5af2540ab; 4 of 6 US patents); town point from Overture Maps,1
+965,Porite Corp,,company,JP,1,1,B33Y80:1 F25B39:1 F28D15:1 F28D2021:1 F28F2230:1 F28F3:1,,,,,country,,0
+966,Nd Hi Tech Lab Inc,,company,TW,4,2,H10W20:4 H10W70:4 H10W72:4 H10W90:4 H10B12:2 H10B80:2,,,,,country,,0
+967,Etron Tech Inc,,company,TW,4,2,H10W20:4 H10W70:4 H10W72:4 H10W90:4 H10B12:2 H10B80:2,Hsinchu,Hsinchu,24.8066,120.9687,city,USPTO PatentsView assignee address (assignee 023ec36a-10c0-45bb-8608-748c7c0686dc; 218 of 236 US patents); town point from Overture Maps,1
+968,Net Spolka Z Ograniczona Odpowiedzialnoscia Smart Prot Spolka Komandytowa,,other/unknown,PL,1,1,B64U20:1 F28D15:1 G06F1:1 G12B15:1 H05K7:1 H10W40:1,,,,,country,,0
+969,Nichia Corp,,company,JP,5,5,H10W90:4 G09G2300:3 G09G2320:3 G09G3:3 B23K2101:1 B23K2103:1,Anan,Tokushima Prefecture,33.9284,134.6163,exact,Wikidata P159 headquarters with P625 coordinates,1
+970,Nika S R L,,company,IT,1,1,F28D1:1 F28D15:1 F28F13:1 F28F21:1 F28F2250:1 H05K7:1,,,,,country,,0
+971,Niko Semiconductor Co Ltd,,company,TW,1,1,H10W40:1 H10W74:1,Taipei,Taipei,25.0375,121.5637,city,USPTO PatentsView assignee address (assignee 8de59362-4b97-4246-bb12-a7d08a96f494; 37 of 72 US patents); town point from Overture Maps,1
+972,Ningbo Sunny Opotech Co Ltd,,company,CN,1,1,G03B17:1 G06F1:1 H04N23:1 H10W74:1,,Zhejiang,,,region,USPTO PatentsView assignee address (assignee 9b43b7e7-ec04-466e-838c-e6beb1e89d8e); names only the province,0
+973,Nippon Micrometal Corp,,company,JP,1,1,B22F2999:1 C22C1:1 C22C5:1 C22C9:1 C22F1:1 C23C18:1,Saitama,Saitama Prefecture,35.8616,139.6456,city,USPTO PatentsView assignee address (assignee 22691e25-0166-43da-9a1e-a166d8a6d86e; 40 of 48 US patents); town point from Overture Maps,1
+974,Nippon Steel Chemical & Mat Co Ltd,,company,JP,1,1,B22F2999:1 C22C1:1 C22C5:1 C22C9:1 C22F1:1 C23C18:1,Tokyo,Tokyo,35.6894,139.6917,city,Wikidata P159 headquarters (town centre coordinates),1
+975,Nissan Chemical Corp,,company,JP,1,1,C07F7:1 C23C16:1 G03F7:1 H10P14:1 H10P76:1 H10W20:1,Tokyo,Tokyo,35.6939,139.7536,city,Wikidata P159 headquarters (town centre coordinates),1
+976,Niterra Co Ltd,,company,JP,1,1,H05K1:1 H05K2201:1 H10P10:1 H10W40:1 H10W70:1,,,,,country,,0
+977,Niterra Mat Co Ltd,,company,JP,1,1,C04B2237:1 C04B35:1 C04B37:1 C04B41:1 H05K1:1 H05K2201:1,Yokohama,Kanagawa Prefecture,35.4503,139.6342,city,Wikidata P159 headquarters (town centre coordinates),1
+978,Nokia Solutions & Networks Oy,,company,FI,3,3,H10W90:3 G02B2006:1 G02B6:1 H10W72:1 H10W74:1 H10P72:1,Espoo,Uusimaa,60.205,24.656,city,USPTO PatentsView assignee address (assignee 7644ff26-b2c6-45d5-9bad-75234859ece6; 1611 of 1750 US patents); town point from Overture Maps,1
+979,Novocure Gmbh,,company,CH,1,1,A61K39:1 A61N1:1 A61N5:1 C09J11:1 C09J9:1 F28F21:1,Root,Lucerne,47.1153,8.3911,city,USPTO PatentsView assignee address (assignee 665b25e1-643c-4746-ab4f-96a990863994; 5 of 33 US patents); town point from Overture Maps,1
+980,Oki Electric Ind Co Ltd,,company,JP,1,1,H05K1:1 H05K3:1 H10D64:1 H10H20:1 H10W72:1 H10W90:1,Toranomon,Tokyo,35.6698,139.7493,exact,Wikidata P159 headquarters with P625 coordinates,1
+981,Ondokuz Mayis Ueniversitesi,,university,TR,1,1,G06F1:1 H10W40:1,Samsun,Samsun,41.3667,36.2,exact,Wikidata P159 headquarters with P625 coordinates,1
+982,Ovh,,other/unknown,FR,5,4,H10W40:5 H05K7:4 F28F3:2 F28F9:2 H10W70:1 B23K31:1,Roubaix,Hauts-de-France,50.6916,3.1742,city,USPTO PatentsView assignee address (assignee 4411a13c-2432-48d0-ba03-6489f583035b; 21 of 21 US patents); town point from Overture Maps,1
+983,Panasonic Automotive Systems Co Ltd,,company,JP,1,1,H05K5:1 H05K7:1 H10W40:1,,,,,country,,0
+984,Panjit Electronics Wuxi Co Ltd,,company,CN,2,2,H10W70:2 H10W72:2 H10W74:2 H10W90:1,,,,,country,,0
+985,Parker Hannifin Corp,,company,US,1,1,B32B1:1 B32B2307:1 B32B2597:1 B32B27:1 F16L11:1 H05K7:1,Cleveland,Ohio,41.506,-81.4612,exact,Wikidata P159 headquarters with P625 coordinates,1
+986,Perstorp Ab,,company,SE,3,3,C07C69:3 C09K5:3 H10W40:3 C10M105:2 C10M2207:2 C10N2020:2,Malmö,Skåne County,55.5833,13.0,city,Wikidata P159 headquarters (town centre coordinates),1
+987,Politechnika Swietokrzyska,,university,PL,1,1,F28D15:1 F28D2015:1 F28D2021:1 F28F2250:1 H10W40:1,Kielce,Holy Cross Voivodeship,50.8786,20.64,exact,Wikidata P159 headquarters with P625 coordinates,1
+988,Presto Eng Group,,other/unknown,FR,2,1,H10W70:2 H10W74:2,,,,,country,,0
+989,Psa Automobiles Sa,,company,FR,2,2,H10D30:2 H10D62:2 H10D64:2 H10W20:2 H01G4:1 H10D1:1,Poissy,Ile-de-France,48.9289,2.0447,city,Wikidata P159 headquarters (town centre coordinates),1
+990,Association De Prefiguration Inst Lafayette,,research institute,FR,2,2,H10D30:2 H10D62:2 H10D64:2 H10W20:2 H01G4:1 H10D1:1,,,,,country,,0
+991,Conservatoire Nat Des Arts Et Metiers,,other/unknown,FR,2,2,H10D30:2 H10D62:2 H10D64:2 H10W20:2 H01G4:1 H10D1:1,rue Saint-Martin,Ile-de-France,48.8626,2.3522,city,Wikidata P159 headquarters (town centre coordinates),1
+992,Cy Cergy Paris Univ,,university,FR,2,2,H10D30:2 H10D62:2 H10D64:2 H10W20:2 H01G4:1 H10D1:1,Gency,Ile-de-France,49.0389,2.075,exact,Wikidata P625 coordinates of the organisation,1
+993,Ecole Normale Superieure Paris Saclay,,university,FR,2,2,H10D30:2 H10D62:2 H10D64:2 H10W20:2 H01G4:1 H10D1:1,Gif-sur-Yvette,Ile-de-France,48.7014,2.1336,city,Wikidata P159 headquarters (town centre coordinates),1
+994,Pseudolithic Inc,,company,US,1,1,H03K17:1 H10D10:1 H10D30:1 H10D84:1 H10W20:1 H10W44:1,,,,,country,,0
+995,Purple Cloud Dev Pte Ltd,,company,SG,12,11,H10W40:12 F28D15:11 F28F2275:5 F28F2225:4 F28F3:4 F28F9:4,Singapore,,1.2899,103.8519,city,Applicant country in the patent data (city-state),1
+996,Qualcomm Inc,,company,US,5,5,H10W72:4 H10W90:4 H10W20:3 H10W70:3 H10W74:3 H10D84:2,San Diego,California,32.8973,-117.196,exact,Wikidata P159 headquarters with P625 coordinates,1
+997,Quantum Power Transf Limited,,company,,1,1,H10D62:1 H10W40:1 H10W72:1 H10W90:1,,,,,unknown,,0
+998,RAINER SCHILDBERG DIPL ING,,private inventor,AT,1,1,G06F1:1 H10W40:1,,,,,country,,0
+999,Raytheon Co,,company,US,1,1,H10D30:1 H10D62:1 H10D64:1 H10D84:1 H10W20:1 H10W44:1,Waltham,Massachusetts,42.3995,-71.2751,exact,Wikidata P159 headquarters with P625 coordinates,1
+1000,Realtek Semiconductor Corp,,company,TW,1,1,G06F2113:1 G06F2115:1 G06F30:1 H05K1:1 H05K2201:1 H10W70:1,Hsinchu,Hsinchu,24.8066,120.9687,city,USPTO PatentsView assignee address (assignee c0cfcff0-36b6-4963-be1b-c1eaa8998959; 1828 of 1896 US patents); town point from Overture Maps,1
+1001,Namics Corp,,company,JP,1,1,C08G59:1 C08K2201:1 C08K3:1 C08K5:1 C08L63:1 H10W74:1,Niigata,Niigata Prefecture,37.9164,139.0365,city,USPTO PatentsView assignee address (assignee b702e327-d0d4-4b20-b35c-07c972bf3434; 47 of 61 US patents); town point from Overture Maps,1
+1002,Ricoh Co Ltd,,company,JP,1,1,B22F10:1 B22F2301:1 B22F3:1 B22F7:1 B23K1:1 B33Y10:1,Tokyo,Tokyo,35.5978,139.706,exact,Wikidata P159 headquarters with P625 coordinates,1
+1003,Rockwell Automation Tech Inc,,company,US,1,1,B23K26:1 C04B2111:1 C04B2235:1 C04B2237:1 C04B35:1 C04B37:1,Mayfield Heights,Ohio,41.5192,-81.4579,city,USPTO PatentsView assignee address (assignee d5f81612-afeb-47a1-8bc7-f68a443a8169; 2300 of 2403 US patents); town point from Overture Maps,1
+1004,Rockwell Collins Inc,,company,US,4,4,H10W74:3 H10W90:3 H01Q21:2 H10W44:2 H10W72:2 H05K1:2,Cedar Rapids,Iowa,42.028,-91.6327,exact,Wikidata P159 headquarters with P625 coordinates,1
+1005,Rocky Research,,other/unknown,US,1,1,B01D53:1 F28D15:1 F28D20:1 F28F13:1 F28F2013:1 H10W40:1,,,,,country,,0
+1006,Rogers Germany Gmbh,,company,DE,8,8,H10W40:8 C04B2235:2 C04B2237:2 C04B37:2 H05K1:2 H05K3:2,Eschenbach,Baden-Württemberg,48.6526,9.6704,city,Wikidata P159 headquarters (town centre coordinates),1
+1007,Rolls Royce Deutschland Ltd & Co Kg,,company,DE,9,8,H10W40:8 H05K1:7 H05K2201:7 H05K7:4 H10W90:3 H05K3:3,Berlin,Berlin,52.4528,13.3304,exact,Wikidata P159 headquarters with P625 coordinates,1
+1008,Rolls Royce Plc,,company,GB,1,1,F28F3:1 H05K7:1 H10W40:1 H10W70:1,Chichester,England,51.4086,-0.7726,exact,Wikidata P159 headquarters with P625 coordinates,1
+1009,Rtx Corp,,company,US,2,2,G01L1:1 G01M5:1 H05K1:1 H05K2201:1 H05K3:1 H10W20:1,West Tisbury,Massachusetts,41.4224,-70.6475,exact,Wikidata P159 headquarters with P625 coordinates,1
+1010,Deep Concept,,other/unknown,FR,1,1,B22F10:1 B22F7:1 B33Y10:1 B33Y80:1 H10W40:1 H10W72:1,,,,,country,,0
+1011,Sagemcom Broadband Sas,,company,FR,4,2,H05K1:4 H05K7:4 H10W40:4 F28D2021:2 F28D21:2 F28F2255:2,Rueil Malmaison,Ile-de-France,48.8778,2.1803,city,USPTO PatentsView assignee address (assignee d64f8d7c-673f-48a1-a553-b9727c8e88d7; 101 of 104 US patents); town point from Overture Maps,1
+1012,Sameday Media Gmbh,,company,DE,1,1,H10W72:1,,,,,country,,0
+1013,Uif Univ Industry Foundation,,university,KR,1,1,H10D30:1 H10D86:1 H10D99:1 H10W90:1,,,,,country,,0
+1014,Foundation Soongsil Univ Industry Cooperation,,university,KR,1,1,H10D30:1 H10D62:1 H10D64:1 H10D84:1 H10D86:1 H10H20:1,Seoul,Seoul,37.5667,126.9783,city,USPTO PatentsView assignee address (assignee a344a2c3-ff71-4f0b-b341-b00e17b0d941; 137 of 146 US patents); town point from Overture Maps,1
+1015,Sanya Science And Education Innovation Park Of Wuhan Univ Of Technology,,university,CN,1,1,F28D2021:1 F28F13:1 F28F3:1 H10W40:1,,,,,country,,0
+1016,Sato Holdings Kk,,company,JP,1,1,G06K19:1 H10P72:1 H10W72:1,Fukuchiyama,Kyoto Prefecture,35.2967,135.1266,city,Wikidata P159 headquarters (town centre coordinates),1
+1017,Schaeffler Technologies Ag,,company,DE,39,39,H10W40:22 H05K7:15 H10W72:13 H10W90:13 H02M7:10 H10W70:8,Herzogenaurach,Bavaria,49.569,10.882,city,USPTO PatentsView assignee address (assignee 68651373-b271-4b56-b419-2d47e7955404; 2752 of 2821 US patents); town point from Overture Maps,1
+1018,Schneider Electric Ind Sas,,company,FR,1,1,H05K1:1 H05K2201:1 H10W70:1 H10W90:1,Rueil Malmaison,Ile-de-France,48.8778,2.1803,city,USPTO PatentsView assignee address (assignee c5942b09-38d1-4e99-9323-3910e9bf93fd; 612 of 890 US patents); town point from Overture Maps,1
+1019,Schott Ag,,company,DE,2,2,H10W76:2 B23K2103:1 B23K26:1 H10W95:1 A61N1:1,Mainz,Rhineland-Palatinate,50.0141,8.2465,exact,Wikidata P159 headquarters with P625 coordinates,1
+1020,Schott Primoceler Oy,,company,FI,1,1,A61N1:1 H10W76:1,,,,,country,,0
+1021,Seg Automotive Germany Gmbh,,company,DE,5,5,H10W90:5 H02M7:4 H02M1:3 H05K7:2 H10W70:2 H02P27:1,Stuttgart,Baden-Württemberg,48.7784,9.18,city,USPTO PatentsView assignee address (assignee 91a4eb9d-5648-4f5b-9510-8f0c181c3a9a; 41 of 41 US patents); town point from Overture Maps,1
+1022,Semtech Corp,,company,US,1,1,H10D89:1 H10P52:1 H10P54:1 H10W20:1 H10W42:1 H10W70:1,Camarillo,California,34.2187,-119.023,exact,Wikidata P159 headquarters with P625 coordinates,1
+1023,Sendance Gmbh,,company,AT,1,1,H05K1:1 H05K2201:1 H05K2203:1 H05K3:1 H10W70:1,,,,,country,,0
+1024,Shanghai X Ring Tech Co Ltd,,company,CN,1,1,H10W40:1 H10W70:1 H10W74:1 H10W90:1,,,,,country,,0
+1025,Shennan Circuits Co Ltd,,company,CN,1,1,H10W20:1 H10W40:1 H10W70:1 H10W74:1 H10W95:1,Shenzhen,Guangdong,22.5446,114.0545,city,USPTO PatentsView assignee address (assignee 024d6d36-ed3d-4798-a833-fa40af432e57; 2 of 2 US patents); town point from Overture Maps,1
+1026,Shenzhen Chip Optech Co Ltd,,company,CN,1,1,G09F9:1 H05K5:1 H05K7:1 H10W90:1,,,,,country,,0
+1027,Shenzhen Hfc Co Ltd,,company,CN,1,1,B32B15:1 B32B2307:1 C22C28:1 C22C30:1 C23C14:1 C23C26:1,,,,,country,,0
+1028,Shenzhen Jianjiaweidu Tech Co Ltd,,company,CN,1,1,H05B45:1 H10W90:1,,,,,country,,0
+1029,Shenzhen Sts Microelectronics Co Ltd,,company,CN,11,11,H10W40:10 H10W70:8 H10W90:8 H10W72:5 H10W74:4 H02M7:2,Shenzhen,Guangdong,22.5446,114.0545,city,Registered company name,1
+1030,Shinko Electric Ind Co,,company,JP,4,4,H10W40:4 H10W70:4 H10W74:4 H10W90:3 H10W72:2 H10W42:1,Nagano,Nagano Prefecture,36.6486,138.1948,city,USPTO PatentsView assignee address (assignee 8ca71f6f-713c-4f5a-8d8a-3af4d3249315; 818 of 1706 US patents); town point from Overture Maps,1
+1031,Sht Smart High Tech Ab,,company,SE,1,1,B32B1:1 B32B2250:1 B32B2307:1 B32B2457:1 B32B38:1 B32B9:1,Göteborg,Västra Götaland County,57.7072,11.967,city,USPTO PatentsView assignee address (assignee bcd5c42f-9704-4356-97bb-33d87a83aff3; 2 of 2 US patents); town point from Overture Maps,1
+1032,Signify Holding Bv,,company,NL,1,1,F21K9:1 F21S8:1 F21V19:1 F21V23:1 F21V3:1 F21Y2103:1,Eindhoven,North Brabant,51.4344,5.4842,city,Wikidata P159 headquarters (town centre coordinates),1
+1033,Silex Microsystems Ab,,company,SE,1,1,H10P50:1 H10W20:1,Jarfalla,Stockholm County,59.4205,17.8285,city,USPTO PatentsView assignee address (assignee c02b9d4b-09e6-4a1f-8671-2b0afd16db9b; 32 of 32 US patents); town point from Overture Maps,1
+1034,Silicon Box Pte Ltd,,company,SG,12,12,H10W70:11 H10W72:8 H10W90:8 H10W74:7 H10W42:3 H10W40:2,Singapore,,1.2899,103.8519,city,Wikipedia,1
+1035,Sintrones Tech Corp,,company,TW,1,1,G06F1:1 G06F2200:1 H05K7:1 H10W40:1,,,,,country,,0
+1036,Skyworks Solutions Inc,,company,US,4,3,H10W44:3 H10W70:3 H10W72:3 H10W74:3 H10W90:3 H05K1:2,,,,,country,,0
+1037,Sma Solar Technology Ag,,company,DE,1,1,H05K1:1 H05K3:1 H10W40:1 H10W42:1 H10W70:1 H10W90:1,Niestetal,Hesse,51.3151,9.5388,exact,Wikidata P159 headquarters with P625 coordinates,1
+1038,Smart Packaging Solutions,,other/unknown,FR,1,1,G06K19:1 H10W70:1 H10W72:1,,,,,country,,0
+1039,Smartflex Tech Pte Ltd,,company,SG,1,1,G06K19:1 H10W70:1,Singapore,,1.2899,103.8519,city,USPTO PatentsView assignee address (assignee 1a33251f-38dd-4200-b8c5-fb7bdd758572; 2 of 2 US patents); town point from Overture Maps,1
+1040,Smt Maschinen Und Vertriebs Gmbh & Co Kg,,company,DE,9,7,H10W72:9 B30B15:6 B22F3:4 B22F7:3 B22F12:2 B32B15:2,Wertheim,Baden-Württemberg,49.76,9.5167,city,Distributor profile,1
+1041,Institut Nat Des Sciences Appliquees Centre Val De Loire,,research institute,FR,2,2,H10N30:2 H10P90:2 H10W10:2,,,,,country,,0
+1042,Space Exploration Tech Corp,,company,US,1,1,H01Q1:1 H01Q21:1 H01Q23:1 H01Q3:1 H10W20:1 H10W44:1,Hawthorne,California,33.9207,-118.3278,exact,Wikidata P159 headquarters with P625 coordinates,1
+1043,Spt Roth Ag,,company,CH,1,1,B23K20:1 B23K2101:1 B23K2103:1 B23K26:1 C04B35:1 H10W72:1,,,,,country,,0
+1044,Stannol Gmbh & Co Kg,,company,DE,1,1,B22F7:1 B23K35:1 C04B2111:1 C04B2237:1 C04B37:1 C04B41:1,,,,,country,,0
+1045,Stiebel Eltron Gmbh & Co Kg,,company,DE,1,1,F24F1:1 H05K7:1 H10W40:1,Holzminden,Lower Saxony,51.8297,9.4483,city,Wikidata P159 headquarters (town centre coordinates),1
+1046,Stihl Ag & Co Kg Andreas,,company,DE,1,1,F28F13:1 H10W40:1 H10W72:1,Waiblingen,Baden-Württemberg,48.8326,9.3164,city,USPTO PatentsView assignee address (assignee e12d475a-6b7e-460d-bc49-947dc8b90bda; 785 of 976 US patents); town point from Overture Maps,1
+1047,Stratec Se,,company,DE,3,1,G01N2021:3 G01N21:3 G01N2201:3 G02B21:3 G02B2207:3 G02B27:3,Birkenfeld,Baden-Württemberg,48.8697,8.6361,city,Wikidata P159 headquarters (town centre coordinates),1
+1048,Sungrow Power Supply Co Ltd,,company,CN,1,1,F28D1:1 F28D15:1 F28F2265:1 F28F9:1 H05K7:1 H10W40:1,Hefei,Anhui,31.8666,117.2814,city,USPTO PatentsView assignee address (assignee 1122f67d-08cd-4f37-8b13-8e30b0425eb6; 41 of 73 US patents); town point from Overture Maps,1
+1049,Sureway Tech Co Ltd,,company,TW,2,2,H10W40:2 H10W72:1 H10W90:1,,,,,country,,0
+1050,Suteng Innovation Tech Co Ltd,,company,CN,1,1,G01S7:1 G02B6:1 H01S5:1 H10W90:1,Shenzhen,Guangdong,22.5446,114.0545,city,USPTO PatentsView assignee address (assignee f4187992-ac64-4597-b696-a54c66e73e8e; 8 of 10 US patents); town point from Overture Maps,1
+1051,Suzhou Xiz Tech Co Ltd,,company,CN,1,1,H05K7:1 H10W40:1,,,,,country,,0
+1052,Tactotek Oy,,company,FI,1,1,H05K1:1 H05K2201:1 H05K2203:1 H05K3:1 H10W20:1 H10W70:1,Oulunsalo,North Ostrobothnia,64.9333,25.4167,city,USPTO PatentsView assignee address (assignee edf8891d-fb1c-48fa-a9d3-e565793e0ab7; 46 of 50 US patents); town point from Overture Maps,1
+1053,Tanaka Electronics Co Ltd,,company,JP,1,1,B65D85:1 B65H2701:1 B65H49:1 B65H75:1 H10W72:1,,,,,country,,0
+1054,Te Connectivity Solutions Gmbh,,company,CH,1,1,A61B6:1 A61L2:1 A61L2103:1 H10W42:1,,,,,country,,0
+1055,Techn Gmbh,,company,DE,1,1,F28D15:1 G06F1:1 G06F2200:1 H10W40:1,,,,,country,,0
+1056,Technische Univ Ilmenau Koerperschaft Des Oeffentlichen Rechts,,university,DE,1,1,H05K1:1 H10N60:1 H10N69:1 H10W70:1,Ilmenau,Thuringia,50.6817,10.939,exact,Wikidata P159 headquarters with P625 coordinates,1
+1057,Tektronix Inc,,company,US,2,2,H10W72:1 H10W99:1 H10W40:1,Beaverton,Oregon,45.5003,-122.82,exact,Wikidata P159 headquarters with P625 coordinates,1
+1058,Tenstorrent Inc,,company,CA,1,1,H10W20:1 H10W70:1 H10W72:1 H10W90:1,North York,Ontario,43.7797,-79.4156,city,Wikidata P159 headquarters (town centre coordinates),1
+1059,Terasi Ab,,company,SE,2,2,H10W44:2 H01P5:1 H05K1:1 H10W72:1 G01R1:1 G01R31:1,,,,,country,,0
+1060,Tesla Inc,,company,US,2,2,H10W70:2 H10W72:2 H10W90:2 H05K1:1 H10W20:1 H10W40:1,Palo Alto,California,37.4443,-122.1599,city,USPTO PatentsView assignee address (assignee b1094623-3d25-49e1-938c-197aca941ecf; 279 of 315 US patents); town point from Overture Maps,1
+1061,Thales Dis France Sas,,company,FR,1,1,G06K19:1 H10W74:1,,,,,country,,0
+1062,United Monolithic Semiconductors Ums,,other/unknown,FR,2,2,H10W20:2 H10W44:2 H10W70:2 H10W72:2 H10W42:1 H05K1:1,,,,,country,,0
+1063,The 20th Research Institute Of China Electronics Tech Group Corporation,,research institute,CN,1,1,F28F27:1 F28F9:1 H05K7:1 H10W40:1,,,,,country,,0
+1064,Univ Xidian,,university,CN,1,1,F28F27:1 F28F9:1 H05K7:1 H10W40:1,南雷村,Shaanxi,34.1234,108.8359,exact,Wikidata P625 coordinates of the organisation,1
+1065,The Calany Holding S A R L,,company,LU,1,1,A63F13:1 A63F2300:1 G01C21:1 G01S19:1 G01S5:1 G06F3:1,Luxembourg,Luxembourg Canton,49.6113,6.1298,city,USPTO PatentsView assignee address (assignee d20f0850-308b-418c-8098-b1316b03d887; 4 of 4 US patents); town point from Overture Maps,1
+1066,Thermavant Tech Llc,,company,US,1,1,B81C1:1 F28D15:1 F28D2015:1 F28F2260:1 F28F2275:1 F28F3:1,Columbia,Missouri,38.9519,-92.3337,city,USPTO PatentsView assignee address (assignee 6e390550-a720-453d-9cee-af9d5f715709; 2 of 2 US patents); town point from Overture Maps,1
+1067,Tianjin Laird Tech Limited,,company,CN,1,1,C08K2003:1 C08K2201:1 C08K3:1 C08K7:1 C08L2203:1 C08L83:1,,,,,country,,0
+1068,Tmy Technology Inc,,company,TW,2,1,H01Q1:2 H05K1:2 H05K2201:2 H05K2203:2 H05K3:2 H10W40:2,,,,,country,,0
+1069,Stichting Chip Integration Tech Center,,other/unknown,NL,2,2,H10P72:1 H10W70:1 B22F1:1 B22F7:1 C22C1:1 H10W72:1,,,,,country,,0
+1070,Tong Hsing Electronic Industries Ltd,,company,TW,4,4,H10W40:2 H10W70:2 C04B2237:1 C04B37:1 H10W99:1 H05K1:1,Taipei,Taipei,25.0375,121.5637,city,USPTO PatentsView assignee address (assignee 1a188018-84a9-465e-a582-ea43c560eb19; 13 of 13 US patents); town point from Overture Maps,1
+1071,Top Rank Tech Limited,,company,WS,2,2,F28D15:2 H05K7:2 H10W40:2 G06F1:1,,,,,country,,0
+1072,Torino Politecnico,,university,IT,1,1,H05K7:1 H10W40:1,Turin,Piedmont,45.0678,7.6825,city,USPTO PatentsView assignee address (assignee ff22dd48-5972-4d47-a414-d64ea541647a; 25 of 28 US patents); town point from Overture Maps,1
+1073,Tracxon B V,,company,NL,1,1,H05K1:1 H05K2201:1 H05K2203:1 H05K3:1 H10W70:1 H10W72:1,,,,,country,,0
+1074,Trumpf Huettinger Gmbh Co Kg,,company,DE,7,7,H10W40:7 H10W90:5 H05K7:3 H10W70:2 H10W44:2 H05H2242:1,Freiburg im Breisgau,Baden-Württemberg,47.9862,7.7819,exact,Wikidata P159 headquarters with P625 coordinates,1
+1075,Trumpf Huettinger Sp Z O O,,company,PL,1,1,H01J37:1 H10W40:1,,,,,country,,0
+1076,Ulsan Nat Inst Science & Tech Unist,,research institute,KR,6,1,B29C64:6 B33Y10:6 B33Y40:6 B33Y70:6 B33Y80:6 C08F2:6,Ulsan,Ulsan,35.5392,129.3119,city,USPTO PatentsView assignee address (assignee 09d8678c-aa4a-495e-b55c-3202ccefcf6e; 108 of 134 US patents); town point from Overture Maps,1
+1077,Unick Corp,,company,KR,1,1,G06F1:1 H05K1:1 H05K2201:1 H10W40:1 H10W42:1 H10W76:1,Busan,Busan,35.1799,129.0752,city,USPTO PatentsView assignee address (assignee c5b0632a-6f8c-4122-9857-4c5e2f07896b; 7 of 12 US patents); town point from Overture Maps,1
+1078,Unist Ulsan National Inst Of Science And Technology,,research institute,KR,1,1,H10D30:1 H10D62:1 H10D84:1 H10D86:1 H10D88:1 H10P14:1,Ulsan,Ulsan,35.5392,129.3119,city,USPTO PatentsView assignee address (assignee 09d8678c-aa4a-495e-b55c-3202ccefcf6e; 108 of 134 US patents); town point from Overture Maps,1
+1079,Univ Catholique Louvain,,university,BE,1,1,G01N21:1 G02B6:1 H01P3:1 H01Q1:1 H10W44:1,Louvain-la-Neuve,Wallonia,50.6699,4.6157,exact,Wikidata P159 headquarters with P625 coordinates,1
+1080,Univ Court Univ Of Glasgow,,university,,1,1,H10D30:1 H10D62:1 H10D64:1 H10W74:1,,,,,unknown,,0
+1081,Univ Nat Tsing Hua,,university,TW,1,1,F28D15:1 F28F3:1 H05K7:1 H10W40:1,光明里,Hsinchu,24.7936,120.9928,exact,Wikidata P625 coordinates of the organisation,1
+1082,Univ Texas,,university,US,1,1,B81C99:1 G06F2117:1 G06F30:1 H10P72:1 H10W46:1 H10W72:1,Austin,Texas,30.3,-97.7333,city,Wikidata P159 headquarters (town centre coordinates),1
+1083,Universal Quantum Ltd,,university,GB,1,1,G06N10:1 H10W90:1,Brighton,England,50.8208,-0.1375,city,Wikidata P159 headquarters (town centre coordinates),1
+1084,Valeo Eautomotive Germany Gmbh,,company,DE,31,23,H10W40:20 H05K7:16 H10W90:16 H10W70:14 H05K1:9 H10W72:9,Erlangen,Bavaria,49.5977,11.0037,city,Legal Entity Identifier record,1
+1085,Valeo Electrification,,other/unknown,FR,1,1,H05K7:1 H10W40:1 H10W90:1,,,,,country,,0
+1086,Valeo Systemes Thermiques,,other/unknown,FR,3,3,H10W40:3 F28F2215:1 F28F3:1 H01M10:1 H05K7:1 B23K1:1,Le Mesnil Saint Denis,Ile-de-France,48.7416,1.9597,city,USPTO PatentsView assignee address (assignee 0077afa6-8d6c-4151-bfce-f9024c613a4c; 292 of 294 US patents); town point from Overture Maps,1
+1087,Vdl Etg Switzerland Ag,,company,CH,1,1,F28F1:1 F28F2275:1 H05K7:1 H10W40:1,,,,,country,,0
+1088,Vector Photonics Ltd,,company,,1,1,H01S5:1 H10W20:1,,,,,unknown,,0
+1089,Vensum Power Oy,,company,FI,3,2,H10W40:3 F28F9:2 H05K7:2 F24D19:1 F24D2200:1 F24D2220:1,,,,,country,,0
+1090,Vermon,,other/unknown,FR,1,1,G05B19:1 G05B2219:1 H10W72:1 H10W90:1,Tours,Centre-Val de Loire,47.3901,0.6889,city,USPTO PatentsView assignee address (assignee 7dabeb6c-0eb5-4400-96ef-58d7f60ae8a2; 23 of 24 US patents); town point from Overture Maps,1
+1091,Vermon Sa,,company,FR,1,1,G05B19:1 G05B2219:1 H10W72:1 H10W90:1,Tours,Centre-Val de Loire,47.3901,0.6889,city,USPTO PatentsView assignee address (assignee 7dabeb6c-0eb5-4400-96ef-58d7f60ae8a2; 23 of 24 US patents); town point from Overture Maps,1
+1092,Vertiv Corp,,company,US,1,1,F28F2215:1 F28F2255:1 F28F3:1 G06F1:1 H05K7:1 H10W40:1,Westerville,Ohio,40.1399,-82.9482,exact,Wikidata P159 headquarters with P625 coordinates,1
+1093,Vestas Wind Sys As,,company,DK,1,1,H10W40:1,,,,,country,,0
+1094,Viaholo Gmbh,,company,DE,1,1,G02B2027:1 G02B27:1 G09G3:1 H10W90:1,,,,,country,,0
+1095,Vitesco Tech Gmbh,,company,DE,4,4,H10W90:3 H10W70:2 H10W72:2 H10W40:2 H05K1:1 H05K10:1,Regensburg,Bavaria,49.0167,12.0833,city,Wikidata P159 headquarters (town centre coordinates),1
+1096,Vitesco Technologies,,other/unknown,DE,1,1,H05K7:1 H10W40:1,Regensburg,Bavaria,49.0167,12.0833,city,Wikidata P159 headquarters (town centre coordinates),1
+1097,Vitesco Technologies Germany Gmbh,,company,DE,8,8,H05K7:5 H10W40:5 H02M7:3 H10W90:3 G01F1:1 G01K11:1,Hannover,Lower Saxony,52.3745,9.7386,city,USPTO PatentsView assignee address (assignee 4127afee-1261-4e66-9638-5fb0de6ca19e; 9 of 11 US patents); town point from Overture Maps,1
+1098,Univ Tennessee Res Found,,university,US,1,1,H02M7:1 H10W90:1,,,,,country,,0
+1099,Volvo Car Corp,,company,SE,4,4,H02M7:3 H10W90:3 H10W70:1 H02M1:1 H03K17:1 H03K2017:1,Gothenburg,Västra Götaland County,57.7075,11.9675,city,Wikidata P159 headquarters (town centre coordinates),1
+1100,Valeo Eautomotive Germany,,other/unknown,DE,2,2,H10W74:2 H10W42:1 H10W70:1 H05K1:1 H05K2201:1 H10W40:1,,,,,country,,0
+1101,Wavepia Co Ltd,,company,KR,3,3,H10W40:3 H10D30:2 H10D62:2 H10W20:1 G01K1:1 G01K2217:1,,,,,country,,0
+1102,Wellang Co Ltd,,company,KR,1,1,H01F38:1 H03K17:1 H03K19:1 H10D1:1 H10D84:1 H10D89:1,,,,,country,,0
+1103,Wieland Provides S R L,,company,IT,1,1,F28D2021:1 F28F3:1 H05K7:1 H10W40:1,,,,,country,,0
+1104,Winbond Electronics Corp,,company,TW,2,2,H01G4:2 H10D1:2 H10W20:2 H01G2:1 H10D80:1 H10W44:1,Taichung,Taichung,24.2122,120.6195,exact,Wikidata P159 headquarters with P625 coordinates,1
+1105,Wistron Corp,,company,TW,1,1,H10W40:1 H10W76:1,New Taipei,New Taipei,25.0667,121.6667,city,Wikidata P159 headquarters (town centre coordinates),1
+1106,Wuerth Elektronik Eisos Gmbh & Co Kg,,company,DE,2,2,H01F17:2 H01F27:2 H01F41:2 H10W20:2 H10W44:1 H01F2017:1,,,,,country,,0
+1107,Wuxi Zhong Wei High Tech Eletronics Co Ltd,,company,CN,1,1,C23C14:1 G03F9:1 H10W46:1 H10W70:1,,,,,country,,0
+1108,Melexis Technologies Nv,,company,BE,1,1,H10D1:1 H10D64:1 H10D84:1 H10P14:1 H10P90:1 H10W44:1,Tessenderlo,Flanders,51.0676,5.0879,city,USPTO PatentsView assignee address (assignee 9a95df0c-a5bd-4ccb-b60f-7bb1a01d0698; 104 of 189 US patents); town point from Overture Maps,1
+1109,Xiaomi Ev Tech Co Ltd,,company,CN,1,1,B60R16:1 H02K11:1 H02M1:1 H02M7:1 H02P27:1 H10W40:1,,,,,country,,0
+1110,Xmems Labs Inc,,company,US,3,3,H10W40:3 H05K7:2 F25B1:1 F25B31:1 F25B39:1 F28D15:1,Santa Clara,California,37.3541,-121.9552,city,USPTO PatentsView assignee address (assignee 4734047f-900e-43b5-813f-78dab9f8681e; 13 of 23 US patents); town point from Overture Maps,1
+1111,Yageo Nexensos Gmbh,,company,DE,2,2,G01K7:2 H10W72:2 C08K2003:1 C08K2201:1 C08K3:1 C08K5:1,,,,,country,,0
+1112,Yazaki Corp,,company,JP,3,3,H10W40:3 H01H9:2 H05K7:2 H01B7:2 H01H1:2 H10W72:1,Minato,Tokyo,35.658,139.7515,city,Wikidata P159 headquarters (town centre coordinates),1
+1113,Yazaki Systems Tech Gmbh,,company,DE,2,1,B60L2240:2 B60L53:2 H05K5:2 H05K7:2 H10W40:2,,,,,country,,0
+1114,Zapadoceska Univerzita V Plzni,,university,CZ,1,1,F28F3:1 H05K7:1 H10W40:1 H10W70:1,Plzeň,Plzeň Region,49.7237,13.3515,exact,Wikidata P159 headquarters with P625 coordinates,1
+1115,Elceram A S,,other/unknown,CZ,1,1,F28F3:1 H05K7:1 H10W40:1 H10W70:1,Hradec Králové,Hradec Králové Region,50.2092,15.8319,city,Wikidata P159 headquarters (town centre coordinates),1
+1116,Zeiss Carl Sms Ltd,,company,IL,1,1,B23K26:1 H10D62:1 H10P10:1 H10P34:1 H10P50:1 H10P54:1,Karmiel,North District,32.9159,35.2934,city,USPTO PatentsView assignee address (assignee eb6881fc-6722-478d-8341-9869cc15e9c1; 18 of 80 US patents); town point from Overture Maps,1
+1117,Zhuzhou Crrc Times Electric Co Ltd,,company,CN,1,1,H05K7:1 H10W20:1 H10W40:1 H10W44:1 H10W70:1 H10W72:1,Zhuzhou,Hunan,27.8407,113.1469,city,Wikidata P159 headquarters (town centre coordinates),1
+1118,Zhuzhou Crrc Times Semiconductor Co Ltd,,company,CN,2,2,H10W40:2 H02P1:1 H10D18:1 H10W74:1 H10W76:1 H10W72:1,,,,,country,,0
+1119,Dynex Semiconductor Ltd,,company,GB,1,1,H10W40:1 H10W72:1 H10W90:1,Lincoln,England,53.2063,-0.6104,exact,Wikidata P159 headquarters with P625 coordinates,1
+1120,Zutacore Ltd,,company,IL,2,1,F28F2250:2 F28F27:2 G05D16:2 G06F1:2 G06F2200:2 H05K7:2,,,,,country,,0
+1121,EADELSON NAHSHON,,private inventor,IL,2,1,F28F2250:2 F28F27:2 G05D16:2 G06F1:2 G06F2200:2 H05K7:2,,,,,country,,0
