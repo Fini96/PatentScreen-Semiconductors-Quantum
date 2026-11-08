@@ -1,4 +1,4 @@
-# EPOPatentScreen
+# EPO & CNIPA & TIPO PatentScreen
 AI supported Patent and emerging technologies Analysis
 
 ---
