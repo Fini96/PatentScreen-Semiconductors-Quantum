@@ -1,6 +1,6 @@
 {
  "_about": "Manually researched locations (5 Nov 2026) for the largest applicants that Wikidata and PatentsView could not place. Town coordinates are the Overture Maps locality point for the named town (Wikidata ID in 'town_wd'). An entry is only listed when a source names the town for this legal entity (or, for Chinese companies, the registering city is part of the registered company name). Parent-company headquarters are never used for a subsidiary.",
- "date_verified": "2026-11-05",
+ "date_verified": "2026-11-05 / 2026-11-08",
  "entries": [
   {
    "raw": "ST MICROELECTRONICS INT NV",
@@ -562,6 +562,76 @@
    "stype": "Wikidata P159 (Suwon statement) and USPTO PatentsView address (Suwon, 54,177 US patents)",
    "conf": "high",
    "note": "Wikidata lists two headquarters statements (Suwon and the Seocho office in Seoul); the registered head office in Suwon is used, matching the USPTO address."
+  },
+  {
+   "raw": "ASTEMO LTD",
+   "city": "Chiyoda (Tokyo)",
+   "country": "JP",
+   "region": "JP-13",
+   "lat": 35.6941,
+   "lon": 139.7535,
+   "town_wd": "Q214051",
+   "kind": "headquarters",
+   "url": "https://www.astemo.com/en/corporate/outline/",
+   "stype": "Company website",
+   "conf": "high",
+   "note": "Head office in Chiyoda-ku, Tokyo (company overview page). Astemo is the renamed Hitachi Astemo."
+  },
+  {
+   "raw": "ERICSSON TELEFON AB L M",
+   "city": "Stockholm",
+   "country": "SE",
+   "region": "SE-AB",
+   "lat": 59.3251,
+   "lon": 18.0711,
+   "town_wd": "Q1754",
+   "kind": "headquarters",
+   "url": "https://lei.bloomberg.com/leis/view/549300W9JLPW15XIFM52",
+   "stype": "LEI register (Bloomberg)",
+   "conf": "high",
+   "note": "Legal and headquarters address Torshamnsgatan 21, Stockholm (Kista), per the LEI record."
+  },
+  {
+   "raw": "JIANGSU LEUVEN INSTR CO LTD",
+   "city": "Pizhou",
+   "country": "CN",
+   "region": "CN-JS",
+   "lat": 34.3403,
+   "lon": 118.0068,
+   "town_wd": "Q1342853",
+   "kind": "headquarters",
+   "url": "https://www.semi.org/en/resources/ecs-directory/jiangsu-leuven-instruments-co-ltd",
+   "stype": "Industry association directory (SEMI)",
+   "conf": "medium",
+   "note": "No. 8 West Haihe Road, Economic Development Zone, Pizhou, Jiangsu."
+  },
+  {
+   "raw": "WUHAN CHINA STAR OPTOELECTRONICS SEMICONDUCTOR DISPLAY TECH CO LTD",
+   "city": "Wuhan",
+   "country": "CN",
+   "region": "CN-HB",
+   "lat": 30.5789,
+   "lon": 114.2921,
+   "town_wd": "Q11746",
+   "kind": "registered city",
+   "url": "https://ipqwery.com/ipowner/en/owner/ip/2803390-wuhan-china-star-optoelectronics-semiconductor-display-technology-co-ltd.html",
+   "stype": "Registered company name",
+   "conf": "medium",
+   "note": "Registering city stated in the legal name (rule used for Chinese entities)."
+  },
+  {
+   "raw": "YAMAHA ROBOTICS CO LTD",
+   "city": "Musashimurayama (Tokyo)",
+   "country": "JP",
+   "region": "JP-13",
+   "lat": 35.7565,
+   "lon": 139.3856,
+   "town_wd": "Q390806",
+   "kind": "headquarters",
+   "url": "https://www.semi.org/en/resources/member-directory/yamaha-robotics-co-ltd",
+   "stype": "Industry association directory (SEMI)",
+   "conf": "medium",
+   "note": "2-51-1 Inadaira, Musashimurayama-shi, Tokyo."
   }
  ],
  "researched_not_found": [
@@ -604,6 +674,14 @@
   {
    "raw": "MIRISE Technologies Corporation",
    "why": "Wikidata gives Aichi Prefecture only (region level)."
+  },
+  {
+   "raw": "MITSUBISHI CHEM CORP",
+   "why": "Only the holding company's (Mitsubishi Chemical Group) address found; not used for the operating company."
+  },
+  {
+   "raw": "PANASONIC IP MAN CO LTD",
+   "why": "Company page gives only a postal code; no town named."
   }
  ],
  "city_states": {

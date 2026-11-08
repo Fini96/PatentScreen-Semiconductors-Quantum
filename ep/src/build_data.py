@@ -193,9 +193,11 @@ SITE_TOWN = {"Hôtel de Vendôme": "Paris", "BMW Headquarters": "Munich", "Main 
              "ETH Zurich main building": "Zurich", "Shiodome City Center": "Tokyo", "Hsinchu Science Park": "Hsinchu"}
 DISTRICT = re.compile(r"(?i)( District|-ku| Ward)$")
 
-def town_of(hq_label, region):
-    """City name for display: building/site labels are replaced by their town, city districts by their city."""
+def town_of(hq_label, region, pv_city=None, d_wd_pv=None):
+    """City name for display: building/site labels are replaced by their town, city districts by their city
+    (the entity's own USPTO address city when it lies within 25 km, otherwise the region)."""
     if hq_label in SITE_TOWN: return SITE_TOWN[hq_label], hq_label
+    if hq_label and DISTRICT.search(hq_label) and pv_city and d_wd_pv is not None and d_wd_pv <= 25: return pv_city, hq_label
     if hq_label and DISTRICT.search(hq_label) and region: return region, hq_label
     return hq_label, None
 INSTITUTION_KIND = {"university": "main campus", "research": "headquarters"}
@@ -218,7 +220,7 @@ def locate_entity(raw, row, web, city_states, regnames, gtype):
         strong = int(row["n_strong2"] or 0)
         conf = "high" if lbl_ok and (d is None or d <= 50) and strong <= 1 and not row["ov_note"] else "medium"
         q = f"Q{row['qid']}"
-        town, detail = town_of(row["hq_label"], row["region_en"])
+        town, detail = town_of(row["hq_label"], row["region_en"], row.get("pg_pvcity") or None, d)
         base.update(lat=float(row["lat"]), lon=float(row["lon"]),
                     city=town or row["near_city"], state_province=row["region_en"] or None,
                     precision="exact headquarters" if (exact or own) else "city",
@@ -332,7 +334,8 @@ def main(export_csv, loc_csv, map_csv, out_dir):
         dom = sum(1 << i for i, (k, _) in enumerate(DOMAINS) if r[k].strip().lower() == "true")
         fy = int(r["filing_date"][:4]) if r["filing_date"] and r["filing_date"] != "0" else 0
         apps.append([r["publication_number"], midx(office_map, offices, r["office"]), r["kind_code"], fpd, fy, fi,
-                     r["title"] or "", ids, cats, cpc, inv, dom, ents, r["family_id"]])
+                     r["title"] or "", ids, cats, cpc, inv, dom, ents, r["family_id"],
+                     1 if (r.get("route") or "direct") == "PCT" else 0])
 
     keys = list(A.keys()); kidx = {k: i for i, k in enumerate(keys)}
     ekeys = list(E.keys()); eidx = {k: i for i, k in enumerate(ekeys)}

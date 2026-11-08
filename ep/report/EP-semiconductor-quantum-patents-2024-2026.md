@@ -369,7 +369,7 @@ Inventor countries come from Google's harmonised inventor data and are known for
 
 ### f) Applicant locations by city (verified, direct filings)
 
-Unlike the CN regions in the CN/TW study, which are inferred from the headquarters of the top 50 applicants, applicant locations here are verified per filing entity (Wikidata headquarters, USPTO applicant addresses re-geocoded against Overture Maps, and manual checks of registers and company websites; method in section 11). The located unit is the applicant entity on the filing, so a subsidiary sits at its own address: Infineon Technologies Austria AG in Villach, Infineon Technologies AG in Neubiberg. **This table covers the 8,062 direct filings only**; applicants that enter mainly via PCT (Qualcomm, Huawei, Applied Materials, IBM, BOE) have not yet been located. Counts are applications per filing-entity city (full count).
+Unlike the CN regions in the CN/TW study, which are inferred from the headquarters of the top 50 applicants, applicant locations here are verified per filing entity (Wikidata headquarters, USPTO applicant addresses re-geocoded against Overture Maps, and manual checks of registers and company websites; method in section 11). The located unit is the applicant entity on the filing, so a subsidiary sits at its own address: Infineon Technologies Austria AG in Villach, Infineon Technologies AG in Neubiberg. **This table covers the 8,062 direct filings only**. The interactive atlas now also locates the applicants that enter via PCT (e.g. Qualcomm in San Diego, Huawei in Shenzhen, Applied Materials in Santa Clara) and has a filter for the filing route. Counts are applications per filing-entity city (full count).
 
 | City | Apps | Main applicants |
 | --- | --- | --- |
@@ -514,7 +514,7 @@ The PCT rebuild (8 Nov) billed about 300 GB, roughly $1.90 at on-demand pricing 
 - **Applicant country** = country code of the first-named applicant on the patent record (`assignee_harmonized.country_code`); 241 records carry none. Group countries in the top-20 table are the parent's headquarters, so Infineon Austria counts as AT in section 7 and as part of the DE parent in section 5.
 - **Priority office** = office prefix of the earliest-dated priority claim.
 - **Inventor countries** from `inventor_harmonized`, fractional across inventors; known for 13,483 applications. For direct filings all publications of the application are used; for PCT-route additions the first European record.
-- **Applicant locations** are verified per filing entity for direct filers: Wikidata headquarters (P159 with coordinates), then the most frequent USPTO applicant address (PatentsView, re-geocoded against Overture Maps), then manual checks. Only exact and city-level locations are placed; nothing is placed at a national centroid, and private inventors stay at country level.
+- **Applicant locations** are verified per filing entity (PCT-route applicants added 8 Nov): Wikidata headquarters (P159 with coordinates), then the most frequent USPTO applicant address (PatentsView, re-geocoded against Overture Maps), then manual checks. Only exact and city-level locations are placed; nothing is placed at a national centroid, and private inventors stay at country level.
 
 ### Deviations from the CN/TW study
 
@@ -523,14 +523,14 @@ The PCT rebuild (8 Nov) billed about 300 GB, roughly $1.90 at on-demand pricing 
 3. 61 categories instead of 65; the taxonomies need a mapping for comparison.
 4. Emerging-technology rule: ≥ +40% and ≥ 20 applications in the later window (CN/TW: ≥ 40 CN, ≥ 20 TW).
 5. No extension domains (quantum communication and sensing, equipment).
-6. Applicant locations verified per filing entity instead of inferred regions (direct filers only so far).
+6. Applicant locations verified per filing entity instead of inferred regions (all applicants, in the interactive atlas).
 7. Title terms not used because of mixed-language titles.
 
 ### Known gaps
 
 - **Route dating:** Euro-PCT and direct filings published in the same window stem from different filing years (median Nov 2023 vs Sep 2024).
 - **National coverage is uneven:** Italian data ends in December 2025, British data thins out in 2026, small offices are sparsely covered.
-- **Locations and verified types** have not yet been extended to applicants that enter only via PCT; the interactive atlas still shows the direct-only corpus.
+- **Verified types (Wikidata) cover only the largest groups; the city table in section 7f is computed on direct filings, while the interactive atlas covers the full** corpus.
 - Text-only categories depend on keywords and probably undercount, especially for national filings in other languages.
 - The window is by first publication, which lags filing by about 18 months (direct) or 31–34 months (PCT route).
 - New applicants are new within the window only (no pre-2024 history).

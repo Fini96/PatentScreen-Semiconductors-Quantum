@@ -12,7 +12,7 @@ Patent counts, families, technology categories and applicant groups are taken un
 """
 import csv, json, math, os, sys, collections, shutil
 
-DATE_VERIFIED = "2026-11-05"
+DATE_VERIFIED = "2026-11-05 (PCT-route applicants added 2026-11-08)"
 TYPE_IDX = {"established": 0, "company": 0, "startup": 1, "university": 2, "research": 3, "individual": 4, "unknown": 5}
 TYPE_NAME = ["company", "startup", "university", "research institute", "private inventor", "other/unknown"]
 PREC = {"exact headquarters": "E", "city": "C", "region": "R", "country": "K", "unknown": "U"}
@@ -114,8 +114,9 @@ def main(ep_dir, ne_dir, out_dir, famjur_csv=None):
         fid = a[13] if len(a) > 13 else None
         jb = fam_bits.get(fid, 0) if fid else 0
         if jb: n_jur += 1
+        route = a[14] if len(a) > 14 else 0
         lines.append(",".join([str(a[1]), str(midx[mkey(a[3])]), str(a[4] or 0), str(fam), ".".join(map(str, sorted(set(cs)))),
-                               str(jb), str(cpcbits), ".".join(map(str, a[7])), ".".join(inv), ".".join(map(str, sites))]))
+                               str(jb), str(cpcbits), ".".join(map(str, a[7])), ".".join(inv), ".".join(map(str, sites)), str(route)]))
 
     # ---------- applicants
     nameA, origA, typA, ccA, precA, nA, famA, cpcA = [], [], [], [], [], [], [], []
@@ -182,7 +183,7 @@ def main(ep_dir, ne_dir, out_dir, famjur_csv=None):
                  "months": months, "queried": "2026-11-01 / 2026-11-05", "source": "Google Patents Public Datasets on BigQuery (patents-public-data)",
                  "overrides": [], "latest": {k: f"{str(v)[:4]}-{str(v)[4:6]}-{str(v)[6:]}" for k, v in meta["latestByOffice"].items()},
                  "geo_verified": DATE_VERIFIED, "country_from_location": cty_from_loc, "geoqc": geoqc,
-                 "offices": offices, "officeChips": OFFICE_CHIPS, "cpcsub": CPCSUB, "famjur": bool(fam_bits), "famjurDocs": n_jur,
+                 "offices": offices, "officeChips": OFFICE_CHIPS, "cpcsub": CPCSUB, "famjur": bool(fam_bits), "famjurDocs": n_jur, "routes": True,
                  "locqc": meta["locQC"]},
         "groups": [[g[1], g[2]] for g in GROUPS], "cats": cats,
         "apps": {"name": nameA, "orig": origA, "typ": typA, "cc": ccA, "prec": precA, "prov": [""] * NA, "ronly": [""] * NA, "n": nA, "fam": famA},
@@ -226,10 +227,10 @@ def main(ep_dir, ne_dir, out_dir, famjur_csv=None):
         w = csv.writer(f); w.writerow(["applicant_id", "harmonised_name", "original_name", "applicant_type", "country", "applications", "families", "top_cpc_groups", "city", "state_province", "latitude", "longitude", "location_precision", "location_source", "sites"])
         for a in range(NA): w.writerow([a, nameA[a], origA[a], TYPE_NAME[typA[a]], ccA[a], nA[a], famA[a], cpcA[a], loc["city"][a], loc["state"][a], loc["lat"][a], loc["lng"][a], PREC_WORD[loc["p"][a]], loc["stype"][a], len(site_by_a[a])])
     with open(os.path.join(out_dir, "data", "publications.csv"), "w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f); w.writerow(["publication_number", "office", "first_publication_date", "filing_year", "family_index", "technology_categories", "family_offices", "cpc_subclasses_in_scope", "applicant_ids", "inventor_countries"])
+        w = csv.writer(f); w.writerow(["publication_number", "office", "first_publication_date", "filing_year", "family_index", "technology_categories", "family_offices", "cpc_subclasses_in_scope", "applicant_ids", "inventor_countries", "filing_route"])
         for di, a in enumerate(PA):
             fl = lines[di].split(",")
-            w.writerow([a[0], offices[a[1]], a[3], a[4], a[5], "|".join(cats[int(c)][0] for c in fl[4].split(".") if c), "|".join(k for k, b in [("EP", 1), ("US", 2), ("JP", 4), ("KR", 8), ("WO", 16), ("CN", 32), ("TW", 64)] if int(fl[5]) & b), "|".join(s for k, s in enumerate(CPCSUB) if int(fl[6]) & (1 << k)), "|".join(fl[7].split(".")), "|".join(fl[8].split(".")) if fl[8] else ""])
+            w.writerow([a[0], offices[a[1]], a[3], a[4], a[5], "|".join(cats[int(c)][0] for c in fl[4].split(".") if c), "|".join(k for k, b in [("EP", 1), ("US", 2), ("JP", 4), ("KR", 8), ("WO", 16), ("CN", 32), ("TW", 64)] if int(fl[5]) & b), "|".join(s for k, s in enumerate(CPCSUB) if int(fl[6]) & (1 << k)), "|".join(fl[7].split(".")), "|".join(fl[8].split(".")) if fl[8] else "", "PCT" if fl[10] == "1" else "direct"])
     with open(os.path.join(out_dir, "data", "unverified_locations.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f); w.writerow(["applicant_id", "harmonised_name", "original_name", "applicant_type", "country", "location_precision", "state_province", "applications", "notes"])
         for a in sorted(range(NA), key=lambda a: -nA[a]):

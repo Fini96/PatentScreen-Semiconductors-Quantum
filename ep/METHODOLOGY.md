@@ -3,10 +3,10 @@
 ## Dataset
 
 * **Source**: Google Patents Public Datasets on BigQuery (`patents-public-data.patents.publications`), queried 1–5 Nov 2026.
-* **Scope**: patent applications whose *first* publication at the EPO (EP) or at a national office of the 39 EPO member states falls on or after 1 Nov 2024. Every application filed via the PCT route is excluded.
+* **Scope**: patent applications whose *first* publication at the EPO (EP) or at a national office of the 39 EPO member states falls on or after 1 Nov 2024, on both filing routes: direct filings, and PCT applications entering the European phase (Euro-PCT, dated at their first EP-office record) or the German national phase (DE 11 2 numbers). The dashboard's *Filing route* filter separates the two.
   * Selection is by CPC: H10D, H10B, H10W, H10P, H10N60, G06N10, G06F30/39, and B82Y10 together with a quantum keyword.
   * LED, solar-cell and OLED filings (H10H, H10F, H10K) are excluded unless they also carry a device or quantum code.
-* **Coverage**: 8,062 applications (EP 4,382, national offices 3,680; DE 2,590, FR 464, GB 259, NL 127, IT 77, …) in 7,560 families.
+* **Coverage**: 13,637 applications in 12,747 families: EP 9,069 (direct 4,382, Euro-PCT 4,687), national offices 4,568 (direct 3,648, German PCT national phase 920; DE 3,480, FR 464, GB 259, NL 127, IT 77, …). 41% come via the PCT route.
   * Latest publication in the data: EP 16 Sep 2026, DE 24 Sep 2026.
   * Italian national records end in December 2025, and British records thin out in 2026.
 * **Not included**: publications at other offices. The CNIPA & TIPO study is a separate dataset with the same dashboard design.
@@ -25,7 +25,7 @@
 
 ## Applicants and types
 
-* Names follow the study's grouping: 51 documented rules merge name variants and subsidiaries under a parent (e.g. all Infineon entities). Everything else stays a separate applicant.
+* Names follow the study's grouping: 88 documented rules merge name variants and subsidiaries under a parent (e.g. all Infineon entities). Everything else stays a separate applicant.
 * **Types**: company, startup, university, research institute, private inventor, other/unknown.
   * **Startups** are identified only for the Wikidata-verified groups (about the 60 largest): founded 2015 or later, no parent organisation, not a carve-out.
   * University and research institute are verified for CEA, CNRS, imec, Fraunhofer, DLR and TU Delft, and otherwise inferred from name terms.
@@ -82,6 +82,6 @@ See `GEO_QUALITY_REPORT.md`. It covers:
 ## Limitations
 
 * City-level points are city centres. A company may have moved since its US patents were granted (up to 2021).
-* Excluding PCT removes most filings of PCT-heavy applicants (e.g. Qualcomm, Applied Materials, Quantinuum).
+* PCT-route applications reach Europe about 31–34 months after priority, so they describe inventions about a year older than direct filings published in the same window.
 * About 40% of institutional filing entities, holding about 10% of applicant mentions, could not be located below country level. Most are small applicants with one or two filings.
 * The most frequent CPC groups and the sample publications in each profile are stored without filters.
