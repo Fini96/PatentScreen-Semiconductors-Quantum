@@ -64,14 +64,14 @@ const REGIONS = {
 // ------------------------------------------------------------------ parse documents into typed arrays
 const lines = DOCS.split('\n');
 const N = lines.length;
-const off = new Uint8Array(N), pm = new Uint8Array(N), fy = new Uint16Array(N), fi = new Int32Array(N), jm = new Uint8Array(N), cm = new Uint8Array(N), gmask = new Uint16Array(N);
+const rte = new Uint8Array(N), off = new Uint8Array(N), pm = new Uint8Array(N), fy = new Uint16Array(N), fi = new Int32Array(N), jm = new Uint8Array(N), cm = new Uint8Array(N), gmask = new Uint16Array(N);
 const catOff = new Int32Array(N + 1), aidOff = new Int32Array(N + 1), invOff = new Int32Array(N + 1), sitOff = new Int32Array(N + 1);
 const catTmp = [], aidTmp = [], invTmp = [], sitTmp = [];
 const invCodes = [], invIdx = new Map();
 let maxFi = 0, minFy = 9999, maxFy = 0;
 for (let i = 0; i < N; i++) {
   const f = lines[i].split(',');
-  off[i] = +f[0]; pm[i] = +f[1]; fy[i] = +f[2]; fi[i] = +f[3]; jm[i] = +f[5]; cm[i] = +f[6];
+  rte[i] = +(f[10] || 0); off[i] = +f[0]; pm[i] = +f[1]; fy[i] = +f[2]; fi[i] = +f[3]; jm[i] = +f[5]; cm[i] = +f[6];
   if (fi[i] > maxFi) maxFi = fi[i];
   if (fy[i] < minFy) minFy = fy[i]; if (fy[i] > maxFy) maxFy = fy[i];
   catOff[i] = catTmp.length;
@@ -115,7 +115,7 @@ const countriesWithApps = [...new Set(A.cc.filter(Boolean))].sort((x, y) => ccNa
 // ------------------------------------------------------------------ state
 const DEFAULT = () => ({
   cats: new Set(), noCat: false, countries: new Set(), types: new Set(), basis: 'pub', from: 0, to: MONTHS.length - 1,
-  offices: new Set(), jur: new Set(), cpc: new Set(), measure: 'apps', min: null, max: null, attr: 'full', q: '',
+  offices: new Set(), route: new Set(), jur: new Set(), cpc: new Set(), measure: 'apps', min: null, max: null, attr: 'full', q: '',
 });
 let F = DEFAULT();
 let mode = 'A';
@@ -137,6 +137,7 @@ function compute() {
   const pass1 = new Uint8Array(N);
   for (let d = 0; d < N; d++) {
     if (offSel && !offSel.has(offKey(off[d]))) continue;
+    if (F.route.size && !F.route.has(rte[d])) continue;
     if (F.basis === 'pub') { if (pm[d] < F.from || pm[d] > F.to) continue; } else { if (fy[d] < F.from || fy[d] > F.to) continue; }
     if (jSel && !(jm[d] & jSel)) continue;
     if (cSel && !(cm[d] & cSel)) continue;
@@ -310,6 +311,8 @@ function buildFilters() {
   $('#typeChips').addEventListener('click', e => { const b = e.target.closest('button[data-t]'); if (!b || b.disabled) return; const t = +b.dataset.t; F.types.has(t) ? F.types.delete(t) : F.types.add(t); update(); });
   // office & jurisdiction & cpc
   $('#officeChips').innerHTML = [...CHIPS, 'other'].map(o => `<button class="chip" type="button" data-o="${o}" aria-pressed="false" title="${o === 'EP' ? 'European Patent Office (regional)' : o === 'other' ? 'Other national offices: ' + OFFICES.filter(x => !CHIPS.includes(x)).join(', ') : 'National office ' + o}">${o === 'other' ? 'Other national' : o}</button>`).join('');
+  $('#routeChips').innerHTML = [[0, 'Direct', 'Filed directly at the EPO or a national office'], [1, 'PCT route', 'Euro-PCT applications entering the European phase, and German PCT national-phase entries']].map(([k, l, t]) => `<button class="chip" type="button" data-r="${k}" aria-pressed="false" title="${t}">${l}</button>`).join('');
+  $('#routeChips').addEventListener('click', e => { const b = e.target.closest('button[data-r]'); if (!b) return; const k = +b.dataset.r; F.route.has(k) ? F.route.delete(k) : F.route.add(k); update(); });
   $('#officeChips').addEventListener('click', e => { const b = e.target.closest('button[data-o]'); if (!b) return; const o = b.dataset.o; F.offices.has(o) ? F.offices.delete(o) : F.offices.add(o); update(); });
   $('#jurChips').innerHTML = JUR.map(j => `<button class="chip" type="button" data-j="${j.k}" aria-pressed="false" ${FAMJUR ? `title="${j.kind} system"` : 'disabled title="Family look-up not loaded"'}>${j.k}</button>`).join('');
   $('#jurChips').addEventListener('click', e => { const b = e.target.closest('button[data-j]'); if (!b) return; const k = b.dataset.j; F.jur.has(k) ? F.jur.delete(k) : F.jur.add(k); update(); });
@@ -362,6 +365,7 @@ function syncCountryMenu() {
 function syncChips() {
   $('#typeChips').querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(F.types.has(+b.dataset.t))));
   $('#officeChips').querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(F.offices.has(b.dataset.o))));
+  $('#routeChips').querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(F.route.has(+b.dataset.r))));
   $('#jurChips').querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', String(F.jur.has(b.dataset.j))));
   const c = F.cpc.size; $('#sumCpc').textContent = c ? c + ' subclass' + (c > 1 ? 'es' : '') : 'Any subclass';
   // live counts in technology menu (current doc set before tech filter is not tracked; show counts in filtered set)
@@ -373,6 +377,7 @@ function syncChips() {
   if (F.basis === 'pub' && (F.from > 0 || F.to < MONTHS.length - 1)) parts.push(`published ${MONTHS[F.from]} – ${MONTHS[F.to]}`);
   if (F.basis === 'fil') parts.push(`filed ${F.from}–${F.to}`);
   if (F.offices.size) parts.push('at ' + [...F.offices].join(', '));
+  if (F.route.size === 1) parts.push(F.route.has(1) ? 'PCT route' : 'direct filings');
   if (F.jur.size) parts.push('family also at ' + [...F.jur].join(' or '));
   if (F.cpc.size) parts.push([...F.cpc].map(i => CPCSUB[i]).join(' or '));
   if (F.min != null || F.max != null) parts.push(`${F.measure === 'fams' ? 'families' : 'applications'} per applicant ${F.min ?? 1}–${F.max ?? '∞'}`);
@@ -1151,14 +1156,14 @@ function renderMethod() {
 <p><b>Source.</b> ${esc(D.meta.source)}. Queried ${esc(D.meta.queried)}. Every figure is recomputed in the browser from the ${fmt(N)} application records and ${fmt(NA)} applicant groups in <span class="mono">data/</span>. Latest publication in the data: EP ${esc(D.meta.latest.EP)}, DE ${esc(D.meta.latest.DE)}, FR ${esc(D.meta.latest.FR)}, GB ${esc(D.meta.latest.GB)}.</p>
 <p>This dashboard uses the same front end as the <a href="https://fini96.github.io/PatentScreen-Semiconductors-Quantum/" target="_blank" rel="noopener">CNIPA &amp; TIPO atlas</a>: identical map, colours, location rules and charts. The datasets are not combined, and the two technology taxonomies differ (see below).</p>
 <h3>Dataset</h3>
-<p>Patent applications first published between 1 Nov 2024 and the data cut-off at the European Patent Office or a national office of the 39 EPO member states, excluding every application filed via the PCT route. Selected by CPC: H10D, H10B, H10W, H10P, H10N60, G06N10, G06F30/39 and B82Y10 (with a quantum keyword); LED, solar-cell and OLED filings (H10H, H10F, H10K) without a device or quantum code are excluded. Italian national records end in December 2025 and British records thin out in 2026.</p>
+<p>Patent applications first published between 1 Nov 2024 and the data cut-off at the European Patent Office or a national office of the 39 EPO member states, on both filing routes: <b>direct filings</b> and <b>PCT-route</b> applications entering the European phase (Euro-PCT, dated at their first EP-office record, about 34 months after priority) or a German national phase (DE 11 2 numbers). An application is PCT route if any of its records carries a PCT number, it has an EP A4 supplementary search report, or it has a DE 11 2 number. Use the <i>Filing route</i> filter to show direct filings only (the earlier version of this atlas) or the PCT route only. Selected by CPC: H10D, H10B, H10W, H10P, H10N60, G06N10, G06F30/39 and B82Y10 (with a quantum keyword); LED, solar-cell and OLED filings (H10H, H10F, H10K) without a device or quantum code are excluded. Italian national records end in December 2025 and British records thin out in 2026.</p>
 <h3>What is counted</h3>
 <ul><li><b>Applications</b>: each application counted once (later publications of the same application merged).</li>
 <li><b>Families</b>: distinct DOCDB family IDs among the filtered applications.</li>
 <li><b>Co-applicants</b>: <i>full count</i> credits an application to every co-applicant; <i>fractional</i> credits 1/n to each of n applicant groups. Dataset, country and type totals always count each application once.</li>
 <li><b>Technology</b>: the EP study taxonomy of 61 categories, shown here in 7 groups (transistors, materials, memory, integration, design, quantum, processes). Applications flagged in a group by CPC without matching a specific category are listed as “Other … (no sub-category)” so that group totals are complete. This taxonomy is <b>not</b> the 65-category taxonomy of the CNIPA &amp; TIPO study; compare technology results between the two only through a mapping.</li></ul>
 <h3>Applicants</h3>
-<p>Names follow the study's grouping: 51 rules merge name variants and subsidiaries under a parent (e.g. all Infineon entities). <b>Startups</b> are only identified for the Wikidata-verified groups (about the 60 largest): founded 2015 or later, no parent organisation, not a carve-out. All other companies are shown as “Company”. <b>Private inventors</b> are natural persons named as applicants whose name matches an inventor on the same application.</p>
+<p>Names follow the study's grouping: 88 rules merge name variants and subsidiaries under a parent (e.g. all Infineon entities). <b>Startups</b> are only identified for the Wikidata-verified groups (about the 60 largest): founded 2015 or later, no parent organisation, not a carve-out. All other companies are shown as “Company”. <b>Private inventors</b> are natural persons named as applicants whose name matches an inventor on the same application.</p>
 <h3>Applicant locations</h3>
 <p>The unit that is located is the <b>applicant name on the filing</b> (the legal entity, e.g. “Infineon Technologies Austria AG”), so a subsidiary is placed at its own address and never inherits its parent's headquarters. A group whose filing entities sit in different places has one dot per place (${fmt(nSites)} places for ${fmt(NA)} groups; ${fmt(multi)} groups have several). The group's main location shown in lists is the place of its largest filing entity. Sources, in order of preference (verified ${esc(D.meta.geo_verified)}):</p>
 <ol><li><b>Wikidata</b>: the organisation's headquarters statement (P159) with its coordinate qualifier where given, otherwise the headquarters town; for organisations without P159 their own coordinates (P625). A match must be an organisation in the applicant's country and not a broader parent name (e.g. “LG Group” for “LG Electronics”).</li>
@@ -1177,7 +1182,8 @@ function renderMethod() {
 <p>MapLibre GL JS (bundled) with OpenStreetMap vector tiles from OpenFreeMap (no API key). If those tiles cannot be loaded, the map falls back to Natural Earth 1:10m borders, provincial boundaries and cities shipped with the site; country shading uses the Natural Earth 1:10m polygons.</p>
 <p><b>Mode B (inventor location)</b> uses the inventor countries in Google's harmonised inventor data (country only). <b>Mode C (filing jurisdiction)</b> uses family members at EP, US, JP, KR, WO, CN and TW${FAMJUR ? '' : ' (look-up not loaded in this build)'}; EP and WO are never treated as a country of origin.</p>
 <h3>Limitations</h3>
-<ul><li>Excluding PCT removes most filings of PCT-heavy applicants (e.g. Qualcomm, Applied Materials, Quantinuum), so the map shows direct European filing activity.</li>
+<ul><li>PCT-route applications reach Europe about 31–34 months after priority, so in the same publication window they describe inventions about a year older than direct filings (median filing date Nov 2023 vs Sep 2024).</li>
+<li>Applicant types are verified through Wikidata only for the largest groups; startups are therefore only flagged among those.</li>
 <li>City-level locations are city centres; a company may have moved since its US patents were granted (until 2021).</li>
 <li>About 40% of institutional filing entities, carrying about 10% of applicant mentions, could not be located below country level; most are small applicants with one or two filings.</li>
 <li>Most frequent CPC groups and the “selected publications” list are stored per applicant without filters; everything else follows the filters.</li></ul>`;

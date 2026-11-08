@@ -1,6 +1,6 @@
 ## Semiconductor Patent Atlas · EPO & European national offices
 
-An interactive map and analytics dashboard of **8,062 semiconductor and quantum-technology patent applications** (7,560 families). They were first published at the European Patent Office (EP) or a national office of the 39 EPO member states between 1 Nov 2024 and the data cut-off (latest publication: EP 16 Sep 2026, DE 24 Sep 2026). PCT filings are excluded. Applicant locations are verified.
+An interactive map and analytics dashboard of **13,637 semiconductor and quantum-technology patent applications** (12,747 families). They were first published at the European Patent Office (EP) or a national office of the 39 EPO member states between 1 Nov 2024 and the data cut-off (latest publication: EP 16 Sep 2026, DE 24 Sep 2026). Both filing routes are included: 8,030 direct filings and 5,607 PCT-route applications (Euro-PCT and German national phase), separable with the *Filing route* filter. Applicant locations are verified.
 
 The dashboard uses **the same front end as the [CNIPA & TIPO atlas](https://fini96.github.io/PatentScreen-Semiconductors-Quantum/)**: the same map, colours, legend, filters, charts, comparison and methodology layout, and the same `applicant_locations.json` fields. Only the data and a few EP-specific settings differ:
 
@@ -12,7 +12,7 @@ The datasets are not combined.
 
 It is a static website: no backend, no database, no API keys.
 
-The written study report is in [`report/`](report/) as [PDF](report/EP-semiconductor-quantum-patents-2024-2026.pdf) (with charts) and [Markdown](report/EP-semiconductor-quantum-patents-2024-2026.md) (text and tables; the two embedded charts are only in the PDF).
+The written study report (EP study) is a separate document.
 
 ### Run locally
 
@@ -24,9 +24,12 @@ python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-### GitHub Pages
+### Publish on GitHub Pages
 
-This folder lives in the `ep/` subfolder of the CNIPA & TIPO repository and is served with it: `https://fini96.github.io/PatentScreen-Semiconductors-Quantum/ep/`. All paths are relative, so the folder also works on its own at the root of another repository (keep `.nojekyll`).
+1. Create a repository and copy the contents of this folder to its root. Keep `.nojekyll`.
+2. Commit and push: `git add . && git commit -m "Semiconductor Patent Atlas EP" && git push`
+3. On GitHub, open **Settings → Pages → Build and deployment → Source: Deploy from a branch** and choose branch `main`, folder `/ (root)`.
+4. The site appears at `https://<user>.github.io/<repository>/` after a minute.
 
 ### Map and basemap
 
@@ -40,10 +43,10 @@ This folder lives in the `ep/` subfolder of the CNIPA & TIPO repository and is s
 |---|---|
 | `index.html`, `assets/app.js` | Dashboard page and logic (shared front end, configured for the EP study) |
 | `data/dashboard.json` | Applicants (names, type, country, counts), taxonomy, locations, filing-entity places (`sites`), metadata |
-| `data/docs.txt` | One compact line per application: office, month, filing year, family, categories, family jurisdictions, CPC subclasses, applicant IDs, inventor countries, places |
+| `data/docs.txt` | One compact line per application: office, month, filing year, family, categories, family jurisdictions, CPC subclasses, applicant IDs, inventor countries, places, filing route (0 direct, 1 PCT) |
 | `data/applicant_locations.json` | **Geographic enrichment.** One record per applicant ID, with the same fields as the CNIPA & TIPO atlas (city, province, coordinates, precision, site type, source URL, source type, confidence, date verified, evidence). Also the places and filing entities of each group |
 | `data/applicants.csv` | Applicant table (ID, names, type, country, applications, families, top CPC groups, location, number of places) |
-| `data/publications.csv` | One row per application: publication number, office, dates, family, categories, family offices, CPC subclasses, applicant IDs, inventor countries |
+| `data/publications.csv` | One row per application: publication number, office, dates, family, categories, family offices, CPC subclasses, applicant IDs, inventor countries, filing route |
 | `data/technology_taxonomy.csv` | The 61 EP study categories in 7 groups, plus "other … (no sub-category)" entries |
 | `data/unverified_locations.csv` | Applicants without a verified city-level location |
 | `data/countries.geojson`, `data/basemap/*` | Map geometry (Natural Earth, identical to the CNIPA & TIPO atlas) |
@@ -56,16 +59,17 @@ This folder lives in the `ep/` subfolder of the CNIPA & TIPO repository and is s
 ### Rebuild
 
 1. Export these tables from BigQuery (project `patent-study-513418`) as CSV:
-   - `patent_study.dashboard_export`
-   - `patent_study.loc_export`
+   - `patent_study.dashboard_export2` (incl. PCT route)
+   - `patent_study.loc_export2`
    - `patent_study.map_export`
-   - `patent_study.fam_jur`
+   - `patent_study.fam_jur2`
 2. Run:
 
 ```bash
 python3 src/build_data.py dashboard_export.csv loc_export.csv map_export.csv build/
 python3 src/build_atlas.py build/ <CN/TW atlas folder> . fam_jur.csv
 python3 src/patch_frontend.py <CN/TW atlas folder>/assets/app.js assets/app.js src/method_ep.js
+python3 src/patch_route.py assets/app.js   # index.html already carries the route chips
 python3 src/gen_geo_report.py . build/
 ```
 
