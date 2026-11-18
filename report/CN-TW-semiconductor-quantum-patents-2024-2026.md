@@ -1,6 +1,6 @@
 # Semiconductor & Quantum Patents in CN and TW (2024–2026)
 
-Nov 4, 2026 · @fini
+Nov 4, 2026 (updated Nov 18, 2026) · @fini
 
 ## 1. Executive summary
 
@@ -363,6 +363,8 @@ The dataset holds no applicant address. These 50 applicants cover 18,597 filings
 | Sichuan, Liaoning, Fujian, Chongqing, Gansu | 1,461 | UESTC, Piotech, Sanan/Jinhua, Chongqing Xinlian, Huatian |
 
 ### g) Who drives leading-edge logic and advanced packaging in CN
+
+Since 2022, export controls have restricted China's access to the equipment needed for the most advanced manufacturing nodes. Advanced packaging, which combines several chips in one package and has become a bottleneck for AI accelerators, offers another way to gain performance, so this section asks in which of the two areas Chinese applicants are growing.
 
 The fastest-growing CN categories (section 8) are driven by different applicants than the leading-edge transistor categories. The table splits CN filings by the country of the first-named applicant (same origin rules as above) and compares the like-for-like windows (Nov 2024–Aug 2025 vs Nov 2025–Aug 2026). "Academic" = at least one university or research institute among the applicants, whole window.
 
