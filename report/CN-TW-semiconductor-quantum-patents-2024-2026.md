@@ -8,7 +8,7 @@ Nov 4, 2026 (updated Nov 18, 2026) · @fini
 
 *Data findings*
 
-- **The corpus is far larger than the EP-style scope suggests.** Adding IPC to CPC and including the new 2026 subclasses H10P (processes) and H10W (packaging/interconnect) raises the CN corpus from 52,987 to 80,062 (+51%) and TW from 13,650 to 19,484 (+43%). With the legacy scope, CN would show a false 46% collapse in Q1 2026.
+- **The corpus is far larger than a legacy, CPC-only scope suggests.** Adding IPC to CPC and including the new 2026 subclasses H10P (processes) and H10W (packaging/interconnect) raises the CN corpus from 52,987 to 80,062 (+51%) and TW from 13,650 to 19,484 (+43%). With the legacy scope, CN would show a false 46% collapse in Q1 2026.
 - **Largest technology fields (CN):** wafer handling & process apparatus 晶圆传输与工艺装置 (18,596), package substrates & leadframes 封装基板与引线框架 (8,611), deposition & epitaxy 薄膜沉积与外延 (7,607), bumps/wire bonds 凸块/引线键合 (7,193), encapsulation 塑封 (7,094). TW has the same top tier, led by wafer handling (5,659) and deposition (3,829).
 - **Fastest-growing (CN, like-for-like Y1→Y2, full text):** 3D stacking 三维堆叠 +98%, chiplets/2.5D/interposer 芯粒/中介层 +94%, hybrid bonding 混合键合 +82%, glass substrates/TGV 玻璃基板/玻璃通孔 +82%, wafer bonding & layer transfer +48%, fan-out packaging 扇出型封装 +38%. Advanced packaging is the clear growth front, and it is driven by Chinese applicants: their hybrid-bonding filings rose from 114 to 417, while their GAA filings fell from 100 to 85 (section 7g).
 - **Top players.** CN: Samsung (3,410), Hua Hong (1,454), TSMC (1,201), Chinese Academy of Sciences (1,182), BOE (1,135), Applied Materials (951), Tokyo Electron (909), YMTC (893), Huawei (888). TW: TSMC (2,083), Applied Materials (1,252), Tokyo Electron (1,042), Samsung (1,026), Nanya (550).
@@ -30,10 +30,10 @@ The corpus covers invention patents (kind A/B) whose first publication falls bet
 | Invention publications (applications) | 80,062 | 19,484 (A 17,231 · B 2,253) |
 | Distinct families | 79,118 | 18,824 |
 | PCT national phase | 9,524 (11.9%) | 0 (Taiwan is not a PCT state) |
-| PCT-excluded variant (EP-comparable): applications / families | 70,538 / 69,783 | 19,484 / 18,824 |
+| PCT-excluded variant (direct filings only): applications / families | 70,538 / 69,783 | 19,484 / 18,824 |
 | Utility models, same scope (separate line, not in totals) | 18,288 (CN U, 实用新型) | 839 (TW U, 新型) |
 | Selected only via IPC (no CPC match) | 28,982 (36.2%) | 3,967 (20.4%) |
-| Would be in the EP-study (legacy) scope | 52,987 | 13,650 |
+| Would be in a legacy scope (CPC only, without H10P/H10W) | 52,987 | 13,650 |
 | Abstract retrieved in the second run (4 Nov 2026) | 23,072 (28.8%) | 3,866 (19.8%) |
 | Family also filed at EP / US / JP / KR | 19,783 (24.7%) | 13,296 (68.2%) |
 | Family also filed at EP | 5,002 (6.2%) | 2,284 (11.7%) |
@@ -42,10 +42,10 @@ The corpus covers invention patents (kind A/B) whose first publication falls bet
 
 **Kind codes.** CN first publications are almost all A (one B). CN U utility models are reported separately. TW has A, B (grants without prior A publication), U/M utility models and S designs (excluded).
 
-**Why the corpus differs from the EP-style scope.** Two data facts force deviations, which are applied to both offices:
+**Why the scope goes beyond a legacy H01L study.** Two data facts shape the scope, applied to both offices:
 
 1. 31.6% of all CN invention publications in the window carry no CPC at all, and CPC on CN documents is a partial mapping. IPC is 100% populated, so selection uses **CPC ∪ IPC**.
-2. From 2026 the data carries the new subclasses **H10P** (generic processes, successor of H01L 21/) and **H10W** (packages, interconnects, isolation, successor of H01L 23/25). CN documents carry no H01L at all from January 2026. Both subclasses were added to the core scope. Note: the EP prompt's regex misses them too and will under-count 2026.
+2. From 2026 the data carries the new subclasses **H10P** (generic processes, successor of H01L 21/) and **H10W** (packages, interconnects, isolation, successor of H01L 23/25). CN documents carry no H01L at all from January 2026. Both subclasses were added to the core scope. The EP study uses the same updated code list.
 
 ## 3. Technology rankings
 
@@ -435,7 +435,7 @@ The two offices show opposite profiles. Mainland filings over-weight quantum (10
 | Family also at EP/US/JP/KR | 24.7% | 68.2% |
 | Overall volume change (like-for-like) | +2.5% | −11% (not robust) |
 
-The EP column foreseen in the prompt is left out on purpose: you asked to keep the two studies separate for now. The same core scope (PCT-excluded CN variant: 70,538 applications) allows the comparison once the EP study is run, ideally with H10P/H10W added there too.
+A comparison with European filings is in the separate EP study (`ep/`), which uses the same core code list including H10P/H10W and also counts PCT-route filings. Technology results are comparable only through a mapping, because the taxonomies differ (65 categories here, 61 in the EP study), and the studies date PCT filings differently (see section 11).
 
 ## 10. Interpretation (not data)
 
@@ -443,7 +443,7 @@ The EP column foreseen in the prompt is left out on purpose: you asked to keep t
 
 **Technological self-reliance (自主可控).** Domestic tool makers are visible in the categories where substitution is feasible. Naura is #2 in CN wafer handling (608), and Piotech is #2 in CN CVD/ALD (319). The extension category of wafer handling apparatus grew +51%. In etching, deposition and CMP, however, Tokyo Electron and Applied Materials still lead. In lithography tools the leader is ASML (497), followed by the Chinese Academy of Sciences (358) rather than a domestic company; SMEE does not reach the top lists. This suggests substitution is advancing in handling, deposition and cleaning, while lithography remains a research-institute effort.
 
-**Export-control effects.** Leading-edge logic architectures are a small share of CN filings: GAA 392, CFET 382, FinFET 155. They are carried largely by CAS, universities and foreign filers (Samsung, Intel, Qualcomm). Meanwhile mature-node and specialty fabs grow fast: Hua Hong +30%, Nexchip +78%, YMTC +29%. SMIC declines (−17%). Advanced packaging (3D stacking +98%, chiplets +94%, hybrid bonding +82%) is the strongest growth area. Huawei's profile is dominated by substrates, thermal management and encapsulation rather than transistor design. The split by applicant origin (section 7g) sharpens this: Chinese applicants' GAA and CFET filings were flat or falling (GAA 100 → 85), while their hybrid-bonding filings nearly quadrupled (114 → 417, led by YMTC) and Taiwanese applicants' hybrid-bonding filings in CN fell (64 → 35). The catch-up visible in the data is in packaging, not in transistors. Together this is consistent with system-level integration as a route around node limits, though patent data alone cannot prove that intent.
+**Export-control effects.** Leading-edge logic architectures are a small share of CN filings: GAA 396, CFET 392, FinFET 156. They are carried largely by CAS, universities and foreign filers (Samsung, Intel, Qualcomm). Meanwhile mature-node and specialty fabs grow fast: Hua Hong +30%, Nexchip +78%, YMTC +29%. SMIC declines (−17%). Advanced packaging (3D stacking +98%, chiplets +94%, hybrid bonding +82%) is the strongest growth area. Huawei's profile is dominated by substrates, thermal management and encapsulation rather than transistor design. The split by applicant origin (section 7g) sharpens this: Chinese applicants' GAA and CFET filings were flat or falling (GAA 100 → 85), while their hybrid-bonding filings nearly quadrupled (114 → 417, led by YMTC) and Taiwanese applicants' hybrid-bonding filings in CN fell (64 → 35). The catch-up visible in the data is in packaging, not in transistors. Together this is consistent with system-level integration as a route around node limits, though patent data alone cannot prove that intent.
 
 **Quantum as a state-coordinated ecosystem.** Mainland quantum filings are 91% domestic and 39% academic, concentrated in the Hefei cluster (Origin Quantum, USTC, Hefei National Laboratory, China Telecom Quantum) and among state-owned operators (State Grid, China Mobile, China Telecom). QKD filings fell (−34%) while computing grew (+21%), which may indicate a shift in emphasis from secure communication to computation. Photonic (+340%) and neutral-atom (+74%) approaches are new entrants. Taiwan has almost no domestic quantum patenting (ITRI 5); its quantum filings come from foreign start-ups.
 
@@ -511,12 +511,15 @@ The two queries refused for quota in the first run were run on 4 Nov under the a
 
 ### Deviations from the EP study
 
-1. PCT entries kept and flagged (EP excluded them). A PCT-excluded CN variant is reported.
-2. CPC ∪ IPC instead of CPC only.
-3. H10P and H10W added to the core scope.
-4. Quantum keyword net and the stricter B82Y10 rule.
-5. Matched windows for Y1 vs Y2 instead of full years, because of the data cut-off.
-6. Extension domains (quantum comm./sensing, equipment) reported separately.
+Both studies now share the core code list (including H10P and H10W), count PCT-route filings, use like-for-like ten-month windows for Y1 vs Y2 and apply the stricter B82Y10 rule. The remaining differences:
+
+1. **PCT dating.** Here a PCT application counts at its CN national-phase publication (TW is not a PCT state). The EP study counts a Euro-PCT application at its first EP-office record (European-phase entry). Both studies report a PCT-excluded variant.
+2. **CPC ∪ IPC instead of CPC only**, because 31.6% of CN documents carry no CPC. European documents carry CPC, so the EP study selects by CPC alone.
+3. **Taxonomy:** 65 categories in 12 groups here, 61 in 7 groups in the EP study; technology results need a mapping for comparison.
+4. **Emerging-technology rule:** ≥ +40% and ≥ 40 CN or ≥ 20 TW applications in the later window (EP study: ≥ 20).
+5. **Extension domains** (quantum communication and sensing, equipment) are reported here only.
+6. **Geography:** CN regions are inferred from the headquarters of the top 50 domestic applicants; the EP study verifies a location for every filing entity.
+7. **Text:** keywords in English and Chinese here (English, German and French in the EP study); machine-generated `top_terms` are reported here only.
 
 ### Known gaps
 
@@ -527,4 +530,4 @@ The two queries refused for quota in the first run were run on 4 Nov under the a
 - Extension-domain figures (quantum comm./sensing, equipment) were re-checked on full text in the second run and are unchanged.
 - The full per-application list (99,546 rows, all CSV columns requested, plus `top_terms`) is in BigQuery as `patent-study-513418.cntw_study.application_list` (≈150 MB). It cannot be pulled through this session: the BigQuery connection returns rows into the conversation, and a file export needs a Cloud Storage login the session does not have. Export it from the BigQuery console: open the table → Export → Export to GCS (CSV), or query it and use Save results → Google Drive.
 
-As-of: data queried 3 Nov 2026; abstracts, machine translations and top\_terms added and all figures recomputed on 4 Nov 2026.
+As-of: data queried 3 Nov 2026; abstracts, machine translations and top\_terms added and all figures recomputed on 4 Nov 2026. Section 7g and the comparison notes added on 17–18 Nov 2026 from the same study tables.
